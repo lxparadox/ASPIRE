@@ -1,0 +1,2158 @@
+geneID,genename,Description,taxid,species,time_added_to_KG,support_evidence
+10,NAT2,N-acetyltransferase 2,9606,Homo sapiens,20200512,1
+12,SERPINA3,serpin family A member 3,9606,Homo sapiens,20200512,1
+19,ABCA1,ATP binding cassette subfamily A member 1,9606,Homo sapiens,20250220,1
+25,ABL1,"ABL proto-oncogene 1, non-receptor tyrosine kinase",9606,Homo sapiens,20200512,3
+37,ACADVL,acyl-CoA dehydrogenase very long chain,9606,Homo sapiens,20250220,1
+39,ACAT2,acetyl-CoA acetyltransferase 2,9606,Homo sapiens,20250220,2
+43,ACHE,acetylcholinesterase (Yt blood group),9606,Homo sapiens,20200512,2
+48,ACO1,aconitase 1,9606,Homo sapiens,20200512,1
+58,ACTA1,"actin alpha 1, skeletal muscle",9606,Homo sapiens,20250220,1
+60,ACTB,actin beta,9606,Homo sapiens,20200512,4
+71,ACTG1,actin gamma 1,9606,Homo sapiens,20200512,2
+90,ACVR1,activin A receptor type 1,9606,Homo sapiens,20250220,1
+94,ACVRL1,activin A receptor like type 1,9606,Homo sapiens,20200512,1
+102,ADAM10,ADAM metallopeptidase domain 10,9606,Homo sapiens,20250220,1
+103,ADAR,adenosine deaminase RNA specific,9606,Homo sapiens,20250220,1
+136,ADORA2B,adenosine A2b receptor,9606,Homo sapiens,20250220,1
+142,PARP1,poly(ADP-ribose) polymerase 1,9606,Homo sapiens,20200512,94
+143,PARP4,poly(ADP-ribose) polymerase family member 4,9606,Homo sapiens,20250220,2
+154,ADRB2,adrenoceptor beta 2,9606,Homo sapiens,20250220,2
+156,GRK2,G protein-coupled receptor kinase 2,9606,Homo sapiens,20250220,1
+174,AFP,alpha fetoprotein,9606,Homo sapiens,20250220,2
+177,AGER,advanced glycosylation end-product specific receptor,9606,Homo sapiens,20250220,1
+183,AGT,angiotensinogen,9606,Homo sapiens,20200512,1
+196,AHR,aryl hydrocarbon receptor,9606,Homo sapiens,20200512,1
+207,AKT1,AKT serine/threonine kinase 1,9606,Homo sapiens,20200512,39
+213,ALB,albumin,9606,Homo sapiens,20200512,5
+216,ALDH1A1,aldehyde dehydrogenase 1 family member A1,9606,Homo sapiens,20250220,1
+220,ALDH1A3,aldehyde dehydrogenase 1 family member A3,9606,Homo sapiens,20250220,2
+226,ALDOA,"aldolase, fructose-bisphosphate A",9606,Homo sapiens,20250220,1
+231,AKR1B1,aldo-keto reductase family 1 member B,9606,Homo sapiens,20250220,1
+238,ALK,ALK receptor tyrosine kinase,9606,Homo sapiens,20250220,1
+246,ALOX15,arachidonate 15-lipoxygenase,9606,Homo sapiens,20250220,1
+250,ALPP,"alkaline phosphatase, placental",9606,Homo sapiens,20250220,4
+283,ANG,angiogenin,9606,Homo sapiens,20250220,2
+284,ANGPT1,angiopoietin 1,9606,Homo sapiens,20200512,1
+287,ANK2,ankyrin 2,9606,Homo sapiens,20250220,2
+292,SLC25A5,solute carrier family 25 member 5,9606,Homo sapiens,20250220,1
+301,ANXA1,annexin A1,9606,Homo sapiens,20200512,1
+308,ANXA5,annexin A5,9606,Homo sapiens,20200512,6
+317,APAF1,apoptotic peptidase activating factor 1,9606,Homo sapiens,20250220,1
+324,APC,APC regulator of WNT signaling pathway,9606,Homo sapiens,20200512,2
+328,APEX1,apurinic/apyrimidinic endodeoxyribonuclease 1,9606,Homo sapiens,20200512,11
+329,BIRC2,baculoviral IAP repeat containing 2,9606,Homo sapiens,20250220,1
+330,BIRC3,baculoviral IAP repeat containing 3,9606,Homo sapiens,20200512,1
+331,XIAP,X-linked inhibitor of apoptosis,9606,Homo sapiens,20200512,2
+332,BIRC5,baculoviral IAP repeat containing 5,9606,Homo sapiens,20200512,1
+347,APOD,apolipoprotein D,9606,Homo sapiens,20250220,1
+348,APOE,apolipoprotein E,9606,Homo sapiens,20200512,6
+351,APP,amyloid beta precursor protein,9606,Homo sapiens,20250220,7
+353,APRT,adenine phosphoribosyltransferase,9606,Homo sapiens,20200512,2
+354,KLK3,kallikrein related peptidase 3,9606,Homo sapiens,20250220,1
+355,FAS,Fas cell surface death receptor,9606,Homo sapiens,20200512,3
+356,FASLG,Fas ligand,9606,Homo sapiens,20200512,2
+361,AQP4,aquaporin 4,9606,Homo sapiens,20250220,1
+367,AR,androgen receptor,9606,Homo sapiens,20200512,19
+387,RHOA,ras homolog family member A,9606,Homo sapiens,20200512,2
+388,RHOB,ras homolog family member B,9606,Homo sapiens,20200512,4
+389,RHOC,ras homolog family member C,9606,Homo sapiens,20250220,1
+397,ARHGDIB,Rho GDP dissociation inhibitor beta,9606,Homo sapiens,20250220,4
+415,ARSL,arylsulfatase L,9606,Homo sapiens,20200512,1
+427,ASAH1,N-acylsphingosine amidohydrolase 1,9606,Homo sapiens,20200512,2
+440,ASNS,asparagine synthetase (glutamine-hydrolyzing),9606,Homo sapiens,20250220,1
+467,ATF3,activating transcription factor 3,9606,Homo sapiens,20200512,3
+468,ATF4,activating transcription factor 4,9606,Homo sapiens,20250220,2
+471,ATIC,5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase,9606,Homo sapiens,20250220,1
+472,ATM,ATM serine/threonine kinase,9606,Homo sapiens,20200512,108
+473,RERE,arginine-glutamic acid dipeptide repeats,9606,Homo sapiens,20250220,1
+528,ATP6V1C1,ATPase H+ transporting V1 subunit C1,9606,Homo sapiens,20250220,1
+538,ATP7A,ATPase copper transporting alpha,9606,Homo sapiens,20250220,1
+545,ATR,ATR serine/threonine kinase,9606,Homo sapiens,20200512,44
+546,ATRX,ATRX chromatin remodeler,9606,Homo sapiens,20200512,3
+558,AXL,AXL receptor tyrosine kinase,9606,Homo sapiens,20250220,1
+573,BAG1,BAG cochaperone 1,9606,Homo sapiens,20250220,1
+578,BAK1,BCL2 antagonist/killer 1,9606,Homo sapiens,20200512,5
+580,BARD1,BRCA1 associated RING domain 1,9606,Homo sapiens,20200512,6
+581,BAX,"BCL2 associated X, apoptosis regulator",9606,Homo sapiens,20200512,19
+595,CCND1,cyclin D1,9606,Homo sapiens,20200512,11
+596,BCL2,BCL2 apoptosis regulator,9606,Homo sapiens,20200512,28
+598,BCL2L1,BCL2 like 1,9606,Homo sapiens,20200512,20
+599,BCL2L2,BCL2 like 2,9606,Homo sapiens,20250220,2
+604,BCL6,BCL6 transcription repressor,9606,Homo sapiens,20250220,1
+613,BCR,BCR activator of RhoGEF and GTPase,9606,Homo sapiens,20200512,1
+648,BMI1,"BMI1 proto-oncogene, polycomb ring finger",9606,Homo sapiens,20200512,12
+649,BMP1,bone morphogenetic protein 1,9606,Homo sapiens,20200512,2
+650,BMP2,bone morphogenetic protein 2,9606,Homo sapiens,20200512,4
+660,BMX,BMX non-receptor tyrosine kinase,9606,Homo sapiens,20200512,1
+664,BNIP3,BCL2 interacting protein 3,9606,Homo sapiens,20250220,1
+665,BNIP3L,BCL2 interacting protein 3 like,9606,Homo sapiens,20250220,1
+672,BRCA1,BRCA1 DNA repair associated,9606,Homo sapiens,20200512,34
+673,BRAF,"B-Raf proto-oncogene, serine/threonine kinase",9606,Homo sapiens,20200512,7
+675,BRCA2,BRCA2 DNA repair associated,9606,Homo sapiens,20200512,17
+682,BSG,basigin (Ok blood group),9606,Homo sapiens,20250220,6
+699,BUB1,BUB1 mitotic checkpoint serine/threonine kinase,9606,Homo sapiens,20250220,1
+701,BUB1B,BUB1 mitotic checkpoint serine/threonine kinase B,9606,Homo sapiens,20250220,2
+706,TSPO,translocator protein,9606,Homo sapiens,20200512,2
+710,SERPING1,serpin family G member 1,9606,Homo sapiens,20250220,1
+718,C3,complement C3,9606,Homo sapiens,20250220,2
+720,C4A,complement C4A (Chido/Rodgers blood group),9606,Homo sapiens,20250220,2
+768,CA9,carbonic anhydrase 9,9606,Homo sapiens,20200512,5
+811,CALR,calreticulin,9606,Homo sapiens,20200512,8
+813,CALU,calumenin,9606,Homo sapiens,20250220,1
+815,CAMK2A,calcium/calmodulin dependent protein kinase II alpha,9606,Homo sapiens,20200512,1
+818,CAMK2G,calcium/calmodulin dependent protein kinase II gamma,9606,Homo sapiens,20200512,1
+820,CAMP,cathelicidin antimicrobial peptide,9606,Homo sapiens,20200512,2
+834,CASP1,caspase 1,9606,Homo sapiens,20200512,4
+835,CASP2,caspase 2,9606,Homo sapiens,20200512,1
+836,CASP3,caspase 3,9606,Homo sapiens,20200512,33
+840,CASP7,caspase 7,9606,Homo sapiens,20250220,3
+841,CASP8,caspase 8,9606,Homo sapiens,20200512,9
+842,CASP9,caspase 9,9606,Homo sapiens,20200512,8
+847,CAT,catalase,9606,Homo sapiens,20200512,7
+857,CAV1,caveolin 1,9606,Homo sapiens,20200512,4
+861,RUNX1,RUNX family transcription factor 1,9606,Homo sapiens,20250220,2
+864,RUNX3,RUNX family transcription factor 3,9606,Homo sapiens,20250220,1
+871,SERPINH1,serpin family H member 1,9606,Homo sapiens,20200512,5
+887,CCKBR,cholecystokinin B receptor,9606,Homo sapiens,20250220,1
+890,CCNA2,cyclin A2,9606,Homo sapiens,20200512,1
+891,CCNB1,cyclin B1,9606,Homo sapiens,20250220,3
+898,CCNE1,cyclin E1,9606,Homo sapiens,20200512,1
+899,CCNF,cyclin F,9606,Homo sapiens,20250220,1
+900,CCNG1,cyclin G1,9606,Homo sapiens,20250220,1
+902,CCNH,cyclin H,9606,Homo sapiens,20200512,2
+914,CD2,CD2 molecule,9606,Homo sapiens,20200512,1
+920,CD4,CD4 molecule,9606,Homo sapiens,20200512,5
+925,CD8A,CD8 subunit alpha,9606,Homo sapiens,20250220,7
+930,CD19,CD19 molecule,9606,Homo sapiens,20250220,1
+931,MS4A1,membrane spanning 4-domains A1,9606,Homo sapiens,20200512,2
+940,CD28,CD28 molecule,9606,Homo sapiens,20250220,2
+945,CD33,CD33 molecule,9606,Homo sapiens,20200512,1
+947,CD34,CD34 molecule,9606,Homo sapiens,20250220,3
+948,CD36,CD36 molecule (CD36 blood group),9606,Homo sapiens,20200512,2
+949,SCARB1,scavenger receptor class B member 1,9606,Homo sapiens,20250220,1
+952,CD38,CD38 molecule,9606,Homo sapiens,20250220,2
+958,CD40,CD40 molecule,9606,Homo sapiens,20200512,1
+960,CD44,CD44 molecule (IN blood group),9606,Homo sapiens,20250220,5
+961,CD47,CD47 molecule,9606,Homo sapiens,20250220,2
+966,CD59,CD59 molecule (CD59 blood group),9606,Homo sapiens,20200512,3
+967,CD63,CD63 molecule,9606,Homo sapiens,20250220,1
+968,CD68,CD68 molecule,9606,Homo sapiens,20250220,1
+969,CD69,CD69 molecule,9606,Homo sapiens,20200512,1
+983,CDK1,cyclin dependent kinase 1,9606,Homo sapiens,20200512,6
+990,CDC6,cell division cycle 6,9606,Homo sapiens,20200512,1
+991,CDC20,cell division cycle 20,9606,Homo sapiens,20250220,2
+993,CDC25A,cell division cycle 25A,9606,Homo sapiens,20200512,3
+994,CDC25B,cell division cycle 25B,9606,Homo sapiens,20200512,1
+995,CDC25C,cell division cycle 25C,9606,Homo sapiens,20200512,1
+999,CDH1,cadherin 1,9606,Homo sapiens,20200512,10
+1000,CDH2,cadherin 2,9606,Homo sapiens,20200512,4
+1003,CDH5,cadherin 5,9606,Homo sapiens,20250220,4
+1017,CDK2,cyclin dependent kinase 2,9606,Homo sapiens,20200512,1
+1019,CDK4,cyclin dependent kinase 4,9606,Homo sapiens,20200512,4
+1020,CDK5,cyclin dependent kinase 5,9606,Homo sapiens,20200512,1
+1021,CDK6,cyclin dependent kinase 6,9606,Homo sapiens,20250220,1
+1022,CDK7,cyclin dependent kinase 7,9606,Homo sapiens,20250220,3
+1026,CDKN1A,cyclin dependent kinase inhibitor 1A,9606,Homo sapiens,20200512,17
+1028,CDKN1C,cyclin dependent kinase inhibitor 1C,9606,Homo sapiens,20250220,1
+1029,CDKN2A,cyclin dependent kinase inhibitor 2A,9606,Homo sapiens,20200512,13
+1040,CDS1,CDP-diacylglycerol synthase 1,9606,Homo sapiens,20200512,1
+1051,CEBPB,CCAAT enhancer binding protein beta,9606,Homo sapiens,20250220,1
+1058,CENPA,centromere protein A,9606,Homo sapiens,20250220,1
+1060,CENPC,centromere protein C,9606,Homo sapiens,20250220,1
+1062,CENPE,centromere protein E,9606,Homo sapiens,20250220,1
+1063,CENPF,centromere protein F,9606,Homo sapiens,20250220,2
+1069,CETN2,centrin 2,9606,Homo sapiens,20200512,1
+1072,CFL1,cofilin 1,9606,Homo sapiens,20250220,4
+1080,CFTR,CF transmembrane conductance regulator,9606,Homo sapiens,20250220,2
+1105,CHD1,chromodomain helicase DNA binding protein 1,9606,Homo sapiens,20250220,1
+1108,CHD4,chromodomain helicase DNA binding protein 4,9606,Homo sapiens,20200512,3
+1111,CHEK1,checkpoint kinase 1,9606,Homo sapiens,20200512,20
+1112,FOXN3,forkhead box N3,9606,Homo sapiens,20250220,1
+1153,CIRBP,cold inducible RNA binding protein,9606,Homo sapiens,20250220,1
+1182,CLCN3,chloride voltage-gated channel 3,9606,Homo sapiens,20250220,1
+1191,CLU,clusterin,9606,Homo sapiens,20200512,1
+1196,CLK2,CDC like kinase 2,9606,Homo sapiens,20200512,2
+1236,CCR7,C-C motif chemokine receptor 7,9606,Homo sapiens,20200512,1
+1263,PLK3,polo like kinase 3,9606,Homo sapiens,20250220,1
+1268,CNR1,cannabinoid receptor 1,9606,Homo sapiens,20250220,2
+1269,CNR2,cannabinoid receptor 2,9606,Homo sapiens,20250220,3
+1277,COL1A1,collagen type I alpha 1 chain,9606,Homo sapiens,20250220,2
+1278,COL1A2,collagen type I alpha 2 chain,9606,Homo sapiens,20250220,1
+1302,COL11A2,collagen type XI alpha 2 chain,9606,Homo sapiens,20250220,6
+1312,COMT,catechol-O-methyltransferase,9606,Homo sapiens,20250220,2
+1351,COX8A,cytochrome c oxidase subunit 8A,9606,Homo sapiens,20250220,1
+1363,CPE,carboxypeptidase E,9606,Homo sapiens,20200512,1
+1364,CLDN4,claudin 4,9606,Homo sapiens,20250220,2
+1365,CLDN3,claudin 3,9606,Homo sapiens,20250220,2
+1374,CPT1A,carnitine palmitoyltransferase 1A,9606,Homo sapiens,20250220,4
+1385,CREB1,cAMP responsive element binding protein 1,9606,Homo sapiens,20200512,5
+1386,ATF2,activating transcription factor 2,9606,Homo sapiens,20200512,2
+1397,CRIP2,cysteine rich protein 2,9606,Homo sapiens,20250220,1
+1401,CRP,C-reactive protein,9606,Homo sapiens,20250220,3
+1419,CRYGB,crystallin gamma B,9606,Homo sapiens,20200512,1
+1420,CRYGC,crystallin gamma C,9606,Homo sapiens,20200512,1
+1427,CRYGS,crystallin gamma S,9606,Homo sapiens,20200512,2
+1432,MAPK14,mitogen-activated protein kinase 14,9606,Homo sapiens,20200512,11
+1437,CSF2,colony stimulating factor 2,9606,Homo sapiens,20200512,3
+1440,CSF3,colony stimulating factor 3,9606,Homo sapiens,20200512,7
+1457,CSNK2A1,casein kinase 2 alpha 1,9606,Homo sapiens,20200512,1
+1468,SLC25A10,solute carrier family 25 member 10,9606,Homo sapiens,20250220,1
+1499,CTNNB1,catenin beta 1,9606,Homo sapiens,20200512,18
+1508,CTSB,cathepsin B,9606,Homo sapiens,20250220,1
+1509,CTSD,cathepsin D,9606,Homo sapiens,20250220,1
+1514,CTSL,cathepsin L,9606,Homo sapiens,20250220,10
+1520,CTSS,cathepsin S,9606,Homo sapiens,20250220,1
+1523,CUX1,cut like homeobox 1,9606,Homo sapiens,20250220,3
+1524,CX3CR1,C-X3-C motif chemokine receptor 1,9606,Homo sapiens,20250220,1
+1525,CXADR,CXADR Ig-like cell adhesion molecule,9606,Homo sapiens,20250220,1
+1543,CYP1A1,cytochrome P450 family 1 subfamily A member 1,9606,Homo sapiens,20250220,1
+1544,CYP1A2,cytochrome P450 family 1 subfamily A member 2,9606,Homo sapiens,20250220,1
+1557,CYP2C19,cytochrome P450 family 2 subfamily C member 19,9606,Homo sapiens,20250220,1
+1571,CYP2E1,cytochrome P450 family 2 subfamily E member 1,9606,Homo sapiens,20250220,1
+1576,CYP3A4,cytochrome P450 family 3 subfamily A member 4,9606,Homo sapiens,20250220,1
+1577,CYP3A5,cytochrome P450 family 3 subfamily A member 5,9606,Homo sapiens,20250220,1
+1586,CYP17A1,cytochrome P450 family 17 subfamily A member 1,9606,Homo sapiens,20250220,1
+1588,CYP19A1,cytochrome P450 family 19 subfamily A member 1,9606,Homo sapiens,20250220,2
+1601,DAB2,DAB adaptor protein 2,9606,Homo sapiens,20200512,4
+1616,DAXX,death domain associated protein,9606,Homo sapiens,20200512,2
+1628,DBP,D-box binding PAR bZIP transcription factor,9606,Homo sapiens,20250220,1
+1633,DCK,deoxycytidine kinase,9606,Homo sapiens,20200512,3
+1634,DCN,decorin,9606,Homo sapiens,20250220,1
+1636,ACE,angiotensin I converting enzyme,9606,Homo sapiens,20200512,1
+1638,DCT,dopachrome tautomerase,9606,Homo sapiens,20250220,1
+1641,DCX,doublecortin,9606,Homo sapiens,20200512,1
+1643,DDB2,damage specific DNA binding protein 2,9606,Homo sapiens,20200512,3
+1647,GADD45A,growth arrest and DNA damage inducible alpha,9606,Homo sapiens,20200512,5
+1649,DDIT3,DNA damage inducible transcript 3,9606,Homo sapiens,20250220,1
+1670,DEFA5,defensin alpha 5,9606,Homo sapiens,20250220,2
+1674,DES,desmin,9606,Homo sapiens,20200512,1
+1677,DFFB,DNA fragmentation factor subunit beta,9606,Homo sapiens,20250220,1
+1719,DHFR,dihydrofolate reductase,9606,Homo sapiens,20200512,2
+1728,NQO1,NAD(P)H quinone dehydrogenase 1,9606,Homo sapiens,20200512,2
+1737,DLAT,dihydrolipoamide S-acetyltransferase,9606,Homo sapiens,20250220,1
+1746,DLX2,distal-less homeobox 2,9606,Homo sapiens,20250220,1
+1763,DNA2,DNA replication helicase/nuclease 2,9606,Homo sapiens,20200512,1
+1769,DNAH8,dynein axonemal heavy chain 8,9606,Homo sapiens,20250220,1
+1773,DNASE1,deoxyribonuclease 1,9606,Homo sapiens,20200512,1
+1777,DNASE2,"deoxyribonuclease 2, lysosomal",9606,Homo sapiens,20200512,1
+1785,DNM2,dynamin 2,9606,Homo sapiens,20200512,1
+1786,DNMT1,DNA methyltransferase 1,9606,Homo sapiens,20200512,1
+1788,DNMT3A,DNA methyltransferase 3 alpha,9606,Homo sapiens,20250220,1
+1789,DNMT3B,DNA methyltransferase 3 beta,9606,Homo sapiens,20250220,1
+1791,DNTT,DNA nucleotidylexotransferase,9606,Homo sapiens,20200512,2
+1796,DOK1,docking protein 1,9606,Homo sapiens,20200512,1
+1803,DPP4,dipeptidyl peptidase 4,9606,Homo sapiens,20250220,3
+1806,DPYD,dihydropyrimidine dehydrogenase,9606,Homo sapiens,20250220,1
+1830,DSG3,desmoglein 3,9606,Homo sapiens,20200512,1
+1833,EPYC,epiphycan,9606,Homo sapiens,20250220,1
+1843,DUSP1,dual specificity phosphatase 1,9606,Homo sapiens,20200512,1
+1859,DYRK1A,dual specificity tyrosine phosphorylation regulated kinase 1A,9606,Homo sapiens,20250220,2
+1869,E2F1,E2F transcription factor 1,9606,Homo sapiens,20200512,6
+1871,E2F3,E2F transcription factor 3,9606,Homo sapiens,20250220,1
+1874,E2F4,E2F transcription factor 4,9606,Homo sapiens,20200512,1
+1890,TYMP,thymidine phosphorylase,9606,Homo sapiens,20250220,1
+1894,ECT2,epithelial cell transforming 2,9606,Homo sapiens,20250220,2
+1910,EDNRB,endothelin receptor type B,9606,Homo sapiens,20250220,1
+1950,EGF,epidermal growth factor,9606,Homo sapiens,20200512,8
+1956,EGFR,epidermal growth factor receptor,9606,Homo sapiens,20200512,38
+1958,EGR1,early growth response 1,9606,Homo sapiens,20200512,6
+1960,EGR3,early growth response 3,9606,Homo sapiens,20200512,1
+1969,EPHA2,EPH receptor A2,9606,Homo sapiens,20250220,5
+1978,EIF4EBP1,eukaryotic translation initiation factor 4E binding protein 1,9606,Homo sapiens,20200512,2
+1981,EIF4G1,eukaryotic translation initiation factor 4 gamma 1,9606,Homo sapiens,20250220,1
+1983,EIF5,eukaryotic translation initiation factor 5,9606,Homo sapiens,20250220,1
+1994,ELAVL1,ELAV like RNA binding protein 1,9606,Homo sapiens,20250220,6
+2002,ELK1,ETS transcription factor ELK1,9606,Homo sapiens,20250220,1
+2021,ENDOG,endonuclease G,9606,Homo sapiens,20250220,2
+2033,EP300,E1A binding protein p300,9606,Homo sapiens,20200512,4
+2052,EPHX1,epoxide hydrolase 1,9606,Homo sapiens,20200512,2
+2053,EPHX2,epoxide hydrolase 2,9606,Homo sapiens,20200512,1
+2056,EPO,erythropoietin,9606,Homo sapiens,20250220,3
+2057,EPOR,erythropoietin receptor,9606,Homo sapiens,20200512,1
+2064,ERBB2,erb-b2 receptor tyrosine kinase 2,9606,Homo sapiens,20200512,23
+2065,ERBB3,erb-b2 receptor tyrosine kinase 3,9606,Homo sapiens,20200512,3
+2067,ERCC1,"ERCC excision repair 1, endonuclease non-catalytic subunit",9606,Homo sapiens,20200512,12
+2068,ERCC2,"ERCC excision repair 2, TFIIH core complex helicase subunit",9606,Homo sapiens,20200512,13
+2069,EREG,epiregulin,9606,Homo sapiens,20200512,5
+2073,ERCC5,"ERCC excision repair 5, endonuclease",9606,Homo sapiens,20250220,1
+2074,ERCC6,"ERCC excision repair 6, chromatin remodeling factor",9606,Homo sapiens,20200512,1
+2081,ERN1,endoplasmic reticulum to nucleus signaling 1,9606,Homo sapiens,20250220,2
+2098,ESD,esterase D,9606,Homo sapiens,20250220,1
+2099,ESR1,estrogen receptor 1,9606,Homo sapiens,20200512,13
+2120,ETV6,ETS variant transcription factor 6,9606,Homo sapiens,20200512,1
+2146,EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,9606,Homo sapiens,20250220,1
+2147,F2,"coagulation factor II, thrombin",9606,Homo sapiens,20250220,1
+2175,FANCA,FA complementation group A,9606,Homo sapiens,20250220,1
+2176,FANCC,FA complementation group C,9606,Homo sapiens,20200512,1
+2177,FANCD2,FA complementation group D2,9606,Homo sapiens,20200512,3
+2182,ACSL4,acyl-CoA synthetase long chain family member 4,9606,Homo sapiens,20250220,1
+2185,PTK2B,protein tyrosine kinase 2 beta,9606,Homo sapiens,20200512,4
+2189,FANCG,FA complementation group G,9606,Homo sapiens,20200512,1
+2191,FAP,fibroblast activation protein alpha,9606,Homo sapiens,20250220,1
+2194,FASN,fatty acid synthase,9606,Homo sapiens,20250220,3
+2203,FBP1,fructose-bisphosphatase 1,9606,Homo sapiens,20250220,2
+2214,FCGR3A,Fc gamma receptor IIIa,9606,Homo sapiens,20250220,1
+2224,FDPS,farnesyl diphosphate synthase,9606,Homo sapiens,20250220,1
+2232,FDXR,ferredoxin reductase,9606,Homo sapiens,20250220,5
+2237,FEN1,flap structure-specific endonuclease 1,9606,Homo sapiens,20200512,4
+2247,FGF2,fibroblast growth factor 2,9606,Homo sapiens,20200512,6
+2249,FGF4,fibroblast growth factor 4,9606,Homo sapiens,20200512,1
+2260,FGFR1,fibroblast growth factor receptor 1,9606,Homo sapiens,20200512,2
+2263,FGFR2,fibroblast growth factor receptor 2,9606,Homo sapiens,20250220,2
+2264,FGFR4,fibroblast growth factor receptor 4,9606,Homo sapiens,20250220,1
+2271,FH,fumarate hydratase,9606,Homo sapiens,20250220,2
+2274,FHL2,four and a half LIM domains 2,9606,Homo sapiens,20250220,2
+2287,FKBP3,FKBP prolyl isomerase 3,9606,Homo sapiens,20250220,2
+2289,FKBP5,FKBP prolyl isomerase 5,9606,Homo sapiens,20200512,1
+2290,FOXG1,forkhead box G1,9606,Homo sapiens,20250220,1
+2305,FOXM1,forkhead box M1,9606,Homo sapiens,20200512,5
+2308,FOXO1,forkhead box O1,9606,Homo sapiens,20250220,4
+2309,FOXO3,forkhead box O3,9606,Homo sapiens,20200512,1
+2316,FLNA,filamin A,9606,Homo sapiens,20200512,2
+2317,FLNB,filamin B,9606,Homo sapiens,20250220,1
+2322,FLT3,fms related receptor tyrosine kinase 3,9606,Homo sapiens,20200512,1
+2335,FN1,fibronectin 1,9606,Homo sapiens,20200512,2
+2346,FOLH1,folate hydrolase 1,9606,Homo sapiens,20250220,25
+2353,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",9606,Homo sapiens,20200512,3
+2354,FOSB,"FosB proto-oncogene, AP-1 transcription factor subunit",9606,Homo sapiens,20200512,1
+2475,MTOR,mechanistic target of rapamycin kinase,9606,Homo sapiens,20200512,21
+2491,CENPI,centromere protein I,9606,Homo sapiens,20250220,1
+2492,FSHR,follicle stimulating hormone receptor,9606,Homo sapiens,20250220,2
+2520,GAST,gastrin,9606,Homo sapiens,20200512,2
+2521,FUS,FUS RNA binding protein,9606,Homo sapiens,20250220,1
+2523,FUT1,fucosyltransferase 1 (H blood group),9606,Homo sapiens,20200512,1
+2526,FUT4,fucosyltransferase 4,9606,Homo sapiens,20250220,2
+2537,IFI6,interferon alpha inducible protein 6,9606,Homo sapiens,20250220,3
+2539,G6PD,glucose-6-phosphate dehydrogenase,9606,Homo sapiens,20200512,6
+2547,XRCC6,X-ray repair cross complementing 6,9606,Homo sapiens,20200512,27
+2551,GABPA,GA binding protein transcription factor subunit alpha,9606,Homo sapiens,20200512,1
+2596,GAP43,growth associated protein 43,9606,Homo sapiens,20200512,1
+2597,GAPDH,glyceraldehyde-3-phosphate dehydrogenase,9606,Homo sapiens,20250220,2
+2621,GAS6,growth arrest specific 6,9606,Homo sapiens,20250220,1
+2625,GATA3,GATA binding protein 3,9606,Homo sapiens,20200512,3
+2638,GC,GC vitamin D binding protein,9606,Homo sapiens,20250220,2
+2641,GCG,glucagon,9606,Homo sapiens,20200512,1
+2643,GCH1,GTP cyclohydrolase 1,9606,Homo sapiens,20250220,3
+2668,GDNF,glial cell derived neurotrophic factor,9606,Homo sapiens,20200512,1
+2670,GFAP,glial fibrillary acidic protein,9606,Homo sapiens,20200512,3
+2672,GFI1,growth factor independent 1 transcriptional repressor,9606,Homo sapiens,20250220,1
+2688,GH1,growth hormone 1,9606,Homo sapiens,20250220,2
+2689,GH2,growth hormone 2,9606,Homo sapiens,20200512,2
+2697,GJA1,gap junction protein alpha 1,9606,Homo sapiens,20200512,12
+2706,GJB2,gap junction protein beta 2,9606,Homo sapiens,20250220,3
+2719,GPC3,glypican 3,9606,Homo sapiens,20250220,2
+2720,GLB1,galactosidase beta 1,9606,Homo sapiens,20200512,6
+2729,GCLC,glutamate-cysteine ligase catalytic subunit,9606,Homo sapiens,20200512,2
+2735,GLI1,GLI family zinc finger 1,9606,Homo sapiens,20250220,1
+2744,GLS,glutaminase,9606,Homo sapiens,20250220,2
+2745,GLRX,glutaredoxin,9606,Homo sapiens,20250220,2
+2746,GLUD1,glutamate dehydrogenase 1,9606,Homo sapiens,20250220,1
+2752,GLUL,glutamate-ammonia ligase,9606,Homo sapiens,20250220,1
+2765,GML,glycosylphosphatidylinositol anchored molecule like,9606,Homo sapiens,20200512,2
+2810,SFN,stratifin,9606,Homo sapiens,20250220,1
+2821,GPI,glucose-6-phosphate isomerase,9606,Homo sapiens,20250220,3
+2875,GPT,glutamic--pyruvic transaminase,9606,Homo sapiens,20200512,1
+2876,GPX1,glutathione peroxidase 1,9606,Homo sapiens,20200512,2
+2877,GPX2,glutathione peroxidase 2,9606,Homo sapiens,20200512,1
+2879,GPX4,glutathione peroxidase 4,9606,Homo sapiens,20250220,4
+2896,GRN,granulin precursor,9606,Homo sapiens,20250220,3
+2908,NR3C1,nuclear receptor subfamily 3 group C member 1,9606,Homo sapiens,20250220,1
+2911,GRM1,glutamate metabotropic receptor 1,9606,Homo sapiens,20200512,1
+2919,CXCL1,C-X-C motif chemokine ligand 1,9606,Homo sapiens,20200512,3
+2920,CXCL2,C-X-C motif chemokine ligand 2,9606,Homo sapiens,20250220,1
+2922,GRP,gastrin releasing peptide,9606,Homo sapiens,20200512,1
+2923,PDIA3,protein disulfide isomerase family A member 3,9606,Homo sapiens,20250220,3
+2925,GRPR,gastrin releasing peptide receptor,9606,Homo sapiens,20250220,1
+2932,GSK3B,glycogen synthase kinase 3 beta,9606,Homo sapiens,20200512,17
+2936,GSR,glutathione-disulfide reductase,9606,Homo sapiens,20200512,2
+2944,GSTM1,glutathione S-transferase mu 1,9606,Homo sapiens,20250220,2
+2950,GSTP1,glutathione S-transferase pi 1,9606,Homo sapiens,20250220,8
+2952,GSTT1,glutathione S-transferase theta 1,9606,Homo sapiens,20250220,1
+2956,MSH6,mutS homolog 6,9606,Homo sapiens,20200512,1
+2993,GYPA,glycophorin A (MNS blood group),9606,Homo sapiens,20200512,1
+3002,GZMB,granzyme B,9606,Homo sapiens,20250220,2
+3014,H2AX,H2A.X variant histone,9606,Homo sapiens,20200512,29
+3043,HBB,hemoglobin subunit beta,9606,Homo sapiens,20200512,1
+3046,HBE1,hemoglobin subunit epsilon 1,9606,Homo sapiens,20250220,1
+3065,HDAC1,histone deacetylase 1,9606,Homo sapiens,20200512,1
+3068,HDGF,heparin binding growth factor,9606,Homo sapiens,20250220,3
+3069,HDLBP,high density lipoprotein binding protein,9606,Homo sapiens,20250220,1
+3082,HGF,hepatocyte growth factor,9606,Homo sapiens,20200512,5
+3091,HIF1A,hypoxia inducible factor 1 subunit alpha,9606,Homo sapiens,20200512,19
+3093,UBE2K,ubiquitin conjugating enzyme E2 K,9606,Homo sapiens,20200512,1
+3098,HK1,hexokinase 1,9606,Homo sapiens,20250220,2
+3099,HK2,hexokinase 2,9606,Homo sapiens,20250220,3
+3117,HLA-DQA1,"major histocompatibility complex, class II, DQ alpha 1",9606,Homo sapiens,20250220,1
+3119,HLA-DQB1,"major histocompatibility complex, class II, DQ beta 1",9606,Homo sapiens,20250220,2
+3123,HLA-DRB1,"major histocompatibility complex, class II, DR beta 1",9606,Homo sapiens,20200512,2
+3133,HLA-E,"major histocompatibility complex, class I, E",9606,Homo sapiens,20200512,4
+3134,HLA-F,"major histocompatibility complex, class I, F",9606,Homo sapiens,20250220,1
+3141,HLCS,holocarboxylase synthetase,9606,Homo sapiens,20200512,1
+3146,HMGB1,high mobility group box 1,9606,Homo sapiens,20250220,9
+3148,HMGB2,high mobility group box 2,9606,Homo sapiens,20250220,1
+3150,HMGN1,high mobility group nucleosome binding domain 1,9606,Homo sapiens,20200512,1
+3156,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase,9606,Homo sapiens,20250220,2
+3159,HMGA1,high mobility group AT-hook 1,9606,Homo sapiens,20250220,1
+3162,HMOX1,heme oxygenase 1,9606,Homo sapiens,20200512,8
+3172,HNF4A,hepatocyte nuclear factor 4 alpha,9606,Homo sapiens,20250220,1
+3190,HNRNPK,heterogeneous nuclear ribonucleoprotein K,9606,Homo sapiens,20200512,2
+3206,HOXA10,homeobox A10,9606,Homo sapiens,20250220,1
+3217,HOXB7,homeobox B7,9606,Homo sapiens,20200512,1
+3219,HOXB9,homeobox B9,9606,Homo sapiens,20200512,1
+3226,HOXC10,homeobox C10,9606,Homo sapiens,20250220,1
+3251,HPRT1,hypoxanthine phosphoribosyltransferase 1,9606,Homo sapiens,20200512,6
+3265,HRAS,"HRas proto-oncogene, GTPase",9606,Homo sapiens,20200512,2
+3276,PRMT1,protein arginine methyltransferase 1,9606,Homo sapiens,20250220,2
+3297,HSF1,heat shock transcription factor 1,9606,Homo sapiens,20200512,2
+3305,HSPA1L,heat shock protein family A (Hsp70) member 1 like,9606,Homo sapiens,20250220,1
+3306,HSPA2,heat shock protein family A (Hsp70) member 2,9606,Homo sapiens,20200512,1
+3308,HSPA4,heat shock protein family A (Hsp70) member 4,9606,Homo sapiens,20200512,11
+3309,HSPA5,heat shock protein family A (Hsp70) member 5,9606,Homo sapiens,20250220,3
+3313,HSPA9,heat shock protein family A (Hsp70) member 9,9606,Homo sapiens,20200512,1
+3315,HSPB1,heat shock protein family B (small) member 1,9606,Homo sapiens,20200512,4
+3320,HSP90AA1,heat shock protein 90 alpha family class A member 1,9606,Homo sapiens,20200512,7
+3329,HSPD1,heat shock protein family D (Hsp60) member 1,9606,Homo sapiens,20200512,2
+3336,HSPE1,heat shock protein family E (Hsp10) member 1,9606,Homo sapiens,20200512,1
+3356,HTR2A,5-hydroxytryptamine receptor 2A,9606,Homo sapiens,20250220,1
+3364,HUS1,HUS1 checkpoint clamp component,9606,Homo sapiens,20200512,2
+3371,TNC,tenascin C,9606,Homo sapiens,20200512,1
+3383,ICAM1,intercellular adhesion molecule 1,9606,Homo sapiens,20200512,6
+3399,ID3,inhibitor of DNA binding 3,9606,Homo sapiens,20250220,1
+3417,IDH1,isocitrate dehydrogenase (NADP(+)) 1,9606,Homo sapiens,20200512,9
+3418,IDH2,isocitrate dehydrogenase (NADP(+)) 2,9606,Homo sapiens,20250220,1
+3428,IFI16,interferon gamma inducible protein 16,9606,Homo sapiens,20200512,1
+3438,IFN1@,"interferon, type 1, cluster",9606,Homo sapiens,20250220,1
+3439,IFNA1,interferon alpha 1,9606,Homo sapiens,20250220,2
+3447,IFNA13,interferon alpha 13,9606,Homo sapiens,20200512,2
+3456,IFNB1,interferon beta 1,9606,Homo sapiens,20200512,5
+3458,IFNG,interferon gamma,9606,Homo sapiens,20200512,14
+3479,IGF1,insulin like growth factor 1,9606,Homo sapiens,20200512,6
+3480,IGF1R,insulin like growth factor 1 receptor,9606,Homo sapiens,20200512,7
+3484,IGFBP1,insulin like growth factor binding protein 1,9606,Homo sapiens,20200512,2
+3486,IGFBP3,insulin like growth factor binding protein 3,9606,Homo sapiens,20250220,2
+3487,IGFBP4,insulin like growth factor binding protein 4,9606,Homo sapiens,20250220,1
+3497,IGHE,immunoglobulin heavy constant epsilon,9606,Homo sapiens,20200512,2
+3551,IKBKB,inhibitor of nuclear factor kappa B kinase subunit beta,9606,Homo sapiens,20200512,2
+3552,IL1A,interleukin 1 alpha,9606,Homo sapiens,20200512,2
+3553,IL1B,interleukin 1 beta,9606,Homo sapiens,20200512,16
+3554,IL1R1,interleukin 1 receptor type 1,9606,Homo sapiens,20250220,1
+3557,IL1RN,interleukin 1 receptor antagonist,9606,Homo sapiens,20250220,2
+3558,IL2,interleukin 2,9606,Homo sapiens,20200512,2
+3561,IL2RG,interleukin 2 receptor subunit gamma,9606,Homo sapiens,20250220,1
+3562,IL3,interleukin 3,9606,Homo sapiens,20200512,1
+3565,IL4,interleukin 4,9606,Homo sapiens,20200512,3
+3567,IL5,interleukin 5,9606,Homo sapiens,20200512,2
+3569,IL6,interleukin 6,9606,Homo sapiens,20200512,31
+3570,IL6R,interleukin 6 receptor,9606,Homo sapiens,20250220,1
+3576,CXCL8,C-X-C motif chemokine ligand 8,9606,Homo sapiens,20200512,10
+3586,IL10,interleukin 10,9606,Homo sapiens,20200512,7
+3589,IL11,interleukin 11,9606,Homo sapiens,20200512,1
+3593,IL12B,interleukin 12B,9606,Homo sapiens,20250220,1
+3596,IL13,interleukin 13,9606,Homo sapiens,20200512,2
+3605,IL17A,interleukin 17A,9606,Homo sapiens,20250220,1
+3611,ILK,integrin linked kinase,9606,Homo sapiens,20200512,1
+3627,CXCL10,C-X-C motif chemokine ligand 10,9606,Homo sapiens,20250220,3
+3630,INS,insulin,9606,Homo sapiens,20250220,1
+3654,IRAK1,interleukin 1 receptor associated kinase 1,9606,Homo sapiens,20250220,3
+3655,ITGA6,integrin subunit alpha 6,9606,Homo sapiens,20200512,2
+3656,IRAK2,interleukin 1 receptor associated kinase 2,9606,Homo sapiens,20250220,1
+3659,IRF1,interferon regulatory factor 1,9606,Homo sapiens,20200512,4
+3661,IRF3,interferon regulatory factor 3,9606,Homo sapiens,20250220,2
+3667,IRS1,insulin receptor substrate 1,9606,Homo sapiens,20200512,1
+3678,ITGA5,integrin subunit alpha 5,9606,Homo sapiens,20200512,1
+3684,ITGAM,integrin subunit alpha M,9606,Homo sapiens,20250220,1
+3685,ITGAV,integrin subunit alpha V,9606,Homo sapiens,20250220,2
+3688,ITGB1,integrin subunit beta 1,9606,Homo sapiens,20200512,3
+3717,JAK2,Janus kinase 2,9606,Homo sapiens,20200512,7
+3725,JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",9606,Homo sapiens,20200512,4
+3726,JUNB,"JunB proto-oncogene, AP-1 transcription factor subunit",9606,Homo sapiens,20200512,1
+3727,JUND,"JunD proto-oncogene, AP-1 transcription factor subunit",9606,Homo sapiens,20200512,1
+3756,KCNH1,potassium voltage-gated channel subfamily H member 1,9606,Homo sapiens,20250220,4
+3764,KCNJ8,potassium inwardly rectifying channel subfamily J member 8,9606,Homo sapiens,20250220,1
+3783,KCNN4,potassium calcium-activated channel subfamily N member 4,9606,Homo sapiens,20250220,1
+3791,KDR,kinase insert domain receptor,9606,Homo sapiens,20200512,1
+3811,KIR3DL1,"killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1",9606,Homo sapiens,20200512,1
+3815,KIT,"KIT proto-oncogene, receptor tyrosine kinase",9606,Homo sapiens,20200512,3
+3817,KLK2,kallikrein related peptidase 2,9606,Homo sapiens,20250220,2
+3821,KLRC1,killer cell lectin like receptor C1,9606,Homo sapiens,20200512,1
+3837,KPNB1,karyopherin subunit beta 1,9606,Homo sapiens,20250220,3
+3845,KRAS,"KRAS proto-oncogene, GTPase",9606,Homo sapiens,20200512,7
+3872,KRT17,keratin 17,9606,Homo sapiens,20250220,1
+3895,KTN1,kinectin 1,9606,Homo sapiens,20250220,1
+3897,L1CAM,L1 cell adhesion molecule,9606,Homo sapiens,20250220,2
+3930,LBR,lamin B receptor,9606,Homo sapiens,20250220,1
+3932,LCK,"LCK proto-oncogene, Src family tyrosine kinase",9606,Homo sapiens,20200512,1
+3936,LCP1,lymphocyte cytosolic protein 1,9606,Homo sapiens,20250220,1
+3939,LDHA,lactate dehydrogenase A,9606,Homo sapiens,20200512,5
+3952,LEP,leptin,9606,Homo sapiens,20200512,4
+3956,LGALS1,galectin 1,9606,Homo sapiens,20200512,1
+3973,LHCGR,luteinizing hormone/choriogonadotropin receptor,9606,Homo sapiens,20200512,1
+3978,LIG1,DNA ligase 1,9606,Homo sapiens,20250220,2
+3980,LIG3,DNA ligase 3,9606,Homo sapiens,20200512,1
+3981,LIG4,DNA ligase 4,9606,Homo sapiens,20200512,12
+4000,LMNA,lamin A/C,9606,Homo sapiens,20250220,1
+4001,LMNB1,lamin B1,9606,Homo sapiens,20250220,1
+4015,LOX,lysyl oxidase,9606,Homo sapiens,20200512,2
+4067,LYN,"LYN proto-oncogene, Src family tyrosine kinase",9606,Homo sapiens,20200512,1
+4076,CAPRIN1,cell cycle associated protein 1,9606,Homo sapiens,20250220,1
+4087,SMAD2,SMAD family member 2,9606,Homo sapiens,20200512,2
+4088,SMAD3,SMAD family member 3,9606,Homo sapiens,20250220,2
+4089,SMAD4,SMAD family member 4,9606,Homo sapiens,20250220,3
+4137,MAPT,microtubule associated protein tau,9606,Homo sapiens,20250220,5
+4157,MC1R,melanocortin 1 receptor,9606,Homo sapiens,20250220,2
+4170,MCL1,"MCL1 apoptosis regulator, BCL2 family member",9606,Homo sapiens,20200512,1
+4172,MCM3,minichromosome maintenance complex component 3,9606,Homo sapiens,20200512,1
+4179,CD46,CD46 molecule,9606,Homo sapiens,20250220,1
+4193,MDM2,MDM2 proto-oncogene,9606,Homo sapiens,20200512,7
+4217,MAP3K5,mitogen-activated protein kinase kinase kinase 5,9606,Homo sapiens,20250220,2
+4221,MEN1,menin 1,9606,Homo sapiens,20200512,1
+4233,MET,"MET proto-oncogene, receptor tyrosine kinase",9606,Homo sapiens,20250220,2
+4234,METTL1,"methyltransferase 1, tRNA methylguanosine",9606,Homo sapiens,20250220,1
+4254,KITLG,KIT ligand,9606,Homo sapiens,20250220,1
+4255,MGMT,O-6-methylguanine-DNA methyltransferase,9606,Homo sapiens,20200512,7
+4259,MGST3,microsomal glutathione S-transferase 3,9606,Homo sapiens,20250220,1
+4282,MIF,macrophage migration inhibitory factor,9606,Homo sapiens,20250220,1
+4283,CXCL9,C-X-C motif chemokine ligand 9,9606,Homo sapiens,20250220,1
+4287,ATXN3,ataxin 3,9606,Homo sapiens,20250220,1
+4292,MLH1,mutL homolog 1,9606,Homo sapiens,20200512,2
+4312,MMP1,matrix metallopeptidase 1,9606,Homo sapiens,20250220,3
+4313,MMP2,matrix metallopeptidase 2,9606,Homo sapiens,20200512,10
+4314,MMP3,matrix metallopeptidase 3,9606,Homo sapiens,20250220,2
+4318,MMP9,matrix metallopeptidase 9,9606,Homo sapiens,20200512,9
+4319,MMP10,matrix metallopeptidase 10,9606,Homo sapiens,20250220,1
+4350,MPG,N-methylpurine DNA glycosylase,9606,Homo sapiens,20250220,2
+4352,MPL,"MPL proto-oncogene, thrombopoietin receptor",9606,Homo sapiens,20250220,1
+4353,MPO,myeloperoxidase,9606,Homo sapiens,20250220,4
+4361,MRE11,"MRE11 homolog, double strand break repair nuclease",9606,Homo sapiens,20200512,19
+4363,ABCC1,ATP binding cassette subfamily C member 1 (ABCC1 blood group),9606,Homo sapiens,20250220,2
+4436,MSH2,mutS homolog 2,9606,Homo sapiens,20200512,1
+4438,MSH4,mutS homolog 4,9606,Homo sapiens,20200512,1
+4439,MSH5,mutS homolog 5,9606,Homo sapiens,20200512,1
+4504,MT3,metallothionein 3,9606,Homo sapiens,20200512,1
+4513,COX2,cytochrome c oxidase subunit II,9606,Homo sapiens,20200512,2
+4521,NUDT1,nudix hydrolase 1,9606,Homo sapiens,20200512,2
+4524,MTHFR,methylenetetrahydrofolate reductase,9606,Homo sapiens,20250220,1
+4582,MUC1,"mucin 1, cell surface associated",9606,Homo sapiens,20250220,1
+4594,MMUT,methylmalonyl-CoA mutase,9606,Homo sapiens,20200512,1
+4605,MYBL2,MYB proto-oncogene like 2,9606,Homo sapiens,20250220,1
+4606,MYBPC2,myosin binding protein C2,9606,Homo sapiens,20250220,1
+4609,MYC,"MYC proto-oncogene, bHLH transcription factor",9606,Homo sapiens,20200512,8
+4613,MYCN,"MYCN proto-oncogene, bHLH transcription factor",9606,Homo sapiens,20200512,1
+4616,GADD45B,growth arrest and DNA damage inducible beta,9606,Homo sapiens,20200512,1
+4659,PPP1R12A,protein phosphatase 1 regulatory subunit 12A,9606,Homo sapiens,20250220,2
+4683,NBN,nibrin,9606,Homo sapiens,20200512,10
+4684,NCAM1,neural cell adhesion molecule 1,9606,Homo sapiens,20200512,5
+4691,NCL,nucleolin,9606,Homo sapiens,20200512,5
+4706,NDUFAB1,NADH:ubiquinone oxidoreductase subunit AB1,9606,Homo sapiens,20250220,1
+4750,NEK1,NIMA related kinase 1,9606,Homo sapiens,20200512,2
+4751,NEK2,NIMA related kinase 2,9606,Homo sapiens,20200512,1
+4763,NF1,neurofibromin 1,9606,Homo sapiens,20250220,1
+4773,NFATC2,nuclear factor of activated T cells 2,9606,Homo sapiens,20200512,2
+4774,NFIA,nuclear factor I A,9606,Homo sapiens,20250220,1
+4780,NFE2L2,NFE2 like bZIP transcription factor 2,9606,Homo sapiens,20250220,46
+4783,NFIL3,"nuclear factor, interleukin 3 regulated",9606,Homo sapiens,20200512,1
+4790,NFKB1,nuclear factor kappa B subunit 1,9606,Homo sapiens,20200512,70
+4792,NFKBIA,NFKB inhibitor alpha,9606,Homo sapiens,20200512,3
+4830,NME1,NME/NM23 nucleoside diphosphate kinase 1,9606,Homo sapiens,20250220,2
+4835,NQO2,N-ribosyldihydronicotinamide:quinone dehydrogenase 2,9606,Homo sapiens,20200512,1
+4841,NONO,non-POU domain containing octamer binding,9606,Homo sapiens,20250220,2
+4843,NOS2,nitric oxide synthase 2,9606,Homo sapiens,20200512,5
+4846,NOS3,nitric oxide synthase 3,9606,Homo sapiens,20200512,1
+4850,CNOT4,CCR4-NOT transcription complex subunit 4,9606,Homo sapiens,20250220,1
+4851,NOTCH1,notch receptor 1,9606,Homo sapiens,20250220,4
+4853,NOTCH2,notch receptor 2,9606,Homo sapiens,20200512,2
+4869,NPM1,nucleophosmin 1,9606,Homo sapiens,20200512,4
+4888,NPY6R,neuropeptide Y receptor Y6 (pseudogene),9606,Homo sapiens,20200512,1
+4893,NRAS,"NRAS proto-oncogene, GTPase",9606,Homo sapiens,20200512,1
+4904,YBX1,Y-box binding protein 1,9606,Homo sapiens,20200512,9
+4907,NT5E,5'-nucleotidase ecto,9606,Homo sapiens,20250220,3
+4908,NTF3,neurotrophin 3,9606,Homo sapiens,20250220,1
+4914,NTRK1,neurotrophic receptor tyrosine kinase 1,9606,Homo sapiens,20250220,2
+4916,NTRK3,neurotrophic receptor tyrosine kinase 3,9606,Homo sapiens,20200512,1
+4923,NTSR1,neurotensin receptor 1,9606,Homo sapiens,20200512,1
+4924,NUCB1,nucleobindin 1,9606,Homo sapiens,20250220,2
+4926,NUMA1,nuclear mitotic apparatus protein 1,9606,Homo sapiens,20250220,1
+4953,ODC1,ornithine decarboxylase 1,9606,Homo sapiens,20200512,2
+4968,OGG1,8-oxoguanine DNA glycosylase,9606,Homo sapiens,20200512,22
+5027,P2RX7,purinergic receptor P2X 7,9606,Homo sapiens,20200512,1
+5031,P2RY6,pyrimidinergic receptor P2Y6,9606,Homo sapiens,20200512,1
+5034,P4HB,prolyl 4-hydroxylase subunit beta,9606,Homo sapiens,20250220,2
+5052,PRDX1,peroxiredoxin 1,9606,Homo sapiens,20200512,7
+5054,SERPINE1,serpin family E member 1,9606,Homo sapiens,20200512,9
+5058,PAK1,p21 (RAC1) activated kinase 1,9606,Homo sapiens,20200512,3
+5062,PAK2,p21 (RAC1) activated kinase 2,9606,Homo sapiens,20200512,1
+5063,PAK3,p21 (RAC1) activated kinase 3,9606,Homo sapiens,20250220,1
+5071,PRKN,parkin RBR E3 ubiquitin protein ligase,9606,Homo sapiens,20250220,4
+5091,PC,pyruvate carboxylase,9606,Homo sapiens,20250220,1
+5111,PCNA,proliferating cell nuclear antigen,9606,Homo sapiens,20200512,8
+5122,PCSK1,proprotein convertase subtilisin/kexin type 1,9606,Homo sapiens,20250220,1
+5133,PDCD1,programmed cell death 1,9606,Homo sapiens,20250220,2
+5154,PDGFA,platelet derived growth factor subunit A,9606,Homo sapiens,20200512,1
+5155,PDGFB,platelet derived growth factor subunit B,9606,Homo sapiens,20250220,1
+5159,PDGFRB,platelet derived growth factor receptor beta,9606,Homo sapiens,20250220,3
+5163,PDK1,pyruvate dehydrogenase kinase 1,9606,Homo sapiens,20250220,1
+5172,SLC26A4,solute carrier family 26 member 4,9606,Homo sapiens,20250220,1
+5175,PECAM1,platelet and endothelial cell adhesion molecule 1,9606,Homo sapiens,20250220,1
+5187,PER1,period circadian regulator 1,9606,Homo sapiens,20250220,3
+5197,PF4V1,platelet factor 4 variant 1,9606,Homo sapiens,20250220,1
+5209,PFKFB3,"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3",9606,Homo sapiens,20250220,1
+5213,PFKM,"phosphofructokinase, muscle",9606,Homo sapiens,20250220,3
+5226,PGD,phosphogluconate dehydrogenase,9606,Homo sapiens,20250220,1
+5228,PGF,placental growth factor,9606,Homo sapiens,20250220,2
+5230,PGK1,phosphoglycerate kinase 1,9606,Homo sapiens,20250220,2
+5241,PGR,progesterone receptor,9606,Homo sapiens,20250220,6
+5243,ABCB1,ATP binding cassette subfamily B member 1,9606,Homo sapiens,20250220,2
+5266,PI3,peptidase inhibitor 3,9606,Homo sapiens,20200512,1
+5270,SERPINE2,serpin family E member 2,9606,Homo sapiens,20250220,1
+5289,PIK3C3,phosphatidylinositol 3-kinase catalytic subunit type 3,9606,Homo sapiens,20200512,4
+5290,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",9606,Homo sapiens,20250220,4
+5291,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",9606,Homo sapiens,20200512,1
+5293,PIK3CD,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta",9606,Homo sapiens,20250220,6
+5295,PIK3R1,phosphoinositide-3-kinase regulatory subunit 1,9606,Homo sapiens,20250220,3
+5300,PIN1,"peptidylprolyl cis/trans isomerase, NIMA-interacting 1",9606,Homo sapiens,20250220,1
+5315,PKM,pyruvate kinase M1/2,9606,Homo sapiens,20200512,6
+5321,PLA2G4A,phospholipase A2 group IVA,9606,Homo sapiens,20200512,1
+5327,PLAT,"plasminogen activator, tissue type",9606,Homo sapiens,20200512,1
+5329,PLAUR,"plasminogen activator, urokinase receptor",9606,Homo sapiens,20200512,1
+5336,PLCG2,phospholipase C gamma 2,9606,Homo sapiens,20200512,1
+5347,PLK1,polo like kinase 1,9606,Homo sapiens,20200512,6
+5366,PMAIP1,phorbol-12-myristate-13-acetate-induced protein 1,9606,Homo sapiens,20250220,3
+5371,PML,PML nuclear body scaffold,9606,Homo sapiens,20200512,1
+5422,POLA1,"DNA polymerase alpha 1, catalytic subunit",9606,Homo sapiens,20200512,1
+5423,POLB,DNA polymerase beta,9606,Homo sapiens,20200512,8
+5424,POLD1,"DNA polymerase delta 1, catalytic subunit",9606,Homo sapiens,20250220,1
+5425,POLD2,"DNA polymerase delta 2, accessory subunit",9606,Homo sapiens,20250220,1
+5429,POLH,DNA polymerase eta,9606,Homo sapiens,20200512,1
+5443,POMC,proopiomelanocortin,9606,Homo sapiens,20200512,1
+5444,PON1,paraoxonase 1,9606,Homo sapiens,20250220,1
+5447,POR,cytochrome p450 oxidoreductase,9606,Homo sapiens,20250220,1
+5451,POU2F1,POU class 2 homeobox 1,9606,Homo sapiens,20200512,1
+5460,POU5F1,POU class 5 homeobox 1,9606,Homo sapiens,20250220,1
+5465,PPARA,peroxisome proliferator activated receptor alpha,9606,Homo sapiens,20200512,2
+5468,PPARG,peroxisome proliferator activated receptor gamma,9606,Homo sapiens,20200512,3
+5471,PPAT,phosphoribosyl pyrophosphate amidotransferase,9606,Homo sapiens,20200512,1
+5501,PPP1CC,protein phosphatase 1 catalytic subunit gamma,9606,Homo sapiens,20200512,1
+5514,PPP1R10,protein phosphatase 1 regulatory subunit 10,9606,Homo sapiens,20250220,1
+5520,PPP2R2A,protein phosphatase 2 regulatory subunit Balpha,9606,Homo sapiens,20250220,1
+5524,PTPA,protein phosphatase 2 phosphatase activator,9606,Homo sapiens,20250220,1
+5531,PPP4C,protein phosphatase 4 catalytic subunit,9606,Homo sapiens,20250220,1
+5563,PRKAA2,protein kinase AMP-activated catalytic subunit alpha 2,9606,Homo sapiens,20250220,6
+5564,PRKAB1,protein kinase AMP-activated non-catalytic subunit beta 1,9606,Homo sapiens,20250220,3
+5578,PRKCA,protein kinase C alpha,9606,Homo sapiens,20200512,1
+5581,PRKCE,protein kinase C epsilon,9606,Homo sapiens,20200512,1
+5584,PRKCI,protein kinase C iota,9606,Homo sapiens,20250220,1
+5591,PRKDC,"protein kinase, DNA-activated, catalytic subunit",9606,Homo sapiens,20200512,95
+5594,MAPK1,mitogen-activated protein kinase 1,9606,Homo sapiens,20250220,20
+5595,MAPK3,mitogen-activated protein kinase 3,9606,Homo sapiens,20250220,5
+5598,MAPK7,mitogen-activated protein kinase 7,9606,Homo sapiens,20250220,2
+5599,MAPK8,mitogen-activated protein kinase 8,9606,Homo sapiens,20200512,10
+5600,MAPK11,mitogen-activated protein kinase 11,9606,Homo sapiens,20250220,4
+5604,MAP2K1,mitogen-activated protein kinase kinase 1,9606,Homo sapiens,20200512,1
+5605,MAP2K2,mitogen-activated protein kinase kinase 2,9606,Homo sapiens,20200512,1
+5607,MAP2K5,mitogen-activated protein kinase kinase 5,9606,Homo sapiens,20250220,1
+5609,MAP2K7,mitogen-activated protein kinase kinase 7,9606,Homo sapiens,20250220,8
+5621,PRNP,prion protein (Kanno blood group),9606,Homo sapiens,20250220,1
+5631,PRPS1,phosphoribosyl pyrophosphate synthetase 1,9606,Homo sapiens,20250220,4
+5634,PRPS2,phosphoribosyl pyrophosphate synthetase 2,9606,Homo sapiens,20250220,4
+5664,PSEN2,presenilin 2,9606,Homo sapiens,20200512,1
+5696,PSMB8,proteasome 20S subunit beta 8,9606,Homo sapiens,20250220,2
+5724,PTAFR,platelet activating factor receptor,9606,Homo sapiens,20250220,1
+5727,PTCH1,patched 1,9606,Homo sapiens,20200512,4
+5728,PTEN,phosphatase and tensin homolog,9606,Homo sapiens,20200512,16
+5743,PTGS2,prostaglandin-endoperoxide synthase 2,9606,Homo sapiens,20200512,5
+5747,PTK2,protein tyrosine kinase 2,9606,Homo sapiens,20200512,4
+5783,PTPN13,protein tyrosine phosphatase non-receptor type 13,9606,Homo sapiens,20200512,1
+5788,PTPRC,protein tyrosine phosphatase receptor type C,9606,Homo sapiens,20200512,1
+5810,RAD1,RAD1 checkpoint DNA exonuclease,9606,Homo sapiens,20200512,2
+5829,PXN,paxillin,9606,Homo sapiens,20200512,3
+5830,PEX5,peroxisomal biogenesis factor 5,9606,Homo sapiens,20250220,1
+5858,PZP,PZP alpha-2-macroglobulin like,9606,Homo sapiens,20250220,2
+5873,RAB27A,"RAB27A, member RAS oncogene family",9606,Homo sapiens,20250220,1
+5874,RAB27B,"RAB27B, member RAS oncogene family",9606,Homo sapiens,20250220,2
+5878,RAB5C,"RAB5C, member RAS oncogene family",9606,Homo sapiens,20250220,1
+5879,RAC1,Rac family small GTPase 1,9606,Homo sapiens,20200512,3
+5880,RAC2,Rac family small GTPase 2,9606,Homo sapiens,20250220,3
+5883,RAD9A,RAD9 checkpoint clamp component A,9606,Homo sapiens,20200512,2
+5884,RAD17,RAD17 checkpoint clamp loader component,9606,Homo sapiens,20200512,1
+5885,RAD21,RAD21 cohesin complex component,9606,Homo sapiens,20200512,3
+5887,RAD23B,"RAD23 homolog B, nucleotide excision repair protein",9606,Homo sapiens,20250220,1
+5888,RAD51,RAD51 recombinase,9606,Homo sapiens,20200512,37
+5889,RAD51C,RAD51 paralog C,9606,Homo sapiens,20200512,1
+5890,RAD51B,RAD51 paralog B,9606,Homo sapiens,20200512,2
+5892,RAD51D,RAD51 paralog D,9606,Homo sapiens,20200512,1
+5893,RAD52,"RAD52 homolog, DNA repair protein",9606,Homo sapiens,20200512,5
+5894,RAF1,"Raf-1 proto-oncogene, serine/threonine kinase",9606,Homo sapiens,20200512,2
+5896,RAG1,recombination activating 1,9606,Homo sapiens,20250220,1
+5897,RAG2,recombination activating 2,9606,Homo sapiens,20250220,1
+5898,RALA,RAS like proto-oncogene A,9606,Homo sapiens,20200512,1
+5901,RAN,"RAN, member RAS oncogene family",9606,Homo sapiens,20250220,1
+5923,RASGRF1,Ras protein specific guanine nucleotide releasing factor 1,9606,Homo sapiens,20250220,1
+5925,RB1,RB transcriptional corepressor 1,9606,Homo sapiens,20200512,7
+5932,RBBP8,"RB binding protein 8, endonuclease",9606,Homo sapiens,20200512,6
+5965,RECQL,RecQ like helicase,9606,Homo sapiens,20200512,1
+5966,REL,"REL proto-oncogene, NF-kB subunit",9606,Homo sapiens,20200512,1
+5970,RELA,"RELA proto-oncogene, NF-kB subunit",9606,Homo sapiens,20250220,6
+5971,RELB,"RELB proto-oncogene, NF-kB subunit",9606,Homo sapiens,20200512,2
+5973,RENBP,renin binding protein,9606,Homo sapiens,20250220,1
+5976,UPF1,UPF1 RNA helicase and ATPase,9606,Homo sapiens,20250220,1
+5979,RET,ret proto-oncogene,9606,Homo sapiens,20200512,12
+5980,REV3L,"REV3 like, DNA directed polymerase zeta catalytic subunit",9606,Homo sapiens,20200512,2
+5984,RFC4,replication factor C subunit 4,9606,Homo sapiens,20250220,2
+6041,RNASEL,ribonuclease L,9606,Homo sapiens,20250220,2
+6045,RNF2,ring finger protein 2,9606,Homo sapiens,20250220,4
+6047,RNF4,ring finger protein 4,9606,Homo sapiens,20250220,1
+6079,SNORD15A,"small nucleolar RNA, C/D box 15A",9606,Homo sapiens,20250220,1
+6098,ROS1,"ROS proto-oncogene 1, receptor tyrosine kinase",9606,Homo sapiens,20200512,5
+6102,RP2,RP2 activator of ARL3 GTPase,9606,Homo sapiens,20200512,1
+6117,RPA1,replication protein A1,9606,Homo sapiens,20200512,5
+6118,RPA2,replication protein A2,9606,Homo sapiens,20200512,1
+6128,RPL6,ribosomal protein L6,9606,Homo sapiens,20250220,1
+6175,RPLP0,ribosomal protein lateral stalk subunit P0,9606,Homo sapiens,20250220,1
+6188,RPS3,ribosomal protein S3,9606,Homo sapiens,20200512,2
+6195,RPS6KA1,ribosomal protein S6 kinase A1,9606,Homo sapiens,20250220,2
+6196,RPS6KA2,ribosomal protein S6 kinase A2,9606,Homo sapiens,20250220,1
+6198,RPS6KB1,ribosomal protein S6 kinase B1,9606,Homo sapiens,20250220,3
+6199,RPS6KB2,ribosomal protein S6 kinase B2,9606,Homo sapiens,20250220,1
+6222,RPS18,ribosomal protein S18,9606,Homo sapiens,20250220,1
+6229,RPS24,ribosomal protein S24,9606,Homo sapiens,20250220,1
+6233,RPS27A,ribosomal protein S27a,9606,Homo sapiens,20250220,1
+6236,RRAD,"RRAD, Ras related glycolysis inhibitor and calcium channel regulator",9606,Homo sapiens,20250220,2
+6240,RRM1,ribonucleotide reductase catalytic subunit M1,9606,Homo sapiens,20200512,1
+6241,RRM2,ribonucleotide reductase regulatory subunit M2,9606,Homo sapiens,20250220,2
+6256,RXRA,retinoid X receptor alpha,9606,Homo sapiens,20250220,3
+6277,S100A6,S100 calcium binding protein A6,9606,Homo sapiens,20200512,1
+6280,S100A9,S100 calcium binding protein A9,9606,Homo sapiens,20250220,1
+6304,SATB1,SATB homeobox 1,9606,Homo sapiens,20250220,1
+6317,SERPINB3,serpin family B member 3,9606,Homo sapiens,20250220,1
+6319,SCD,stearoyl-CoA desaturase,9606,Homo sapiens,20250220,1
+6347,CCL2,C-C motif chemokine ligand 2,9606,Homo sapiens,20250220,2
+6351,CCL4,C-C motif chemokine ligand 4,9606,Homo sapiens,20200512,1
+6352,CCL5,C-C motif chemokine ligand 5,9606,Homo sapiens,20250220,1
+6355,CCL8,C-C motif chemokine ligand 8,9606,Homo sapiens,20200512,1
+6356,CCL11,C-C motif chemokine ligand 11,9606,Homo sapiens,20200512,1
+6376,CX3CL1,C-X3-C motif chemokine ligand 1,9606,Homo sapiens,20250220,1
+6401,SELE,selectin E,9606,Homo sapiens,20200512,1
+6403,SELP,selectin P,9606,Homo sapiens,20200512,2
+6419,SETMAR,SET domain and mariner transposase fusion gene,9606,Homo sapiens,20200512,1
+6426,SRSF1,serine and arginine rich splicing factor 1,9606,Homo sapiens,20250220,1
+6446,SGK1,serum/glucocorticoid regulated kinase 1,9606,Homo sapiens,20250220,3
+6469,SHH,sonic hedgehog signaling molecule,9606,Homo sapiens,20200512,3
+6500,SKP1,S-phase kinase associated protein 1,9606,Homo sapiens,20250220,1
+6510,SLC1A5,solute carrier family 1 member 5,9606,Homo sapiens,20250220,2
+6523,SLC5A1,solute carrier family 5 member 1,9606,Homo sapiens,20200512,1
+6528,SLC5A5,solute carrier family 5 member 5,9606,Homo sapiens,20250220,4
+6564,SLC15A1,solute carrier family 15 member 1,9606,Homo sapiens,20250220,1
+6566,SLC16A1,solute carrier family 16 member 1,9606,Homo sapiens,20250220,1
+6576,SLC25A1,solute carrier family 25 member 1,9606,Homo sapiens,20250220,3
+6579,SLCO1A2,solute carrier organic anion transporter family member 1A2,9606,Homo sapiens,20250220,3
+6580,SLC22A1,solute carrier family 22 member 1,9606,Homo sapiens,20200512,1
+6591,SNAI2,snail family transcriptional repressor 2,9606,Homo sapiens,20250220,4
+6595,SMARCA2,SWI/SNF related BAF chromatin remodeling complex subunit ATPase 2,9606,Homo sapiens,20250220,2
+6597,SMARCA4,SWI/SNF related BAF chromatin remodeling complex subunit ATPase 4,9606,Homo sapiens,20250220,3
+6609,SMPD1,sphingomyelin phosphodiesterase 1,9606,Homo sapiens,20250220,3
+6613,SUMO2,small ubiquitin like modifier 2,9606,Homo sapiens,20250220,2
+6615,SNAI1,snail family transcriptional repressor 1,9606,Homo sapiens,20200512,1
+6622,SNCA,synuclein alpha,9606,Homo sapiens,20250220,2
+6647,SOD1,superoxide dismutase 1,9606,Homo sapiens,20200512,13
+6648,SOD2,superoxide dismutase 2,9606,Homo sapiens,20200512,11
+6657,SOX2,SRY-box transcription factor 2,9606,Homo sapiens,20200512,2
+6662,SOX9,SRY-box transcription factor 9,9606,Homo sapiens,20250220,1
+6667,SP1,Sp1 transcription factor,9606,Homo sapiens,20200512,2
+6696,SPP1,secreted phosphoprotein 1,9606,Homo sapiens,20250220,1
+6714,SRC,"SRC proto-oncogene, non-receptor tyrosine kinase",9606,Homo sapiens,20200512,9
+6737,TRIM21,tripartite motif containing 21,9606,Homo sapiens,20250220,4
+6749,SSRP1,structure specific recognition protein 1,9606,Homo sapiens,20250220,1
+6750,SST,somatostatin,9606,Homo sapiens,20250220,2
+6752,SSTR2,somatostatin receptor 2,9606,Homo sapiens,20250220,1
+6767,ST13,ST13 Hsp70 interacting protein,9606,Homo sapiens,20250220,1
+6772,STAT1,signal transducer and activator of transcription 1,9606,Homo sapiens,20200512,5
+6774,STAT3,signal transducer and activator of transcription 3,9606,Homo sapiens,20200512,26
+6777,STAT5B,signal transducer and activator of transcription 5B,9606,Homo sapiens,20250220,2
+6786,STIM1,stromal interaction molecule 1,9606,Homo sapiens,20250220,1
+6787,NEK4,NIMA related kinase 4,9606,Homo sapiens,20250220,1
+6790,AURKA,aurora kinase A,9606,Homo sapiens,20250220,1
+6794,STK11,serine/threonine kinase 11,9606,Homo sapiens,20200512,1
+6839,SUV39H1,SUV39H1 histone lysine methyltransferase,9606,Homo sapiens,20200512,1
+6868,ADAM17,ADAM metallopeptidase domain 17,9606,Homo sapiens,20200512,3
+6898,TAT,tyrosine aminotransferase,9606,Homo sapiens,20200512,2
+6900,CNTN2,contactin 2,9606,Homo sapiens,20250220,1
+6901,TAFAZZIN,"tafazzin, phospholipid-lysophospholipid transacylase",9606,Homo sapiens,20250220,2
+6927,HNF1A,HNF1 homeobox A,9606,Homo sapiens,20200512,1
+6962,TRBV20OR9-2,T cell receptor beta variable 20/OR9-2 (non-functional),9606,Homo sapiens,20250220,2
+6999,TDO2,"tryptophan 2,3-dioxygenase",9606,Homo sapiens,20250220,1
+7001,PRDX2,peroxiredoxin 2,9606,Homo sapiens,20200512,7
+7010,TEK,TEK receptor tyrosine kinase,9606,Homo sapiens,20250220,1
+7014,TERF2,telomeric repeat binding factor 2,9606,Homo sapiens,20250220,1
+7015,TERT,telomerase reverse transcriptase,9606,Homo sapiens,20200512,1
+7018,TF,transferrin,9606,Homo sapiens,20200512,1
+7019,TFAM,"transcription factor A, mitochondrial",9606,Homo sapiens,20250220,4
+7033,TFF3,trefoil factor 3,9606,Homo sapiens,20200512,1
+7037,TFRC,transferrin receptor,9606,Homo sapiens,20250220,1
+7039,TGFA,transforming growth factor alpha,9606,Homo sapiens,20200512,2
+7040,TGFB1,transforming growth factor beta 1,9606,Homo sapiens,20200512,40
+7052,TGM2,transglutaminase 2,9606,Homo sapiens,20250220,3
+7066,THPO,thrombopoietin,9606,Homo sapiens,20250220,2
+7070,THY1,Thy-1 cell surface antigen,9606,Homo sapiens,20200512,3
+7071,KLF10,KLF transcription factor 10,9606,Homo sapiens,20250220,1
+7072,TIA1,TIA1 cytotoxic granule associated RNA binding protein,9606,Homo sapiens,20250220,2
+7076,TIMP1,TIMP metallopeptidase inhibitor 1,9606,Homo sapiens,20200512,2
+7082,TJP1,tight junction protein 1,9606,Homo sapiens,20250220,1
+7099,TLR4,toll like receptor 4,9606,Homo sapiens,20200512,2
+7100,TLR5,toll like receptor 5,9606,Homo sapiens,20200512,1
+7122,CLDN5,claudin 5,9606,Homo sapiens,20250220,1
+7124,TNF,tumor necrosis factor,9606,Homo sapiens,20200512,22
+7130,TNFAIP6,TNF alpha induced protein 6,9606,Homo sapiens,20200512,2
+7132,TNFRSF1A,TNF receptor superfamily member 1A,9606,Homo sapiens,20200512,1
+7138,TNNT1,"troponin T1, slow skeletal type",9606,Homo sapiens,20200512,2
+7150,TOP1,DNA topoisomerase I,9606,Homo sapiens,20200512,1
+7153,TOP2A,DNA topoisomerase II alpha,9606,Homo sapiens,20250220,1
+7155,TOP2B,DNA topoisomerase II beta,9606,Homo sapiens,20250220,1
+7157,TP53,tumor protein p53,9606,Homo sapiens,20200512,144
+7158,TP53BP1,tumor protein p53 binding protein 1,9606,Homo sapiens,20200512,80
+7161,TP73,tumor protein p73,9606,Homo sapiens,20200512,2
+7182,NR2C2,nuclear receptor subfamily 2 group C member 2,9606,Homo sapiens,20200512,1
+7186,TRAF2,TNF receptor associated factor 2,9606,Homo sapiens,20200512,1
+7226,TRPM2,transient receptor potential cation channel subfamily M member 2,9606,Homo sapiens,20250220,2
+7251,TSG101,tumor susceptibility 101,9606,Homo sapiens,20250220,1
+7273,TTN,titin,9606,Homo sapiens,20250220,3
+7290,HIRA,histone cell cycle regulator,9606,Homo sapiens,20250220,1
+7292,TNFSF4,TNF superfamily member 4,9606,Homo sapiens,20200512,1
+7294,TXK,TXK tyrosine kinase,9606,Homo sapiens,20250220,1
+7295,TXN,thioredoxin,9606,Homo sapiens,20200512,5
+7299,TYR,tyrosinase,9606,Homo sapiens,20200512,3
+7329,UBE2I,ubiquitin conjugating enzyme E2 I,9606,Homo sapiens,20250220,1
+7332,UBE2L3,ubiquitin conjugating enzyme E2 L3,9606,Homo sapiens,20200512,1
+7334,UBE2N,ubiquitin conjugating enzyme E2 N,9606,Homo sapiens,20250220,1
+7347,UCHL3,ubiquitin C-terminal hydrolase L3,9606,Homo sapiens,20250220,1
+7349,UCN,urocortin,9606,Homo sapiens,20200512,1
+7350,UCP1,uncoupling protein 1,9606,Homo sapiens,20250220,1
+7356,SCGB1A1,secretoglobin family 1A member 1,9606,Homo sapiens,20250220,1
+7357,UGCG,UDP-glucose ceramide glucosyltransferase,9606,Homo sapiens,20250220,1
+7374,UNG,uracil DNA glycosylase,9606,Homo sapiens,20200512,1
+7381,UQCRB,ubiquinol-cytochrome c reductase binding protein,9606,Homo sapiens,20250220,2
+7402,UTRN,utrophin,9606,Homo sapiens,20250220,1
+7405,UVRAG,UV radiation resistance associated,9606,Homo sapiens,20250220,1
+7410,VAV2,vav guanine nucleotide exchange factor 2,9606,Homo sapiens,20250220,1
+7412,VCAM1,vascular cell adhesion molecule 1,9606,Homo sapiens,20200512,5
+7415,VCP,valosin containing protein,9606,Homo sapiens,20250220,4
+7416,VDAC1,voltage dependent anion channel 1,9606,Homo sapiens,20250220,2
+7422,VEGFA,vascular endothelial growth factor A,9606,Homo sapiens,20200512,14
+7424,VEGFC,vascular endothelial growth factor C,9606,Homo sapiens,20250220,2
+7431,VIM,vimentin,9606,Homo sapiens,20250220,4
+7443,VRK1,VRK serine/threonine kinase 1,9606,Homo sapiens,20200512,6
+7454,WAS,WASP actin nucleation promoting factor,9606,Homo sapiens,20250220,2
+7456,WIPF1,WAS/WASL interacting protein family member 1,9606,Homo sapiens,20200512,1
+7465,WEE1,WEE1 G2 checkpoint kinase,9606,Homo sapiens,20200512,3
+7486,WRN,WRN RecQ like helicase,9606,Homo sapiens,20200512,2
+7494,XBP1,X-box binding protein 1,9606,Homo sapiens,20250220,1
+7498,XDH,xanthine dehydrogenase,9606,Homo sapiens,20200512,1
+7503,XIST,X inactive specific transcript,9606,Homo sapiens,20250220,1
+7507,XPA,"XPA, DNA damage recognition and repair factor",9606,Homo sapiens,20250220,2
+7508,XPC,"XPC complex subunit, DNA damage recognition and repair factor",9606,Homo sapiens,20200512,6
+7514,XPO1,exportin 1,9606,Homo sapiens,20250220,1
+7515,XRCC1,X-ray repair cross complementing 1,9606,Homo sapiens,20250220,126
+7516,XRCC2,X-ray repair cross complementing 2,9606,Homo sapiens,20250220,11
+7517,XRCC3,X-ray repair cross complementing 3,9606,Homo sapiens,20200512,20
+7518,XRCC4,X-ray repair cross complementing 4,9606,Homo sapiens,20200512,40
+7520,XRCC5,X-ray repair cross complementing 5,9606,Homo sapiens,20200512,34
+7528,YY1,YY1 transcription factor,9606,Homo sapiens,20250220,2
+7534,YWHAZ,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta,9606,Homo sapiens,20250220,2
+7726,TRIM26,tripartite motif containing 26,9606,Homo sapiens,20250220,1
+7799,PRDM2,PR/SET domain 2,9606,Homo sapiens,20250220,5
+7818,DAP3,death associated protein 3,9606,Homo sapiens,20200512,1
+7837,PXDN,peroxidasin,9606,Homo sapiens,20250220,1
+7852,CXCR4,C-X-C motif chemokine receptor 4,9606,Homo sapiens,20250220,4
+7913,DEK,DEK proto-oncogene,9606,Homo sapiens,20250220,1
+7936,NELFE,negative elongation factor complex member E,9606,Homo sapiens,20250220,1
+7965,AIMP2,aminoacyl tRNA synthetase complex interacting multifunctional protein 2,9606,Homo sapiens,20250220,2
+8061,FOSL1,"FOS like 1, AP-1 transcription factor subunit",9606,Homo sapiens,20250220,6
+8073,PTP4A2,protein tyrosine phosphatase 4A2,9606,Homo sapiens,20250220,1
+8140,SLC7A5,solute carrier family 7 member 5,9606,Homo sapiens,20250220,2
+8161,COIL,coilin,9606,Homo sapiens,20200512,1
+8239,USP9X,ubiquitin specific peptidase 9 X-linked,9606,Homo sapiens,20200512,1
+8243,SMC1A,structural maintenance of chromosomes 1A,9606,Homo sapiens,20200512,5
+8277,TKTL1,transketolase like 1,9606,Homo sapiens,20250220,3
+8289,ARID1A,AT-rich interaction domain 1A,9606,Homo sapiens,20200512,8
+8312,AXIN1,axin 1,9606,Homo sapiens,20250220,1
+8314,BAP1,BRCA1 associated deubiquitinase 1,9606,Homo sapiens,20200512,2
+8337,H2AC18,H2A clustered histone 18,9606,Homo sapiens,20250220,2
+8349,H2BC21,H2B clustered histone 21,9606,Homo sapiens,20250220,2
+8356,H3C12,H3 clustered histone 12,9606,Homo sapiens,20200512,1
+8379,MAD1L1,mitotic arrest deficient 1 like 1,9606,Homo sapiens,20250220,1
+8402,SLC25A11,solute carrier family 25 member 11,9606,Homo sapiens,20250220,1
+8405,SPOP,speckle type BTB/POZ protein,9606,Homo sapiens,20250220,1
+8407,TAGLN2,transgelin 2,9606,Homo sapiens,20250220,2
+8408,ULK1,unc-51 like autophagy activating kinase 1,9606,Homo sapiens,20250220,4
+8438,RAD54L,RAD54 like,9606,Homo sapiens,20250220,2
+8448,DOC2A,double C2 domain alpha,9606,Homo sapiens,20250220,1
+8454,CUL1,cullin 1,9606,Homo sapiens,20250220,1
+8456,FOXN1,forkhead box N1,9606,Homo sapiens,20250220,1
+8493,PPM1D,"protein phosphatase, Mg2+/Mn2+ dependent 1D",9606,Homo sapiens,20200512,3
+8505,PARG,poly(ADP-ribose) glycohydrolase,9606,Homo sapiens,20250220,5
+8517,IKBKG,inhibitor of nuclear factor kappa B kinase regulatory subunit gamma,9606,Homo sapiens,20250220,3
+8518,ELP1,elongator acetyltransferase complex subunit 1,9606,Homo sapiens,20250220,1
+8535,CBX4,chromobox 4,9606,Homo sapiens,20200512,1
+8554,PIAS1,protein inhibitor of activated STAT 1,9606,Homo sapiens,20200512,1
+8626,TP63,tumor protein p63,9606,Homo sapiens,20200512,4
+8644,AKR1C3,aldo-keto reductase family 1 member C3,9606,Homo sapiens,20200512,1
+8651,SOCS1,suppressor of cytokine signaling 1,9606,Homo sapiens,20200512,5
+8655,DYNLL1,dynein light chain LC8-type 1,9606,Homo sapiens,20250220,1
+8658,TNKS,tankyrase,9606,Homo sapiens,20200512,4
+8662,EIF3B,eukaryotic translation initiation factor 3 subunit B,9606,Homo sapiens,20250220,1
+8664,EIF3D,eukaryotic translation initiation factor 3 subunit D,9606,Homo sapiens,20250220,1
+8669,EIF3J,eukaryotic translation initiation factor 3 subunit J,9606,Homo sapiens,20250220,1
+8678,BECN1,beclin 1,9606,Homo sapiens,20250220,9
+8694,DGAT1,diacylglycerol O-acyltransferase 1,9606,Homo sapiens,20250220,1
+8737,RIPK1,receptor interacting serine/threonine kinase 1,9606,Homo sapiens,20250220,2
+8744,TNFSF9,TNF superfamily member 9,9606,Homo sapiens,20200512,1
+8754,ADAM9,ADAM metallopeptidase domain 9,9606,Homo sapiens,20250220,1
+8766,RAB11A,"RAB11A, member RAS oncogene family",9606,Homo sapiens,20250220,1
+8792,TNFRSF11A,TNF receptor superfamily member 11a,9606,Homo sapiens,20200512,1
+8794,TNFRSF10C,TNF receptor superfamily member 10c,9606,Homo sapiens,20200512,1
+8795,TNFRSF10B,TNF receptor superfamily member 10b,9606,Homo sapiens,20250220,2
+8797,TNFRSF10A,TNF receptor superfamily member 10a,9606,Homo sapiens,20200512,1
+8821,INPP4B,inositol polyphosphate-4-phosphatase type II B,9606,Homo sapiens,20250220,1
+8829,NRP1,neuropilin 1,9606,Homo sapiens,20250220,1
+8833,GMPS,guanine monophosphate synthase,9606,Homo sapiens,20250220,1
+8837,CFLAR,CASP8 and FADD like apoptosis regulator,9606,Homo sapiens,20250220,1
+8842,PROM1,prominin 1,9606,Homo sapiens,20200512,6
+8850,KAT2B,lysine acetyltransferase 2B,9606,Homo sapiens,20250220,2
+8856,NR1I2,nuclear receptor subfamily 1 group I member 2,9606,Homo sapiens,20250220,1
+8864,PER2,period circadian regulator 2,9606,Homo sapiens,20200512,1
+8870,IER3,immediate early response 3,9606,Homo sapiens,20200512,1
+8878,SQSTM1,sequestosome 1,9606,Homo sapiens,20250220,12
+8881,CDC16,cell division cycle 16,9606,Homo sapiens,20200512,1
+8894,EIF2S2,eukaryotic translation initiation factor 2 subunit beta,9606,Homo sapiens,20250220,2
+8899,PRP4K,pre-mRNA processing factor kinase PRP4K,9606,Homo sapiens,20200512,1
+8900,CCNA1,cyclin A1,9606,Homo sapiens,20200512,1
+8924,HERC2,HECT and RLD domain containing E3 ubiquitin protein ligase 2,9606,Homo sapiens,20200512,2
+9020,MAP3K14,mitogen-activated protein kinase kinase kinase 14,9606,Homo sapiens,20250220,1
+9021,SOCS3,suppressor of cytokine signaling 3,9606,Homo sapiens,20200512,2
+9025,RNF8,ring finger protein 8,9606,Homo sapiens,20200512,7
+9040,UBE2M,ubiquitin conjugating enzyme E2 M,9606,Homo sapiens,20250220,1
+9048,ARTN,artemin,9606,Homo sapiens,20200512,2
+9049,AIP,AHR interacting HSP90 co-chaperone,9606,Homo sapiens,20250220,1
+9097,USP14,ubiquitin specific peptidase 14,9606,Homo sapiens,20250220,4
+9098,USP6,ubiquitin specific peptidase 6,9606,Homo sapiens,20250220,1
+9101,USP8,ubiquitin specific peptidase 8,9606,Homo sapiens,20250220,1
+9104,RGN,regucalcin,9606,Homo sapiens,20200512,1
+9112,MTA1,metastasis associated 1,9606,Homo sapiens,20200512,1
+9126,SMC3,structural maintenance of chromosomes 3,9606,Homo sapiens,20200512,1
+9133,CCNB2,cyclin B2,9606,Homo sapiens,20250220,1
+9140,ATG12,autophagy related 12,9606,Homo sapiens,20200512,1
+9149,DYRK1B,dual specificity tyrosine phosphorylation regulated kinase 1B,9606,Homo sapiens,20250220,1
+9156,EXO1,exonuclease 1,9606,Homo sapiens,20200512,2
+9170,LPAR2,lysophosphatidic acid receptor 2,9606,Homo sapiens,20250220,6
+9180,OSMR,oncostatin M receptor,9606,Homo sapiens,20250220,2
+9184,BUB3,BUB3 mitotic checkpoint protein,9606,Homo sapiens,20250220,3
+9197,SLC33A1,solute carrier family 33 member 1,9606,Homo sapiens,20200512,1
+9212,AURKB,aurora kinase B,9606,Homo sapiens,20250220,2
+9223,MAGI1,"membrane associated guanylate kinase, WW and PDZ domain containing 1",9606,Homo sapiens,20250220,1
+9232,PTTG1,"PTTG1 regulator of sister chromatid separation, securin",9606,Homo sapiens,20200512,1
+9235,IL32,interleukin 32,9606,Homo sapiens,20200512,2
+9260,PDLIM7,PDZ and LIM domain 7,9606,Homo sapiens,20250220,1
+9261,MAPKAPK2,MAPK activated protein kinase 2,9606,Homo sapiens,20250220,1
+9274,BCL7C,BAF chromatin remodeling complex subunit BCL7C,9606,Homo sapiens,20250220,1
+9308,CD83,CD83 molecule,9606,Homo sapiens,20250220,1
+9314,KLF4,KLF transcription factor 4,9606,Homo sapiens,20250220,2
+9319,TRIP13,thyroid hormone receptor interactor 13,9606,Homo sapiens,20250220,2
+9320,TRIP12,thyroid hormone receptor interactor 12,9606,Homo sapiens,20250220,1
+9337,CNOT8,CCR4-NOT transcription complex subunit 8,9606,Homo sapiens,20250220,2
+9352,TXNL1,thioredoxin like 1,9606,Homo sapiens,20250220,1
+9360,PPIG,peptidylprolyl isomerase G,9606,Homo sapiens,20200512,1
+9370,ADIPOQ,"adiponectin, C1Q and collagen domain containing",9606,Homo sapiens,20250220,2
+9401,RECQL4,RecQ like helicase 4,9606,Homo sapiens,20200512,2
+9414,TJP2,tight junction protein 2,9606,Homo sapiens,20250220,1
+9436,NCR2,natural cytotoxicity triggering receptor 2,9606,Homo sapiens,20250220,1
+9451,EIF2AK3,eukaryotic translation initiation factor 2 alpha kinase 3,9606,Homo sapiens,20200512,6
+9465,AKAP7,A-kinase anchoring protein 7,9606,Homo sapiens,20250220,1
+9474,ATG5,autophagy related 5,9606,Homo sapiens,20200512,3
+9493,KIF23,kinesin family member 23,9606,Homo sapiens,20250220,1
+9500,MAGED1,MAGE family member D1,9606,Homo sapiens,20250220,2
+9518,GDF15,growth differentiation factor 15,9606,Homo sapiens,20250220,1
+9524,TECR,"trans-2,3-enoyl-CoA reductase",9606,Homo sapiens,20250220,1
+9557,CHD1L,chromodomain helicase DNA binding protein 1 like,9606,Homo sapiens,20250220,1
+9577,BABAM2,BRISC and BRCA1 A complex member 2,9606,Homo sapiens,20200512,1
+9582,APOBEC3B,apolipoprotein B mRNA editing enzyme catalytic subunit 3B,9606,Homo sapiens,20250220,2
+9588,PRDX6,peroxiredoxin 6,9606,Homo sapiens,20200512,3
+9589,WTAP,WT1 associated protein,9606,Homo sapiens,20250220,1
+9618,TRAF4,TNF receptor associated factor 4,9606,Homo sapiens,20250220,1
+9656,MDC1,mediator of DNA damage checkpoint 1,9606,Homo sapiens,20200512,7
+9698,PUM1,pumilio RNA binding family member 1,9606,Homo sapiens,20250220,1
+9734,HDAC9,histone deacetylase 9,9606,Homo sapiens,20250220,3
+9759,HDAC4,histone deacetylase 4,9606,Homo sapiens,20250220,1
+9768,PCLAF,PCNA clamp associated factor,9606,Homo sapiens,20250220,6
+9776,ATG13,autophagy related 13,9606,Homo sapiens,20250220,1
+9780,PIEZO1,piezo type mechanosensitive ion channel component 1 (Er blood group),9606,Homo sapiens,20250220,1
+9787,DLGAP5,DLG associated protein 5,9606,Homo sapiens,20250220,1
+9817,KEAP1,kelch like ECH associated protein 1,9606,Homo sapiens,20200512,6
+9821,RB1CC1,RB1 inducible coiled-coil 1,9606,Homo sapiens,20250220,2
+9825,SPATA2,spermatogenesis associated 2,9606,Homo sapiens,20250220,1
+9874,TLK1,tousled like kinase 1,9606,Homo sapiens,20200512,2
+9927,MFN2,mitofusin 2,9606,Homo sapiens,20250220,2
+9937,DCLRE1A,DNA cross-link repair 1A,9606,Homo sapiens,20200512,2
+9960,USP3,ubiquitin specific peptidase 3,9606,Homo sapiens,20200512,1
+9970,NR1I3,nuclear receptor subfamily 1 group I member 3,9606,Homo sapiens,20250220,1
+9987,HNRNPDL,heterogeneous nuclear ribonucleoprotein D like,9606,Homo sapiens,20200512,1
+9994,CASP8AP2,caspase 8 associated protein 2,9606,Homo sapiens,20200512,1
+9997,SCO2,synthesis of cytochrome C oxidase 2,9606,Homo sapiens,20200512,1
+10006,ABI1,abl interactor 1,9606,Homo sapiens,20250220,1
+10013,HDAC6,histone deacetylase 6,9606,Homo sapiens,20250220,1
+10015,PDCD6IP,programmed cell death 6 interacting protein,9606,Homo sapiens,20250220,1
+10018,BCL2L11,BCL2 like 11,9606,Homo sapiens,20250220,2
+10036,CHAF1A,chromatin assembly factor 1 subunit A,9606,Homo sapiens,20250220,1
+10038,PARP2,poly(ADP-ribose) polymerase 2,9606,Homo sapiens,20200512,3
+10048,RANBP9,RAN binding protein 9,9606,Homo sapiens,20200512,1
+10051,SMC4,structural maintenance of chromosomes 4,9606,Homo sapiens,20250220,1
+10059,DNM1L,dynamin 1 like,9606,Homo sapiens,20250220,5
+10111,RAD50,RAD50 double strand break repair protein,9606,Homo sapiens,20200512,8
+10112,KIF20A,kinesin family member 20A,9606,Homo sapiens,20250220,1
+10135,NAMPT,nicotinamide phosphoribosyltransferase,9606,Homo sapiens,20250220,5
+10153,CEBPZ,CCAAT enhancer binding protein zeta,9606,Homo sapiens,20200512,1
+10155,TRIM28,tripartite motif containing 28,9606,Homo sapiens,20200512,2
+10162,LPCAT3,lysophosphatidylcholine acyltransferase 3,9606,Homo sapiens,20250220,1
+10197,PSME3,proteasome activator subunit 3,9606,Homo sapiens,20250220,1
+10224,ZNF443,zinc finger protein 443,9606,Homo sapiens,20200512,1
+10241,CALCOCO2,calcium binding and coiled-coil domain 2,9606,Homo sapiens,20250220,4
+10249,GLYAT,glycine-N-acyltransferase,9606,Homo sapiens,20200512,1
+10265,IRX5,iroquois homeobox 5,9606,Homo sapiens,20200512,1
+10273,STUB1,STIP1 homology and U-box containing protein 1,9606,Homo sapiens,20250220,1
+10293,TRAIP,TRAF interacting protein,9606,Homo sapiens,20250220,1
+10309,CCNO,cyclin O,9606,Homo sapiens,20200512,1
+10320,IKZF1,IKAROS family zinc finger 1,9606,Homo sapiens,20200512,1
+10327,AKR1A1,aldo-keto reductase family 1 member A1,9606,Homo sapiens,20250220,1
+10346,TRIM22,tripartite motif containing 22,9606,Homo sapiens,20250220,1
+10365,KLF2,KLF transcription factor 2,9606,Homo sapiens,20250220,1
+10381,TUBB3,tubulin beta 3 class III,9606,Homo sapiens,20250220,1
+10413,YAP1,Yes1 associated transcriptional regulator,9606,Homo sapiens,20250220,5
+10419,PRMT5,protein arginine methyltransferase 5,9606,Homo sapiens,20250220,3
+10432,RBM14,RNA binding motif protein 14,9606,Homo sapiens,20250220,1
+10459,MAD2L2,mitotic arrest deficient 2 like 2,9606,Homo sapiens,20250220,1
+10468,FST,follistatin,9606,Homo sapiens,20200512,1
+10480,EIF3M,eukaryotic translation initiation factor 3 subunit M,9606,Homo sapiens,20250220,1
+10492,SYNCRIP,synaptotagmin binding cytoplasmic RNA interacting protein,9606,Homo sapiens,20250220,1
+10524,KAT5,lysine acetyltransferase 5,9606,Homo sapiens,20200512,3
+10533,ATG7,autophagy related 7,9606,Homo sapiens,20250220,2
+10535,RNASEH2A,ribonuclease H2 subunit A,9606,Homo sapiens,20250220,1
+10542,LAMTOR5,"late endosomal/lysosomal adaptor, MAPK and MTOR activator 5",9606,Homo sapiens,20200512,1
+10549,PRDX4,peroxiredoxin 4,9606,Homo sapiens,20250220,1
+10550,ARL6IP5,ARF like GTPase 6 interacting protein 5,9606,Homo sapiens,20250220,2
+10551,AGR2,"anterior gradient 2, protein disulphide isomerase family member",9606,Homo sapiens,20250220,1
+10591,DNPH1,2'-deoxynucleoside 5'-phosphate N-hydrolase 1,9606,Homo sapiens,20250220,1
+10592,SMC2,structural maintenance of chromosomes 2,9606,Homo sapiens,20200512,1
+10608,MXD4,MAX dimerization protein 4,9606,Homo sapiens,20200512,1
+10631,POSTN,periostin,9606,Homo sapiens,20250220,1
+10657,KHDRBS1,"KH RNA binding domain containing, signal transduction associated 1",9606,Homo sapiens,20200512,2
+10659,CELF2,CUGBP Elav-like family member 2,9606,Homo sapiens,20250220,2
+10663,CXCR6,C-X-C motif chemokine receptor 6,9606,Homo sapiens,20250220,2
+10664,CTCF,CCCTC-binding factor,9606,Homo sapiens,20250220,2
+10683,DLL3,delta like canonical Notch ligand 3,9606,Homo sapiens,20250220,1
+10721,POLQ,DNA polymerase theta,9606,Homo sapiens,20200512,2
+10725,NFAT5,nuclear factor of activated T cells 5,9606,Homo sapiens,20250220,1
+10763,NES,nestin,9606,Homo sapiens,20200512,1
+10797,MTHFD2,"methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase",9606,Homo sapiens,20250220,2
+10825,NEU3,neuraminidase 3,9606,Homo sapiens,20200512,1
+10850,CCL27,C-C motif chemokine ligand 27,9606,Homo sapiens,20250220,4
+10855,HPSE,heparanase,9606,Homo sapiens,20250220,2
+10857,PGRMC1,progesterone receptor membrane component 1,9606,Homo sapiens,20250220,5
+10882,C1QL1,complement C1q like 1,9606,Homo sapiens,20200512,2
+10894,LYVE1,lymphatic vessel endothelial hyaluronan receptor 1,9606,Homo sapiens,20250220,2
+10919,EHMT2,euchromatic histone lysine methyltransferase 2,9606,Homo sapiens,20250220,1
+10926,DBF4,DBF4-CDC7 kinase regulatory subunit,9606,Homo sapiens,20200512,1
+10951,CBX1,chromobox 1,9606,Homo sapiens,20250220,2
+10961,ERP29,endoplasmic reticulum protein 29,9606,Homo sapiens,20200512,1
+10970,CKAP4,cytoskeleton associated protein 4,9606,Homo sapiens,20200512,1
+10984,KCNQ1OT1,KCNQ1 opposite strand/antisense transcript 1,9606,Homo sapiens,20250220,1
+11009,IL24,interleukin 24,9606,Homo sapiens,20200512,1
+11035,RIPK3,receptor interacting serine/threonine kinase 3,9606,Homo sapiens,20250220,1
+11073,TOPBP1,DNA topoisomerase II binding protein 1,9606,Homo sapiens,20200512,1
+11074,TRIM31,tripartite motif containing 31,9606,Homo sapiens,20200512,1
+11162,NUDT6,nudix hydrolase 6,9606,Homo sapiens,20200512,1
+11198,SUPT16H,"SPT16 homolog, facilitates chromatin remodeling subunit",9606,Homo sapiens,20250220,1
+11200,CHEK2,checkpoint kinase 2,9606,Homo sapiens,20200512,18
+11261,CHP1,calcineurin like EF-hand protein 1,9606,Homo sapiens,20250220,1
+11277,TREX1,three prime repair exonuclease 1,9606,Homo sapiens,20250220,1
+11284,PNKP,polynucleotide kinase 3'-phosphatase,9606,Homo sapiens,20250220,5
+11315,PARK7,Parkinsonism associated deglycase,9606,Homo sapiens,20250220,1
+11335,CBX3,chromobox 3,9606,Homo sapiens,20250220,1
+11350,Abl1,"c-abl oncogene 1, non-receptor tyrosine kinase",10090,Mus musculus,20250220,2
+11423,Ache,acetylcholinesterase,10090,Mus musculus,20250220,1
+11475,Acta2,"actin alpha 2, smooth muscle, aorta",10090,Mus musculus,20250220,1
+11545,Parp1,"poly (ADP-ribose) polymerase family, member 1",10090,Mus musculus,20250220,13
+11556,Adrb3,"adrenergic receptor, beta 3",10090,Mus musculus,20250220,1
+11651,Akt1,thymoma viral proto-oncogene 1,10090,Mus musculus,20250220,5
+11668,Aldh1a1,"aldehyde dehydrogenase family 1, subfamily A1",10090,Mus musculus,20250220,2
+11745,Anxa3,annexin A3,10090,Mus musculus,20250220,2
+11758,Prdx6,peroxiredoxin 6,10090,Mus musculus,20250220,5
+11789,Apc,"APC, WNT signaling pathway regulator",10090,Mus musculus,20250220,5
+11792,Apex1,apurinic/apyrimidinic endonuclease 1,10090,Mus musculus,20250220,2
+11793,Atg5,autophagy related 5,10090,Mus musculus,20250220,1
+11799,Birc5,baculoviral IAP repeat-containing 5,10090,Mus musculus,20250220,4
+11816,Apoe,apolipoprotein E,10090,Mus musculus,20250220,2
+11820,App,amyloid beta precursor protein,10090,Mus musculus,20250220,1
+11826,Aqp1,aquaporin 1,10090,Mus musculus,20250220,2
+11848,Rhoa,ras homolog family member A,10090,Mus musculus,20250220,1
+11877,Arvcf,armadillo repeat gene deleted in velocardiofacial syndrome,10090,Mus musculus,20250220,1
+11898,Ass1,argininosuccinate synthetase 1,10090,Mus musculus,20250220,1
+11911,Atf4,activating transcription factor 4,10090,Mus musculus,20250220,3
+11920,Atm,ataxia telangiectasia mutated,10090,Mus musculus,20250220,10
+12028,Bax,BCL2-associated X protein,10090,Mus musculus,20250220,3
+12032,Bcan,brevican,10090,Mus musculus,20250220,1
+12043,Bcl2,B cell leukemia/lymphoma 2,10090,Mus musculus,20250220,5
+12048,Bcl2l1,BCL2-like 1,10090,Mus musculus,20250220,1
+12064,Bdnf,brain derived neurotrophic factor,10090,Mus musculus,20250220,1
+12091,Glb1,"galactosidase, beta 1",10090,Mus musculus,20250220,2
+12151,Bmi1,Bmi1 polycomb ring finger oncogene,10090,Mus musculus,20250220,4
+12176,Bnip3,BCL2/adenovirus E1B interacting protein 3,10090,Mus musculus,20250220,2
+12189,Brca1,"breast cancer 1, early onset",10090,Mus musculus,20250220,1
+12317,Calr,calreticulin,10090,Mus musculus,20250220,2
+12359,Cat,catalase,10090,Mus musculus,20250220,2
+12364,Casp12,caspase 12,10090,Mus musculus,20250220,1
+12367,Casp3,caspase 3,10090,Mus musculus,20250220,9
+12387,Ctnnb1,catenin beta 1,10090,Mus musculus,20250220,1
+12389,Cav1,"caveolin 1, caveolae protein",10090,Mus musculus,20250220,3
+12393,Runx2,runt related transcription factor 2,10090,Mus musculus,20250220,1
+12394,Runx1,runt related transcription factor 1,10090,Mus musculus,20250220,1
+12402,Cbl,Casitas B-lineage lymphoma,10090,Mus musculus,20250220,1
+12421,Rb1cc1,RB1-inducible coiled-coil 1,10090,Mus musculus,20250220,1
+12426,Cckbr,cholecystokinin B receptor,10090,Mus musculus,20250220,1
+12443,Ccnd1,cyclin D1,10090,Mus musculus,20250220,1
+12454,Ccnk,cyclin K,10090,Mus musculus,20250220,1
+12477,Ctla4,cytotoxic T-lymphocyte-associated protein 4,10090,Mus musculus,20250220,2
+12481,Cd2,CD2 antigen,10090,Mus musculus,20250220,1
+12495,Entpd1,ectonucleoside triphosphate diphosphohydrolase 1,10090,Mus musculus,20250220,1
+12503,Cd247,CD247 antigen,10090,Mus musculus,20250220,2
+12504,Cd4,CD4 antigen,10090,Mus musculus,20250220,5
+12514,Cd68,CD68 antigen,10090,Mus musculus,20250220,3
+12519,Cd80,CD80 antigen,10090,Mus musculus,20250220,1
+12524,Cd86,CD86 antigen,10090,Mus musculus,20250220,1
+12531,Cdc25b,cell division cycle 25B,10090,Mus musculus,20250220,1
+12534,Cdk1,cyclin dependent kinase 1,10090,Mus musculus,20250220,2
+12550,Cdh1,cadherin 1,10090,Mus musculus,20250220,2
+12571,Cdk6,cyclin dependent kinase 6,10090,Mus musculus,20250220,1
+12572,Cdk7,cyclin dependent kinase 7,10090,Mus musculus,20250220,2
+12575,Cdkn1a,cyclin dependent kinase inhibitor 1A,10090,Mus musculus,20250220,10
+12578,Cdkn2a,cyclin dependent kinase inhibitor 2A,10090,Mus musculus,20250220,3
+12631,Cfl1,"cofilin 1, non-muscle",10090,Mus musculus,20250220,1
+12647,Chat,choline O-acetyltransferase,10090,Mus musculus,20250220,1
+12649,Chek1,checkpoint kinase 1,10090,Mus musculus,20250220,2
+12741,Cldn5,claudin 5,10090,Mus musculus,20250220,1
+12753,Clock,clock circadian regulator,10090,Mus musculus,20250220,2
+12765,Cxcr2,C-X-C motif chemokine receptor 2,10090,Mus musculus,20250220,1
+12766,Cxcr3,C-X-C motif chemokine receptor 3,10090,Mus musculus,20250220,1
+12767,Cxcr4,C-X-C motif chemokine receptor 4,10090,Mus musculus,20250220,2
+12774,Ccr5,C-C motif chemokine receptor 5,10090,Mus musculus,20250220,1
+12775,Ccr7,C-C motif chemokine receptor 7,10090,Mus musculus,20250220,3
+12834,Col6a2,"collagen, type VI, alpha 2",10090,Mus musculus,20250220,1
+12914,Crebbp,CREB binding protein,10090,Mus musculus,20250220,1
+12981,Csf2,colony stimulating factor 2 (granulocyte-macrophage),10090,Mus musculus,20250220,3
+12985,Csf3,colony stimulating factor 3 (granulocyte),10090,Mus musculus,20250220,8
+13003,Vcan,versican,10090,Mus musculus,20250220,1
+13004,Ncan,neurocan,10090,Mus musculus,20250220,1
+13018,Ctcf,CCCTC-binding factor,10090,Mus musculus,20250220,1
+13075,Cyp19a1,"cytochrome P450, family 19, subfamily a, polypeptide 1",10090,Mus musculus,20250220,1
+13163,Daxx,Fas death domain-associated protein,10090,Mus musculus,20250220,1
+13175,Dclk1,doublecortin-like kinase 1,10090,Mus musculus,20250220,2
+13176,Dcc,DCC netrin 1 receptor,10090,Mus musculus,20250220,1
+13179,Dcn,decorin,10090,Mus musculus,20250220,1
+13197,Gadd45a,growth arrest and DNA-damage-inducible 45 alpha,10090,Mus musculus,20250220,1
+13198,Ddit3,DNA-damage inducible transcript 3,10090,Mus musculus,20250220,2
+13350,Dgat1,diacylglycerol O-acyltransferase 1,10090,Mus musculus,20250220,1
+13358,Slc25a1,"solute carrier family 25 (mitochondrial carrier, citrate transporter), member 1",10090,Mus musculus,20250220,1
+13368,Dffb,"DNA fragmentation factor, beta subunit",10090,Mus musculus,20250220,1
+13384,Mpp3,"membrane protein, palmitoylated 3 (MAGUK p55 subfamily member 3)",10090,Mus musculus,20250220,1
+13386,Dlk1,delta like non-canonical Notch ligand 1,10090,Mus musculus,20250220,1
+13405,Dmd,"dystrophin, muscular dystrophy",10090,Mus musculus,20250220,2
+13488,Drd1,dopamine receptor D1,10090,Mus musculus,20250220,1
+13555,E2f1,E2F transcription factor 1,10090,Mus musculus,20250220,1
+13645,Egf,epidermal growth factor,10090,Mus musculus,20250220,1
+13649,Egfr,epidermal growth factor receptor,10090,Mus musculus,20250220,6
+13666,Eif2ak3,eukaryotic translation initiation factor 2 alpha kinase 3,10090,Mus musculus,20250220,1
+13682,Eif4a2,eukaryotic translation initiation factor 4A2,10090,Mus musculus,20250220,1
+13733,Adgre1,adhesion G protein-coupled receptor E1,10090,Mus musculus,20250220,1
+13819,Epas1,endothelial PAS domain protein 1,10090,Mus musculus,20250220,2
+13844,Ephb2,Eph receptor B2,10090,Mus musculus,20250220,1
+13856,Epo,erythropoietin,10090,Mus musculus,20250220,1
+13866,Erbb2,erb-b2 receptor tyrosine kinase 2,10090,Mus musculus,20250220,6
+13871,Ercc2,"excision repair cross-complementing rodent repair deficiency, complementation group 2",10090,Mus musculus,20250220,2
+13982,Esr1,estrogen receptor 1 (alpha),10090,Mus musculus,20250220,1
+14087,Fanca,"Fanconi anemia, complementation group A",10090,Mus musculus,20250220,1
+14104,Fasn,fatty acid synthase,10090,Mus musculus,20250220,1
+14149,Fdxr,ferredoxin reductase,10090,Mus musculus,20250220,1
+14160,Lgr5,leucine rich repeat containing G protein coupled receptor 5,10090,Mus musculus,20250220,5
+14219,Ccn2,cellular communication network factor 2,10090,Mus musculus,20250220,4
+14238,Foxf2,forkhead box F2,10090,Mus musculus,20250220,1
+14256,Flt3l,FMS-like tyrosine kinase 3 ligand,10090,Mus musculus,20250220,1
+14314,Fstl1,follistatin-like 1,10090,Mus musculus,20250220,1
+14319,Fth1,ferritin heavy polypeptide 1,10090,Mus musculus,20250220,2
+14375,Xrcc6,X-ray repair complementing defective repair in Chinese hamster cells 6,10090,Mus musculus,20250220,2
+14528,Gch1,GTP cyclohydrolase 1,10090,Mus musculus,20250220,2
+14580,Gfap,glial fibrillary acidic protein,10090,Mus musculus,20250220,1
+14629,Gclc,"glutamate-cysteine ligase, catalytic subunit",10090,Mus musculus,20250220,1
+14630,Gclm,"glutamate-cysteine ligase, modifier subunit",10090,Mus musculus,20250220,1
+14645,Glul,glutamate-ammonia ligase,10090,Mus musculus,20250220,5
+14711,Gnmt,glycine N-methyltransferase,10090,Mus musculus,20250220,1
+14782,Gsr,glutathione reductase,10090,Mus musculus,20250220,1
+14825,Cxcl1,C-X-C motif chemokine ligand 1,10090,Mus musculus,20250220,2
+14859,Gsta3,"glutathione S-transferase, alpha 3",10090,Mus musculus,20250220,1
+14910,Gt(ROSA)26Sor,"gene trap ROSA 26, Philippe Soriano",10090,Mus musculus,20250220,1
+15251,Hif1a,"hypoxia inducible factor 1, alpha subunit",10090,Mus musculus,20250220,3
+15270,H2ax,H2A.X variant histone,10090,Mus musculus,20250220,41
+15277,Hk2,hexokinase 2,10090,Mus musculus,20250220,1
+15289,Hmgb1,high mobility group box 1,10090,Mus musculus,20250220,4
+15368,Hmox1,heme oxygenase 1,10090,Mus musculus,20250220,4
+15375,Foxa1,forkhead box A1,10090,Mus musculus,20250220,1
+15442,Hpse,heparanase,10090,Mus musculus,20250220,1
+15568,Elavl1,ELAV like RNA binding protein 1,10090,Mus musculus,20250220,1
+15894,Icam1,intercellular adhesion molecule 1,10090,Mus musculus,20250220,1
+15930,Ido1,"indoleamine 2,3-dioxygenase 1",10090,Mus musculus,20250220,1
+15945,Cxcl10,C-X-C motif chemokine ligand 10,10090,Mus musculus,20250220,2
+15975,Ifnar1,interferon (alpha and beta) receptor 1,10090,Mus musculus,20250220,1
+15977,Ifnb1,"interferon beta 1, fibroblast",10090,Mus musculus,20250220,1
+15978,Ifng,interferon gamma,10090,Mus musculus,20250220,5
+16000,Igf1,insulin-like growth factor 1,10090,Mus musculus,20250220,2
+16009,Igfbp3,insulin-like growth factor binding protein 3,10090,Mus musculus,20250220,6
+16153,Il10,interleukin 10,10090,Mus musculus,20250220,5
+16173,Il18,interleukin 18,10090,Mus musculus,20250220,3
+16176,Il1b,interleukin 1 beta,10090,Mus musculus,20250220,3
+16183,Il2,interleukin 2,10090,Mus musculus,20250220,2
+16189,Il4,interleukin 4,10090,Mus musculus,20250220,2
+16191,Il5,interleukin 5,10090,Mus musculus,20250220,3
+16193,Il6,interleukin 6,10090,Mus musculus,20250220,15
+16196,Il7,interleukin 7,10090,Mus musculus,20250220,1
+16362,Irf1,interferon regulatory factor 1,10090,Mus musculus,20250220,1
+16409,Itgam,integrin alpha M,10090,Mus musculus,20250220,1
+16411,Itgax,integrin alpha X,10090,Mus musculus,20250220,2
+16423,Cd47,"CD47 antigen (Rh-related antigen, integrin-associated signal transducer)",10090,Mus musculus,20250220,2
+16451,Jak1,Janus kinase 1,10090,Mus musculus,20250220,1
+16452,Jak2,Janus kinase 2,10090,Mus musculus,20250220,1
+16523,Kcnj8,"potassium inwardly-rectifying channel, subfamily J, member 8",10090,Mus musculus,20250220,1
+16534,Kcnn4,"potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4",10090,Mus musculus,20250220,1
+16593,Klc1,kinesin light chain 1,10090,Mus musculus,20250220,2
+16600,Klf4,Kruppel-like transcription factor 4 (gut),10090,Mus musculus,20250220,1
+16667,Krt17,keratin 17,10090,Mus musculus,20250220,2
+16803,Lbp,lipopolysaccharide binding protein,10090,Mus musculus,20250220,1
+16885,Limk1,LIM domain kinase 1,10090,Mus musculus,20250220,2
+16886,Limk2,LIM domain kinase 2,10090,Mus musculus,20250220,1
+17002,Ltf,lactotransferrin,10090,Mus musculus,20250220,2
+17067,Ly6c1,lymphocyte antigen 6 family member C1,10090,Mus musculus,20250220,1
+17126,Smad2,SMAD family member 2,10090,Mus musculus,20250220,1
+17127,Smad3,SMAD family member 3,10090,Mus musculus,20250220,1
+17151,Ccndbp1,cyclin D-type binding-protein 1,10090,Mus musculus,20250220,1
+17199,Mc1r,melanocortin 1 receptor,10090,Mus musculus,20250220,6
+17203,Mc5r,melanocortin 5 receptor,10090,Mus musculus,20250220,1
+17242,Mdk,midkine,10090,Mus musculus,20250220,1
+17246,Mdm2,transformed mouse 3T3 cell double minute 2,10090,Mus musculus,20250220,7
+17283,Men1,multiple endocrine neoplasia 1,10090,Mus musculus,20250220,1
+17345,Mki67,antigen identified by monoclonal antibody Ki 67,10090,Mus musculus,20250220,2
+17350,Mlh1,mutL homolog 1,10090,Mus musculus,20250220,1
+17395,Mmp9,matrix metallopeptidase 9,10090,Mus musculus,20250220,1
+17480,Mpl,myeloproliferative leukemia virus oncogene,10090,Mus musculus,20250220,1
+17523,Mpo,myeloperoxidase,10090,Mus musculus,20250220,3
+17524,Mpp1,"membrane protein, palmitoylated",10090,Mus musculus,20250220,1
+17533,Mrc1,"mannose receptor, C type 1",10090,Mus musculus,20250220,1
+17535,Mre11a,"MRE11A homolog A, double strand break repair nuclease",10090,Mus musculus,20250220,1
+17690,Msi1,musashi RNA-binding protein 1,10090,Mus musculus,20250220,6
+17709,COX2,cytochrome c oxidase subunit II,10090,Mus musculus,20250220,2
+17751,Mt3,metallothionein 3,10090,Mus musculus,20250220,1
+17756,Map2,microtubule-associated protein 2,10090,Mus musculus,20250220,1
+17869,Myc,myelocytomatosis oncogene,10090,Mus musculus,20250220,2
+18015,Nf1,neurofibromin 1,10090,Mus musculus,20250220,1
+18024,Nfe2l2,"nuclear factor, erythroid derived 2, like 2",10090,Mus musculus,20250220,30
+18033,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",10090,Mus musculus,20250220,14
+18104,Nqo1,"NAD(P)H dehydrogenase, quinone 1",10090,Mus musculus,20250220,2
+18125,Nos1,"nitric oxide synthase 1, neuronal",10090,Mus musculus,20250220,1
+18126,Nos2,"nitric oxide synthase 2, inducible",10090,Mus musculus,20250220,3
+18148,Npm1,nucleophosmin 1,10090,Mus musculus,20250220,1
+18208,Ntn1,netrin 1,10090,Mus musculus,20250220,1
+18212,Ntrk2,"neurotrophic tyrosine kinase, receptor, type 2",10090,Mus musculus,20250220,1
+18226,Nup62,nucleoporin 62,10090,Mus musculus,20250220,1
+18260,Ocln,occludin,10090,Mus musculus,20250220,1
+18294,Ogg1,8-oxoguanine DNA-glycosylase 1,10090,Mus musculus,20250220,4
+18392,Orc1,"origin recognition complex, subunit 1",10090,Mus musculus,20250220,1
+18439,P2rx7,"purinergic receptor P2X, ligand-gated ion channel, 7",10090,Mus musculus,20250220,5
+18481,Pak3,p21 (RAC1) activated kinase 3,10090,Mus musculus,20250220,2
+18538,Pcna,proliferating cell nuclear antigen,10090,Mus musculus,20250220,1
+18566,Pdcd1,programmed cell death 1,10090,Mus musculus,20250220,10
+18596,Pdgfrb,"platelet derived growth factor receptor, beta polypeptide",10090,Mus musculus,20250220,1
+18605,Enpp1,ectonucleotide pyrophosphatase/phosphodiesterase 1,10090,Mus musculus,20250220,1
+18613,Pecam1,platelet/endothelial cell adhesion molecule 1,10090,Mus musculus,20250220,1
+18655,Pgk1,phosphoglycerate kinase 1,10090,Mus musculus,20250220,1
+18708,Pik3r1,phosphoinositide-3-kinase regulatory subunit 1,10090,Mus musculus,20250220,1
+18777,Lypla1,lysophospholipase 1,10090,Mus musculus,20250220,1
+18970,Polb,"polymerase (DNA directed), beta",10090,Mus musculus,20250220,3
+18976,Pomc,pro-opiomelanocortin-alpha,10090,Mus musculus,20250220,2
+18988,Pou2f3,"POU domain, class 2, transcription factor 3",10090,Mus musculus,20250220,1
+19013,Ppara,peroxisome proliferator activated receptor alpha,10090,Mus musculus,20250220,1
+19017,Ppargc1a,"peroxisome proliferative activated receptor, gamma, coactivator 1 alpha",10090,Mus musculus,20250220,5
+19090,Prkdc,"protein kinase, DNA activated, catalytic polypeptide",10090,Mus musculus,20250220,11
+19126,Prom1,prominin 1,10090,Mus musculus,20250220,2
+19164,Psen1,presenilin 1,10090,Mus musculus,20250220,1
+19206,Ptch1,patched 1,10090,Mus musculus,20250220,5
+19211,Pten,phosphatase and tensin homolog,10090,Mus musculus,20250220,1
+19225,Ptgs2,prostaglandin-endoperoxide synthase 2,10090,Mus musculus,20250220,5
+19246,Ptpn1,"protein tyrosine phosphatase, non-receptor type 1",10090,Mus musculus,20250220,3
+19264,Ptprc,protein tyrosine phosphatase receptor type C,10090,Mus musculus,20250220,2
+19353,Rac1,Rac family small GTPase 1,10090,Mus musculus,20250220,1
+19361,Rad51,RAD51 recombinase,10090,Mus musculus,20250220,1
+19366,Rad54l,RAD54 like (S. cerevisiae),10090,Mus musculus,20250220,3
+19645,Rb1,RB transcriptional corepressor 1,10090,Mus musculus,20250220,1
+19697,Rela,v-rel reticuloendotheliosis viral oncogene homolog A (avian),10090,Mus musculus,20250220,2
+20111,Rps6ka1,ribosomal protein S6 kinase polypeptide 1,10090,Mus musculus,20250220,1
+20290,Ccl1,C-C motif chemokine ligand 1,10090,Mus musculus,20250220,1
+20292,Ccl11,C-C motif chemokine ligand 11,10090,Mus musculus,20250220,1
+20296,Ccl2,C-C motif chemokine ligand 2,10090,Mus musculus,20250220,1
+20299,Ccl22,C-C motif chemokine ligand 22,10090,Mus musculus,20250220,2
+20309,Cxcl15,C-X-C motif chemokine ligand 15,10090,Mus musculus,20250220,1
+20315,Cxcl12,C-X-C motif chemokine ligand 12,10090,Mus musculus,20250220,1
+20344,Selp,"selectin, platelet",10090,Mus musculus,20250220,3
+20423,Shh,sonic hedgehog,10090,Mus musculus,20250220,5
+20586,Smarca4,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4",10090,Mus musculus,20250220,1
+20597,Smpd1,"sphingomyelin phosphodiesterase 1, acid lysosomal",10090,Mus musculus,20250220,1
+20598,Smpd2,"sphingomyelin phosphodiesterase 2, neutral",10090,Mus musculus,20250220,1
+20656,Sod2,"superoxide dismutase 2, mitochondrial",10090,Mus musculus,20250220,3
+20750,Spp1,secreted phosphoprotein 1,10090,Mus musculus,20250220,1
+20846,Stat1,signal transducer and activator of transcription 1,10090,Mus musculus,20250220,3
+20848,Stat3,signal transducer and activator of transcription 3,10090,Mus musculus,20250220,1
+20852,Stat6,signal transducer and activator of transcription 6,10090,Mus musculus,20250220,1
+21752,Tert,telomerase reverse transcriptase,10090,Mus musculus,20250220,2
+21780,Tfam,"transcription factor A, mitochondrial",10090,Mus musculus,20250220,3
+21803,Tgfb1,"transforming growth factor, beta 1",10090,Mus musculus,20250220,11
+21813,Tgfbr2,"transforming growth factor, beta receptor II",10090,Mus musculus,20250220,1
+21823,Th,tyrosine hydroxylase,10090,Mus musculus,20250220,2
+21832,Thpo,thrombopoietin,10090,Mus musculus,20250220,2
+21841,Tia1,cytotoxic granule-associated RNA binding protein 1,10090,Mus musculus,20250220,1
+21849,Trim28,tripartite motif-containing 28,10090,Mus musculus,20250220,1
+21872,Tjp1,tight junction protein 1,10090,Mus musculus,20250220,1
+21898,Tlr4,toll-like receptor 4,10090,Mus musculus,20250220,2
+21926,Tnf,tumor necrosis factor,10090,Mus musculus,20250220,11
+21940,Cd27,CD27 antigen,10090,Mus musculus,20250220,1
+21983,Tpbg,trophoblast glycoprotein,10090,Mus musculus,20250220,1
+22034,Traf6,TNF receptor-associated factor 6,10090,Mus musculus,20250220,1
+22040,Trex1,three prime repair exonuclease 1,10090,Mus musculus,20250220,1
+22059,Trp53,transformation related protein 53,10090,Mus musculus,20250220,9
+22060,Trp53-ps,"transformation related protein 53, pseudogene",10090,Mus musculus,20250220,32
+22062,Trp73,transformation related protein 73,10090,Mus musculus,20250220,1
+22084,Tsc2,TSC complex subunit 2,10090,Mus musculus,20250220,2
+22095,Tshr,thyroid stimulating hormone receptor,10090,Mus musculus,20250220,1
+22210,Ube2b,ubiquitin-conjugating enzyme E2B,10090,Mus musculus,20250220,1
+22227,Ucp1,"uncoupling protein 1 (mitochondrial, proton carrier)",10090,Mus musculus,20250220,1
+22259,Nr1h3,"nuclear receptor subfamily 1, group H, member 3",10090,Mus musculus,20250220,3
+22337,Vdr,"vitamin D (1,25-dihydroxyvitamin D3) receptor",10090,Mus musculus,20250220,3
+22339,Vegfa,vascular endothelial growth factor A,10090,Mus musculus,20250220,2
+22349,Vil1,villin 1,10090,Mus musculus,20250220,1
+22352,Vim,vimentin,10090,Mus musculus,20250220,2
+22393,Wfs1,wolframin ER transmembrane glycoprotein,10090,Mus musculus,20250220,1
+22433,Xbp1,X-box binding protein 1,10090,Mus musculus,20250220,3
+22436,Xdh,xanthine dehydrogenase,10090,Mus musculus,20250220,2
+22589,Atrx,"ATRX, chromatin remodeler",10090,Mus musculus,20250220,1
+22590,Xpa,"xeroderma pigmentosum, complementation group A",10090,Mus musculus,20250220,1
+22591,Xpc,"xeroderma pigmentosum, complementation group C",10090,Mus musculus,20250220,1
+22592,Ercc5,"excision repair cross-complementing rodent repair deficiency, complementation group 5",10090,Mus musculus,20250220,1
+22594,Xrcc1,X-ray repair complementing defective repair in Chinese hamster cells 1,10090,Mus musculus,20250220,7
+22596,Xrcc5,X-ray repair complementing defective repair in Chinese hamster cells 5,10090,Mus musculus,20250220,6
+22601,Yap1,yes-associated protein 1,10090,Mus musculus,20250220,2
+22608,Ybx1,Y box protein 1,10090,Mus musculus,20250220,2
+22809,ATF5,activating transcription factor 5,9606,Homo sapiens,20250220,2
+22861,NLRP1,NLR family pyrin domain containing 1,9606,Homo sapiens,20250220,1
+22882,ZHX2,zinc fingers and homeoboxes 2,9606,Homo sapiens,20250220,1
+22897,CEP164,centrosomal protein 164,9606,Homo sapiens,20200512,1
+22913,RALY,RALY heterogeneous nuclear ribonucleoprotein,9606,Homo sapiens,20250220,1
+22914,KLRK1,killer cell lectin like receptor K1,9606,Homo sapiens,20200512,5
+22933,SIRT2,sirtuin 2,9606,Homo sapiens,20200512,1
+22944,KIN,Kin17 DNA and RNA binding protein,9606,Homo sapiens,20200512,1
+22974,TPX2,TPX2 microtubule nucleation factor,9606,Homo sapiens,20200512,2
+22976,PAXIP1,PAX interacting protein 1,9606,Homo sapiens,20200512,1
+22985,ACIN1,apoptotic chromatin condensation inducer 1,9606,Homo sapiens,20200512,1
+22992,KDM2A,lysine demethylase 2A,9606,Homo sapiens,20250220,1
+23038,WDTC1,WD and tetratricopeptide repeats 1,9606,Homo sapiens,20200512,1
+23043,TNIK,TRAF2 and NCK interacting kinase,9606,Homo sapiens,20250220,3
+23196,FAM120A,family with sequence similarity 120 member A,9606,Homo sapiens,20250220,1
+23198,PSME4,proteasome activator subunit 4,9606,Homo sapiens,20200512,1
+23235,SIK2,salt inducible kinase 2,9606,Homo sapiens,20250220,1
+23237,ARC,activity regulated cytoskeleton associated protein,9606,Homo sapiens,20200512,2
+23244,PDS5A,PDS5 cohesin associated factor A,9606,Homo sapiens,20250220,2
+23300,ATMIN,ATM interactor,9606,Homo sapiens,20200512,1
+23309,SIN3B,SIN3 transcription regulator family member B,9606,Homo sapiens,20200512,1
+23327,NEDD4L,NEDD4 like E3 ubiquitin protein ligase,9606,Homo sapiens,20250220,3
+23353,SUN1,Sad1 and UNC84 domain containing 1,9606,Homo sapiens,20250220,3
+23405,DICER1,"dicer 1, ribonuclease III",9606,Homo sapiens,20250220,1
+23409,SIRT4,sirtuin 4,9606,Homo sapiens,20250220,1
+23411,SIRT1,sirtuin 1,9606,Homo sapiens,20200512,4
+23414,ZFPM2,"zinc finger protein, FOG family member 2",9606,Homo sapiens,20250220,1
+23451,SF3B1,splicing factor 3b subunit 1,9606,Homo sapiens,20250220,2
+23468,CBX5,chromobox 5,9606,Homo sapiens,20250220,3
+23476,BRD4,bromodomain containing 4,9606,Homo sapiens,20250220,3
+23526,ARHGAP45,Rho GTPase activating protein 45,9606,Homo sapiens,20250220,2
+23528,ZNF281,zinc finger protein 281,9606,Homo sapiens,20250220,1
+23569,PADI4,peptidyl arginine deiminase 4,9606,Homo sapiens,20250220,1
+23581,CASP14,caspase 14,9606,Homo sapiens,20200512,2
+23583,SMUG1,single-strand-selective monofunctional uracil-DNA glycosylase 1,9606,Homo sapiens,20200512,2
+23586,RIGI,RNA sensor RIG-I,9606,Homo sapiens,20250220,1
+23626,SPO11,SPO11 initiator of meiotic double strand breaks,9606,Homo sapiens,20200512,1
+23636,NUP62,nucleoporin 62,9606,Homo sapiens,20250220,9
+23640,HSPBP1,HSPA (Hsp70) binding protein 1,9606,Homo sapiens,20250220,1
+23645,PPP1R15A,protein phosphatase 1 regulatory subunit 15A,9606,Homo sapiens,20200512,1
+23649,POLA2,"DNA polymerase alpha 2, accessory subunit",9606,Homo sapiens,20250220,1
+23650,TRIM29,tripartite motif containing 29,9606,Homo sapiens,20200512,1
+23657,SLC7A11,solute carrier family 7 member 11,9606,Homo sapiens,20250220,9
+23764,MAFF,MAF bZIP transcription factor F,9606,Homo sapiens,20250220,3
+23796,Aplnr,apelin receptor,10090,Mus musculus,20250220,1
+23886,Gdf15,growth differentiation factor 15,10090,Mus musculus,20250220,1
+23939,Mapk7,mitogen-activated protein kinase 7,10090,Mus musculus,20250220,1
+24088,Tlr2,toll-like receptor 2,10090,Mus musculus,20250220,1
+24108,Ubd,ubiquitin D,10090,Mus musculus,20250220,1
+24145,PANX1,pannexin 1,9606,Homo sapiens,20250220,2
+24179,Agt,angiotensinogen,10116,Rattus norvegicus,20250220,3
+24185,Akt1,AKT serine/threonine kinase 1,10116,Rattus norvegicus,20250220,4
+24186,Alb,albumin,10116,Rattus norvegicus,20250220,2
+24224,Bcl2,"BCL2, apoptosis regulator",10116,Rattus norvegicus,20250220,8
+24248,Cat,catalase,10116,Rattus norvegicus,20250220,5
+24253,Cebpb,CCAAT/enhancer binding protein beta,10116,Rattus norvegicus,20250220,1
+24297,Cyp1a2,"cytochrome P450, family 1, subfamily a, polypeptide 2",10116,Rattus norvegicus,20250220,2
+24310,Ace,angiotensin I converting enzyme,10116,Rattus norvegicus,20250220,5
+24338,Ephb1,Eph receptor B1,10116,Rattus norvegicus,20250220,4
+24387,Gfap,glial fibrillary acidic protein,10116,Rattus norvegicus,20250220,1
+24392,Gja1,"gap junction protein, alpha 1",10116,Rattus norvegicus,20250220,2
+24404,Gpx1,glutathione peroxidase 1,10116,Rattus norvegicus,20250220,1
+24494,Il1b,interleukin 1 beta,10116,Rattus norvegicus,20250220,3
+24498,Il6,interleukin 6,10116,Rattus norvegicus,20250220,1
+24598,Nos1,nitric oxide synthase 1,10116,Rattus norvegicus,20250220,1
+24599,Nos2,nitric oxide synthase 2,10116,Rattus norvegicus,20250220,1
+24600,Nos3,nitric oxide synthase 3,10116,Rattus norvegicus,20250220,3
+24717,Rho,rhodopsin,10116,Rattus norvegicus,20250220,1
+24770,Ccl2,C-C motif chemokine ligand 2,10116,Rattus norvegicus,20250220,1
+24772,Cxcl12,C-X-C motif chemokine ligand 12,10116,Rattus norvegicus,20250220,1
+24787,Sod2,superoxide dismutase 2,10116,Rattus norvegicus,20250220,2
+24788,Sord,sorbitol dehydrogenase,10116,Rattus norvegicus,20250220,1
+24804,Syp,synaptophysin,10116,Rattus norvegicus,20250220,1
+24807,Tacr1,tachykinin receptor 1,10116,Rattus norvegicus,20250220,1
+24835,Tnf,tumor necrosis factor,10116,Rattus norvegicus,20250220,7
+24837,Tnnt2,"troponin T2, cardiac type",10116,Rattus norvegicus,20250220,2
+24842,Tp53,tumor protein p53,10116,Rattus norvegicus,20250220,2
+24887,Bax,"BCL2 associated X, apoptosis regulator",10116,Rattus norvegicus,20250220,7
+25012,Snap25,synaptosome associated protein 25,10116,Rattus norvegicus,20250220,1
+25030,Andpro,androgen regulated protein,10116,Rattus norvegicus,20250220,1
+25054,Ntrk2,neurotrophic receptor tyrosine kinase 2,10116,Rattus norvegicus,20250220,1
+25086,Cyp2e1,"cytochrome P450, family 2, subfamily e, polypeptide 1",10116,Rattus norvegicus,20250220,2
+25105,Nppb,natriuretic peptide B,10116,Rattus norvegicus,20250220,3
+25125,Stat3,signal transducer and activator of transcription 3,10116,Rattus norvegicus,20250220,4
+25147,Cyp19a1,"cytochrome P450, family 19, subfamily a, polypeptide 1",10116,Rattus norvegicus,20250220,1
+25149,Esr2,estrogen receptor 2,10116,Rattus norvegicus,20250220,1
+25155,Syk,spleen associated tyrosine kinase,10116,Rattus norvegicus,20250220,1
+25262,Itpr1,"inositol 1,4,5-trisphosphate receptor, type 1",10116,Rattus norvegicus,20250220,1
+25293,Aqp4,aquaporin 4,10116,Rattus norvegicus,20250220,1
+25295,Bglap,bone gamma-carboxyglutamate protein,10116,Rattus norvegicus,20250220,1
+25325,Il10,interleukin 10,10116,Rattus norvegicus,20250220,1
+25361,Vcam1,vascular cell adhesion molecule 1,10116,Rattus norvegicus,20250220,1
+25363,Acadvl,"acyl-CoA dehydrogenase, very long chain",10116,Rattus norvegicus,20250220,1
+25378,Amh,anti-Mullerian hormone,10116,Rattus norvegicus,20250220,2
+25402,Casp3,caspase 3,10116,Rattus norvegicus,20250220,9
+25459,Hmgb1,high mobility group box 1,10116,Rattus norvegicus,20250220,2
+25464,Icam1,intercellular adhesion molecule 1,10116,Rattus norvegicus,20250220,1
+25557,Star,steroidogenic acute regulatory protein,10116,Rattus norvegicus,20250220,3
+25591,Parp1,poly (ADP-ribose) polymerase 1,10116,Rattus norvegicus,20250220,1
+25617,Hspa5,heat shock protein family A (Hsp70) member 5,10116,Rattus norvegicus,20250220,1
+25642,Cyp3a23-3a1,"cytochrome P450, family 3, subfamily a, polypeptide 23-polypeptide 1",10116,Rattus norvegicus,20250220,2
+25721,Got2,glutamic-oxaloacetic transaminase 2,10116,Rattus norvegicus,20250220,3
+25747,Ppara,peroxisome proliferator activated receptor alpha,10116,Rattus norvegicus,20250220,2
+25777,SUN2,Sad1 and UNC84 domain containing 2,9606,Homo sapiens,20250220,1
+25824,PRDX5,peroxiredoxin 5,9606,Homo sapiens,20200512,3
+25831,HECTD1,HECT domain E3 ubiquitin protein ligase 1,9606,Homo sapiens,20250220,1
+25932,CLIC4,chloride intracellular channel 4,9606,Homo sapiens,20250220,2
+25962,VIRMA,vir like m6A methyltransferase associated,9606,Homo sapiens,20250220,1
+26054,SENP6,SUMO specific peptidase 6,9606,Homo sapiens,20250220,1
+26097,CHTOP,chromatin target of PRMT1,9606,Homo sapiens,20250220,2
+26100,WIPI2,"WD repeat domain, phosphoinositide interacting 2",9606,Homo sapiens,20250220,2
+26198,COX2,COXII,10116,Rattus norvegicus,20250220,1
+26227,PHGDH,phosphoglycerate dehydrogenase,9606,Homo sapiens,20250220,1
+26263,FBXO22,F-box protein 22,9606,Homo sapiens,20250220,1
+26279,PLA2G2D,phospholipase A2 group IID,9606,Homo sapiens,20200512,1
+26281,FGF20,fibroblast growth factor 20,9606,Homo sapiens,20200512,1
+26354,GNL3,G protein nucleolar 3,9606,Homo sapiens,20250220,1
+26383,Fto,FTO alpha-ketoglutarate dependent dioxygenase,10090,Mus musculus,20250220,1
+26413,Mapk1,mitogen-activated protein kinase 1,10090,Mus musculus,20250220,4
+26416,Mapk14,mitogen-activated protein kinase 14,10090,Mus musculus,20250220,10
+26419,Mapk8,mitogen-activated protein kinase 8,10090,Mus musculus,20250220,4
+26430,Parg,poly (ADP-ribose) glycohydrolase,10090,Mus musculus,20250220,1
+26471,NUPR1,"nuclear protein 1, transcriptional regulator",9606,Homo sapiens,20250220,1
+26570,Slc7a11,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 11",10090,Mus musculus,20250220,1
+26575,RGS17,regulator of G protein signaling 17,9606,Homo sapiens,20200512,2
+26585,GREM1,"gremlin 1, DAN family BMP antagonist",9606,Homo sapiens,20250220,1
+26716,OR2H1,olfactory receptor family 2 subfamily H member 1,9606,Homo sapiens,20250220,1
+26918,Ern2,endoplasmic reticulum to nucleus signalling 2,10090,Mus musculus,20250220,1
+26926,Aifm1,"apoptosis-inducing factor, mitochondrion-associated 1",10090,Mus musculus,20250220,1
+26959,HBP1,HMG-box transcription factor 1,9606,Homo sapiens,20250220,1
+27035,NOX1,NADPH oxidase 1,9606,Homo sapiens,20200512,1
+27044,SND1,staphylococcal nuclease and tudor domain containing 1,9606,Homo sapiens,20250220,1
+27057,Ncoa4,nuclear receptor coactivator 4,10090,Mus musculus,20250220,2
+27113,BBC3,BCL2 binding component 3,9606,Homo sapiens,20250220,2
+27123,DKK2,dickkopf WNT signaling pathway inhibitor 2,9606,Homo sapiens,20250220,1
+27161,AGO2,argonaute RISC catalytic component 2,9606,Homo sapiens,20200512,3
+27223,Trp53bp1,transformation related protein 53 binding protein 1,10090,Mus musculus,20250220,12
+27244,SESN1,sestrin 1,9606,Homo sapiens,20250220,1
+27284,SULT1B1,sulfotransferase family 1B member 1,9606,Homo sapiens,20200512,1
+27303,RBMS3,RNA binding motif single stranded interacting protein 3,9606,Homo sapiens,20250220,1
+27339,PRPF19,pre-mRNA processing factor 19,9606,Homo sapiens,20200512,2
+27354,Nbn,nibrin,10090,Mus musculus,20250220,1
+28240,Trpm2,"transient receptor potential cation channel, subfamily M, member 2",10090,Mus musculus,20250220,1
+28996,HIPK2,homeodomain interacting protein kinase 2,9606,Homo sapiens,20200512,2
+28998,MRPL13,mitochondrial ribosomal protein L13,9606,Homo sapiens,20200512,1
+29028,ATAD2,ATPase family AAA domain containing 2,9606,Homo sapiens,20250220,1
+29072,SETD2,"SET domain containing 2, histone lysine methyltransferase",9606,Homo sapiens,20200512,4
+29086,BABAM1,BRISC and BRCA1 A complex member 1,9606,Homo sapiens,20250220,2
+29102,DROSHA,drosha ribonuclease III,9606,Homo sapiens,20250220,1
+29110,TBK1,TANK binding kinase 1,9606,Homo sapiens,20200512,5
+29126,CD274,CD274 molecule,9606,Homo sapiens,20250220,31
+29128,UHRF1,ubiquitin like with PHD and ring finger domains 1,9606,Homo sapiens,20200512,2
+29225,Ces1e,carboxylesterase 1E,10116,Rattus norvegicus,20250220,2
+29244,Gch1,GTP cyclohydrolase 1,10116,Rattus norvegicus,20250220,1
+29260,Tlr4,toll-like receptor 4,10116,Rattus norvegicus,20250220,1
+29311,Msmb,"microseminoprotein, beta",10116,Rattus norvegicus,20250220,1
+29355,Pkn1,protein kinase N1,10116,Rattus norvegicus,20250220,1
+29357,Smad2,SMAD family member 2,10116,Rattus norvegicus,20250220,1
+29390,Ptpmt1,"protein tyrosine phosphatase, mitochondrial 1",10116,Rattus norvegicus,20250220,3
+29427,Aif1,allograft inflammatory factor 1,10116,Rattus norvegicus,20250220,1
+29467,Ddit3,DNA-damage inducible transcript 3,10116,Rattus norvegicus,20250220,1
+29477,Mapt,microtubule-associated protein tau,10116,Rattus norvegicus,20250220,1
+29495,Dlg4,discs large MAGUK scaffold protein 4,10116,Rattus norvegicus,20250220,1
+29527,Ptgs2,prostaglandin-endoperoxide synthase 2,10116,Rattus norvegicus,20250220,2
+29591,Tgfbr1,"transforming growth factor, beta receptor 1",10116,Rattus norvegicus,20250220,1
+29680,Cyp11a1,"cytochrome P450, family 11, subfamily a, polypeptide 1",10116,Rattus norvegicus,20250220,1
+29893,PSMC3IP,PSMC3 interacting protein,9606,Homo sapiens,20250220,1
+29931,LINC00312,long intergenic non-protein coding RNA 312,9606,Homo sapiens,20250220,1
+29949,IL19,interleukin 19,9606,Homo sapiens,20250220,1
+29968,PSAT1,phosphoserine aminotransferase 1,9606,Homo sapiens,20250220,1
+30009,TBX21,T-box transcription factor 21,9606,Homo sapiens,20250220,1
+30068,cat,catalase,7955,Danio rerio,20250220,2
+30849,PIK3R4,phosphoinositide-3-kinase regulatory subunit 4,9606,Homo sapiens,20250220,3
+30851,TAX1BP3,Tax1 binding protein 3,9606,Homo sapiens,20250220,1
+32322,DNAlig4,DNA ligase 4,7227,Drosophila melanogaster,20250220,2
+34009,wg,wingless,7227,Drosophila melanogaster,20250220,1
+34565,mre11,meiotic recombination 11,7227,Drosophila melanogaster,20250220,1
+34780,p38b,p38b MAP kinase,7227,Drosophila melanogaster,20250220,3
+35975,Wnt2,Wnt oncogene analog 2,7227,Drosophila melanogaster,20250220,1
+37729,Dcp-1,Death caspase-1,7227,Drosophila melanogaster,20250220,4
+37755,Sesn,Sestrin,7227,Drosophila melanogaster,20250220,1
+38131,mwh,multiple wing hairs,7227,Drosophila melanogaster,20250220,1
+41363,pros,prospero,7227,Drosophila melanogaster,20250220,2
+41366,Blm,Bloom syndrome helicase,7227,Drosophila melanogaster,20250220,2
+41839,tefu,telomere fusion,7227,Drosophila melanogaster,20250220,1
+41957,Akt,Akt kinase,7227,Drosophila melanogaster,20250220,3
+43018,Clbn,Caliban,7227,Drosophila melanogaster,20250220,2
+43229,His2Av,Histone H2A variant,7227,Drosophila melanogaster,20250220,1
+43991,Pten,Phosphatase and tensin homolog,7227,Drosophila melanogaster,20250220,1
+44259,nbs,nbs,7227,Drosophila melanogaster,20250220,1
+44540,ct,cut,7227,Drosophila melanogaster,20250220,1
+50484,RRM2B,ribonucleotide reductase regulatory TP53 inducible subunit M2B,9606,Homo sapiens,20200512,3
+50490,Nox4,NADPH oxidase 4,10090,Mus musculus,20250220,1
+50493,Txnrd1,thioredoxin reductase 1,10090,Mus musculus,20250220,1
+50506,DUOX2,dual oxidase 2,9606,Homo sapiens,20250220,3
+50507,NOX4,NADPH oxidase 4,9606,Homo sapiens,20250220,1
+50514,DELEC1,deleted in esophageal cancer 1,9606,Homo sapiens,20200512,1
+50689,Mapk3,mitogen activated protein kinase 3,10116,Rattus norvegicus,20250220,2
+50810,HDGFL3,HDGF like 3,9606,Homo sapiens,20250220,1
+50883,Chek2,checkpoint kinase 2,10090,Mus musculus,20250220,5
+50933,Uchl3,ubiquitin carboxyl-terminal esterase L3 (ubiquitin thiolesterase),10090,Mus musculus,20250220,1
+50943,FOXP3,forkhead box P3,9606,Homo sapiens,20200512,5
+51024,FIS1,"fission, mitochondrial 1",9606,Homo sapiens,20250220,1
+51094,ADIPOR1,adiponectin receptor 1,9606,Homo sapiens,20250220,2
+51100,SH3GLB1,"SH3 domain containing GRB2 like, endophilin B1",9606,Homo sapiens,20250220,1
+51110,LACTB2,lactamase beta 2,9606,Homo sapiens,20250220,1
+51129,ANGPTL4,angiopoietin like 4,9606,Homo sapiens,20250220,1
+51135,IRAK4,interleukin 1 receptor associated kinase 4,9606,Homo sapiens,20250220,1
+51143,DYNC1LI1,dynein cytoplasmic 1 light intermediate chain 1,9606,Homo sapiens,20250220,1
+51208,CLDN18,claudin 18,9606,Homo sapiens,20250220,1
+51268,PIPOX,pipecolic acid and sarcosine oxidase,9606,Homo sapiens,20200512,1
+51278,IER5,immediate early response 5,9606,Homo sapiens,20200512,3
+51311,TLR8,toll like receptor 8,9606,Homo sapiens,20250220,1
+51366,UBR5,ubiquitin protein ligase E3 component n-recognin 5,9606,Homo sapiens,20250220,1
+51441,YTHDF2,YTH N6-methyladenosine RNA binding protein F2,9606,Homo sapiens,20250220,5
+51444,RNF138,ring finger protein 138,9606,Homo sapiens,20250220,1
+51477,ISYNA1,inositol-3-phosphate synthase 1,9606,Homo sapiens,20250220,3
+51499,TRIAP1,TP53 regulated inhibitor of apoptosis 1,9606,Homo sapiens,20250220,1
+51547,SIRT7,sirtuin 7,9606,Homo sapiens,20250220,2
+51548,SIRT6,sirtuin 6,9606,Homo sapiens,20250220,2
+51573,GDE1,glycerophosphodiester phosphodiesterase 1,9606,Homo sapiens,20250220,1
+51588,PIAS4,protein inhibitor of activated STAT 4,9606,Homo sapiens,20200512,2
+51592,TRIM33,tripartite motif containing 33,9606,Homo sapiens,20250220,1
+51631,LUC7L2,"LUC7 like 2, pre-mRNA splicing factor",9606,Homo sapiens,20250220,1
+51720,UIMC1,ubiquitin interaction motif containing 1,9606,Homo sapiens,20200512,2
+51741,WWOX,WW domain containing oxidoreductase,9606,Homo sapiens,20200512,3
+51761,ATP8A2,ATPase phospholipid transporting 8A2,9606,Homo sapiens,20200512,1
+52331,Stbd1,starch binding domain 1,10090,Mus musculus,20250220,1
+53349,ZFYVE1,zinc finger FYVE-type containing 1,9606,Homo sapiens,20250220,2
+53610,Nono,"non-POU-domain-containing, octamer binding protein",10090,Mus musculus,20250220,1
+53791,Tlr5,toll-like receptor 5,10090,Mus musculus,20250220,1
+53827,FXYD5,FXYD domain containing ion transport regulator 5,9606,Homo sapiens,20200512,1
+53892,Ppm1d,"protein phosphatase 1D magnesium-dependent, delta isoform",10090,Mus musculus,20250220,3
+53905,DUOX1,dual oxidase 1,9606,Homo sapiens,20250220,4
+54106,TLR9,toll like receptor 9,9606,Homo sapiens,20250220,2
+54131,Irf3,interferon regulatory factor 3,10090,Mus musculus,20250220,1
+54205,CYCS,"cytochrome c, somatic",9606,Homo sapiens,20200512,3
+54206,ERRFI1,ERBB receptor feedback inhibitor 1,9606,Homo sapiens,20250220,1
+54210,TREM1,triggering receptor expressed on myeloid cells 1,9606,Homo sapiens,20250220,1
+54278,Nr4a2,"nuclear receptor subfamily 4, group A, member 2",10116,Rattus norvegicus,20250220,2
+54413,NLGN3,neuroligin 3,9606,Homo sapiens,20250220,1
+54455,FBXO42,F-box protein 42,9606,Homo sapiens,20250220,1
+54474,KRT20,keratin 20,9606,Homo sapiens,20250220,4
+54476,RNF216,ring finger protein 216,9606,Homo sapiens,20250220,1
+54486,Hpgds,hematopoietic prostaglandin D synthase,10090,Mus musculus,20250220,1
+54487,DGCR8,DGCR8 microprocessor complex subunit,9606,Homo sapiens,20250220,1
+54498,SMOX,spermine oxidase,9606,Homo sapiens,20250220,1
+54538,ROBO4,roundabout guidance receptor 4,9606,Homo sapiens,20250220,4
+54541,DDIT4,DNA damage inducible transcript 4,9606,Homo sapiens,20200512,4
+54726,OTUD4,OTU deubiquitinase 4,9606,Homo sapiens,20250220,1
+54742,LY6K,lymphocyte antigen 6 family member K,9606,Homo sapiens,20250220,1
+54764,ZRANB1,zinc finger RANBP2-type containing 1,9606,Homo sapiens,20250220,1
+54808,DYM,dymeclin,9606,Homo sapiens,20200512,1
+54840,APTX,aprataxin,9606,Homo sapiens,20250220,1
+54894,RNF43,ring finger protein 43,9606,Homo sapiens,20250220,2
+54971,BANP,BTG3 associated nuclear protein,9606,Homo sapiens,20200512,1
+54997,TESC,tescalcin,9606,Homo sapiens,20250220,1
+55000,TUG1,taurine up-regulated 1,9606,Homo sapiens,20250220,2
+55062,WIPI1,"WD repeat domain, phosphoinositide interacting 1",9606,Homo sapiens,20250220,1
+55074,OXR1,oxidation resistance 1,9606,Homo sapiens,20250220,2
+55107,ANO1,anoctamin 1,9606,Homo sapiens,20250220,2
+55143,CDCA8,cell division cycle associated 8,9606,Homo sapiens,20250220,1
+55183,RIF1,replication timing regulatory factor 1,9606,Homo sapiens,20200512,4
+55226,NAT10,N-acetyltransferase 10,9606,Homo sapiens,20250220,1
+55247,NEIL3,nei like DNA glycosylase 3,9606,Homo sapiens,20250220,1
+55294,FBXW7,F-box and WD repeat domain containing 7,9606,Homo sapiens,20250220,1
+55349,CHDH,choline dehydrogenase,9606,Homo sapiens,20200512,1
+55355,HJURP,Holliday junction recognition protein,9606,Homo sapiens,20250220,1
+55367,PIDD1,p53-induced death domain protein 1,9606,Homo sapiens,20200512,1
+55599,RNPC3,"RNA binding region (RNP1, RRM) containing 3",9606,Homo sapiens,20200512,1
+55630,SLC39A4,solute carrier family 39 member 4,9606,Homo sapiens,20250220,1
+55669,MFN1,mitofusin 1,9606,Homo sapiens,20250220,1
+55702,YJU2,YJU2 splicing factor homolog,9606,Homo sapiens,20200512,1
+55766,H2AJ,H2A.J histone,9606,Homo sapiens,20250220,2
+55775,TDP1,tyrosyl-DNA phosphodiesterase 1,9606,Homo sapiens,20200512,1
+55922,NKRF,NFKB repressing factor,9606,Homo sapiens,20200512,1
+55959,SULF2,sulfatase 2,9606,Homo sapiens,20250220,2
+56208,Becn1,"beclin 1, autophagy related",10090,Mus musculus,20250220,2
+56248,Ak3,adenylate kinase 3,10090,Mus musculus,20250220,1
+56300,IL36G,interleukin 36 gamma,9606,Homo sapiens,20200512,1
+56339,METTL3,"methyltransferase 3, N6-adenosine-methyltransferase complex catalytic subunit",9606,Homo sapiens,20250220,3
+56431,Dstn,destrin,10090,Mus musculus,20250220,1
+56437,Rrad,Ras-related associated with diabetes,10090,Mus musculus,20250220,1
+56458,Foxo1,forkhead box O1,10090,Mus musculus,20250220,2
+56463,Snd1,staphylococcal nuclease and tudor domain containing 1,10090,Mus musculus,20250220,2
+56484,Foxo3,forkhead box O3,10090,Mus musculus,20250220,3
+56616,DIABLO,diablo IAP-binding mitochondrial protein,9606,Homo sapiens,20200512,3
+56626,Poll,"polymerase (DNA directed), lambda",10090,Mus musculus,20250220,1
+56647,BCCIP,BRCA2 and CDKN1A interacting protein,9606,Homo sapiens,20200512,1
+56717,Mtor,mechanistic target of rapamycin kinase,10090,Mus musculus,20250220,4
+56718,Mtor,mechanistic target of rapamycin kinase,10116,Rattus norvegicus,20250220,1
+56729,RETN,resistin,9606,Homo sapiens,20250220,2
+56843,Trpm5,"transient receptor potential cation channel, subfamily M, member 5",10090,Mus musculus,20250220,2
+56848,SPHK2,sphingosine kinase 2,9606,Homo sapiens,20250220,6
+56852,RAD18,RAD18 E3 ubiquitin protein ligase,9606,Homo sapiens,20200512,5
+56916,SMARCAD1,SNF2 related chromatin remodeling ATPase with DExD box 1,9606,Homo sapiens,20250220,1
+56941,HMCES,"5-hydroxymethylcytosine binding, ES cell specific",9606,Homo sapiens,20250220,1
+56952,PRTFDC1,phosphoribosyl transferase domain containing 1,9606,Homo sapiens,20250220,1
+56957,OTUD7B,OTU deubiquitinase 7B,9606,Homo sapiens,20250220,1
+57026,PDXP,pyridoxal phosphatase,9606,Homo sapiens,20250220,1
+57045,TWSG1,twisted gastrulation BMP signaling modulator 1,9606,Homo sapiens,20200512,1
+57047,PLSCR2,phospholipid scramblase 2,9606,Homo sapiens,20200512,2
+57103,TIGAR,TP53 induced glycolysis regulatory phosphatase,9606,Homo sapiens,20200512,3
+57121,LPAR5,lysophosphatidic acid receptor 5,9606,Homo sapiens,20250220,2
+57138,Slc12a5,"solute carrier family 12, member 5",10090,Mus musculus,20250220,1
+57152,SLURP1,secreted LY6/PLAUR domain containing 1,9606,Homo sapiens,20200512,1
+57447,NDRG2,NDRG family member 2,9606,Homo sapiens,20250220,1
+57491,AHRR,aryl hydrocarbon receptor repressor,9606,Homo sapiens,20250220,2
+57492,ARID1B,AT-rich interaction domain 1B,9606,Homo sapiens,20250220,1
+57506,MAVS,mitochondrial antiviral signaling protein,9606,Homo sapiens,20250220,1
+57654,UVSSA,UV stimulated scaffold protein A,9606,Homo sapiens,20250220,1
+57716,PRX,periaxin,9606,Homo sapiens,20200512,1
+57760,SPG16,"spastic paraplegia 16 (complicated, X-linked recessive)",9606,Homo sapiens,20250220,1
+57761,TRIB3,tribbles pseudokinase 3,9606,Homo sapiens,20250220,1
+57765,Tbx21,T-box 21,10090,Mus musculus,20250220,1
+57804,POLD4,"DNA polymerase delta 4, accessory subunit",9606,Homo sapiens,20250220,1
+58191,CXCL16,C-X-C motif chemokine ligand 16,9606,Homo sapiens,20200512,1
+58962,Hpgds,hematopoietic prostaglandin D synthase,10116,Rattus norvegicus,20250220,2
+58991,Ghrl,ghrelin,10090,Mus musculus,20250220,1
+58998,Nectin3,nectin cell adhesion molecule 3,10090,Mus musculus,20250220,1
+59086,Tgfb1,"transforming growth factor, beta 1",10116,Rattus norvegicus,20250220,7
+60489,APOBEC3G,apolipoprotein B mRNA editing enzyme catalytic subunit 3G,9606,Homo sapiens,20200512,4
+60533,Cd274,CD274 antigen,10090,Mus musculus,20250220,13
+60599,Trp53inp1,transformation related protein 53 inducible nuclear protein 1,10090,Mus musculus,20250220,1
+60674,GAS5,growth arrest specific 5,9606,Homo sapiens,20250220,2
+63897,HEATR6,HEAT repeat containing 6,9606,Homo sapiens,20250220,1
+64083,GOLPH3,golgi phosphoprotein 3,9606,Homo sapiens,20250220,3
+64215,DNAJC1,DnaJ heat shock protein family (Hsp40) member C1,9606,Homo sapiens,20250220,1
+64231,MS4A6A,membrane spanning 4-domains A6A,9606,Homo sapiens,20200512,1
+64383,Sirt2,sirtuin 2,10090,Mus musculus,20250220,1
+64384,Sirt3,sirtuin 3,10090,Mus musculus,20250220,3
+64421,DCLRE1C,DNA cross-link repair 1C,9606,Homo sapiens,20200512,1
+64465,Cdc42,cell division cycle 42,10116,Rattus norvegicus,20250220,1
+64708,COPS7B,COP9 signalosome subunit 7B,9606,Homo sapiens,20250220,1
+64761,PARP12,poly(ADP-ribose) polymerase family member 12,9606,Homo sapiens,20250220,1
+64778,FNDC3B,fibronectin type III domain containing 3B,9606,Homo sapiens,20250220,1
+64782,AEN,apoptosis enhancing nuclease,9606,Homo sapiens,20200512,1
+64858,DCLRE1B,DNA cross-link repair 1B,9606,Homo sapiens,20200512,2
+64919,BCL11B,BCL11 transcription factor B,9606,Homo sapiens,20200512,1
+64931,Izumo1r,"IZUMO1 receptor, JUNO",10090,Mus musculus,20250220,2
+65018,PINK1,PTEN induced kinase 1,9606,Homo sapiens,20250220,3
+65220,NADK,NAD kinase,9606,Homo sapiens,20200512,1
+65267,WNK3,WNK lysine deficient protein kinase 3,9606,Homo sapiens,20250220,1
+65997,RASL11B,RAS like family 11 member B,9606,Homo sapiens,20200512,1
+66021,Cybb,cytochrome b-245 beta chain,10116,Rattus norvegicus,20250220,3
+66042,Sostdc1,sclerostin domain containing 1,10090,Mus musculus,20250220,1
+66141,Ifitm3,interferon induced transmembrane protein 3,10090,Mus musculus,20250220,1
+66593,Diablo,"diablo, IAP-binding mitochondrial protein",10090,Mus musculus,20250220,1
+66734,Map1lc3a,microtubule-associated protein 1 light chain 3 alpha,10090,Mus musculus,20250220,2
+66905,Plin3,perilipin 3,10090,Mus musculus,20250220,1
+66945,Sdha,"succinate dehydrogenase complex, subunit A, flavoprotein (Fp)",10090,Mus musculus,20250220,1
+67025,Rpl11,ribosomal protein L11,10090,Mus musculus,20250220,2
+67078,Pgp,phosphoglycolate phosphatase,10090,Mus musculus,20250220,2
+67397,Erp29,endoplasmic reticulum protein 29,10090,Mus musculus,20250220,1
+67443,Map1lc3b,microtubule-associated protein 1 light chain 3 beta,10090,Mus musculus,20250220,2
+68010,Bambi,BMP and activin membrane-bound inhibitor,10090,Mus musculus,20250220,1
+69456,Commd10,COMM domain containing 10,10090,Mus musculus,20250220,1
+69656,Pir,pirin,10090,Mus musculus,20250220,1
+69745,Pold4,"polymerase (DNA-directed), delta 4",10090,Mus musculus,20250220,1
+70316,Ndufab1,NADH:ubiquinone oxidoreductase subunit AB1,10090,Mus musculus,20250220,1
+70369,Bag5,BCL2-associated athanogene 5,10090,Mus musculus,20250220,2
+71890,Mad2l2,MAD2 mitotic arrest deficient-like 2,10090,Mus musculus,20250220,1
+72508,Rps6kb1,"ribosomal protein S6 kinase, polypeptide 1",10090,Mus musculus,20250220,1
+72512,Sting1,stimulator of interferon response cGAMP interactor 1,10090,Mus musculus,20250220,9
+72584,Cul4b,cullin 4B,10090,Mus musculus,20250220,1
+73250,Ceacam5,CEA cell adhesion molecule 5,10090,Mus musculus,20250220,1
+73456,Izumo1,izumo sperm-egg fusion 1,10090,Mus musculus,20250220,1
+74144,Robo4,roundabout guidance receptor 4,10090,Mus musculus,20250220,1
+74244,Atg7,autophagy related 7,10090,Mus musculus,20250220,1
+75387,Sirt4,sirtuin 4,10090,Mus musculus,20250220,1
+75570,Nhej1,non-homologous end joining factor 1,10090,Mus musculus,20250220,4
+75826,Senp2,SUMO/sentrin specific peptidase 2,10090,Mus musculus,20250220,1
+76487,Ppp1r3g,"protein phosphatase 1, regulatory subunit 3G",10090,Mus musculus,20250220,1
+77889,Lbh,limb-bud and heart,10090,Mus musculus,20250220,1
+78412,Cyren,cell cycle regulator of NHEJ,10090,Mus musculus,20250220,1
+78894,Aacs,acetoacetyl-CoA synthetase,10090,Mus musculus,20250220,1
+78943,Ern1,endoplasmic reticulum to nucleus signalling 1,10090,Mus musculus,20250220,2
+78975,Prkaa2,protein kinase AMP-activated catalytic subunit alpha 2,10116,Rattus norvegicus,20250220,1
+78996,CYREN,cell cycle regulator of NHEJ,9606,Homo sapiens,20250220,1
+79019,CENPM,centromere protein M,9606,Homo sapiens,20250220,1
+79035,NABP2,nucleic acid binding protein 2,9606,Homo sapiens,20250220,5
+79054,TRPM8,transient receptor potential cation channel subfamily M member 8,9606,Homo sapiens,20250220,1
+79083,MLPH,melanophilin,9606,Homo sapiens,20250220,1
+79107,Duox2,dual oxidase 2,10116,Rattus norvegicus,20250220,1
+79109,MAPKAP1,MAPK associated protein 1,9606,Homo sapiens,20250220,1
+79132,DHX58,DExH-box helicase 58,9606,Homo sapiens,20250220,6
+79365,BHLHE41,basic helix-loop-helix family member e41,9606,Homo sapiens,20200512,1
+79400,NOX5,NADPH oxidase 5,9606,Homo sapiens,20200512,1
+79594,MUL1,mitochondrial E3 ubiquitin protein ligase 1,9606,Homo sapiens,20250220,5
+79621,RNASEH2B,ribonuclease H2 subunit B,9606,Homo sapiens,20250220,1
+79648,MCPH1,microcephalin 1,9606,Homo sapiens,20200512,1
+79654,HECTD3,HECT domain E3 ubiquitin protein ligase 3,9606,Homo sapiens,20250220,2
+79661,NEIL1,nei like DNA glycosylase 1,9606,Homo sapiens,20250220,1
+79728,PALB2,partner and localizer of BRCA2,9606,Homo sapiens,20200512,4
+79784,MYH14,myosin heavy chain 14,9606,Homo sapiens,20250220,1
+79811,SLTM,SAFB like transcription modulator,9606,Homo sapiens,20250220,4
+79840,NHEJ1,non-homologous end joining factor 1,9606,Homo sapiens,20200512,16
+79866,BORA,BORA aurora kinase A activator,9606,Homo sapiens,20250220,1
+80010,RMI1,RecQ mediated genome instability 1,9606,Homo sapiens,20250220,1
+80119,PIF1,PIF1 5'-to-3' DNA helicase,9606,Homo sapiens,20250220,1
+80198,MUS81,MUS81 structure-specific endonuclease subunit,9606,Homo sapiens,20250220,2
+80228,ORAI2,ORAI calcium release-activated calcium modulator 2,9606,Homo sapiens,20250220,1
+80312,TET1,tet methylcytosine dioxygenase 1,9606,Homo sapiens,20250220,2
+80707,Wwox,WW domain-containing oxidoreductase,10090,Mus musculus,20250220,1
+80854,SETD7,"SET domain containing 7, histone lysine methyltransferase",9606,Homo sapiens,20200512,1
+81601,Kat5,K(lysine) acetyltransferase 5,10090,Mus musculus,20250220,1
+81631,MAP1LC3B,microtubule associated protein 1 light chain 3 beta,9606,Homo sapiens,20250220,1
+81649,Mapk14,mitogen activated protein kinase 14,10116,Rattus norvegicus,20250220,5
+81653,Dbn1,drebrin 1,10116,Rattus norvegicus,20250220,1
+81686,Mmp2,matrix metallopeptidase 2,10116,Rattus norvegicus,20250220,1
+81687,Mmp9,matrix metallopeptidase 9,10116,Rattus norvegicus,20250220,5
+81706,PPP1R14C,protein phosphatase 1 regulatory inhibitor subunit 14C,9606,Homo sapiens,20250220,1
+81736,Nfkb1,nuclear factor kappa B subunit 1,10116,Rattus norvegicus,20250220,1
+81737,Ntf3,neurotrophin 3,10116,Rattus norvegicus,20250220,1
+81780,Ccl5,C-C motif chemokine ligand 5,10116,Rattus norvegicus,20250220,1
+81818,Vim,vimentin,10116,Rattus norvegicus,20250220,1
+81846,SBF2,SET binding factor 2,9606,Homo sapiens,20250220,1
+81930,KIF18A,kinesin family member 18A,9606,Homo sapiens,20250220,1
+83442,SH3BGRL3,SH3 domain binding glutamate rich protein like 3,9606,Homo sapiens,20250220,1
+83507,Parg,poly (ADP-ribose) glycohydrolase,10116,Rattus norvegicus,20250220,1
+83516,Ppargc1a,PPARG coactivator 1 alpha,10116,Rattus norvegicus,20250220,1
+83619,Nfe2l2,NFE2 like bZIP transcription factor 2,10116,Rattus norvegicus,20250220,6
+83667,SESN2,sestrin 2,9606,Homo sapiens,20200512,1
+83785,Vegfa,vascular endothelial growth factor A,10116,Rattus norvegicus,20250220,6
+83939,EIF2A,eukaryotic translation initiation factor 2A,9606,Homo sapiens,20250220,4
+83983,TSSK6,testis specific serine kinase 6,9606,Homo sapiens,20250220,1
+83998,REG4,regenerating family member 4,9606,Homo sapiens,20200512,1
+84004,Mcam,melanoma cell adhesion molecule,10090,Mus musculus,20250220,1
+84024,Pon1,paraoxonase 1,10116,Rattus norvegicus,20250220,1
+84057,MND1,meiotic nuclear divisions 1,9606,Homo sapiens,20200512,2
+84072,HORMAD1,HORMA domain containing 1,9606,Homo sapiens,20250220,1
+84232,MAF1,"MAF1 homolog, negative regulator of RNA polymerase III",9606,Homo sapiens,20250220,1
+84287,ZDHHC16,zinc finger DHHC-type palmitoyltransferase 16,9606,Homo sapiens,20250220,1
+84328,LZIC,leucine zipper and CTNNBIP1 domain containing,9606,Homo sapiens,20250220,2
+84451,MAP3K21,mitogen-activated protein kinase kinase kinase 21,9606,Homo sapiens,20200512,1
+84482,Foxo1,forkhead box O1,10116,Rattus norvegicus,20250220,1
+84495,Xrcc1,X-ray repair cross complementing 1,10116,Rattus norvegicus,20250220,1
+84557,MAP1LC3A,microtubule associated protein 1 light chain 3 alpha,9606,Homo sapiens,20250220,9
+84668,HYCC1,hyccin PI4KA lipid kinase complex subunit 1,9606,Homo sapiens,20200512,1
+84747,UNC119B,unc-119 lipid binding chaperone B,9606,Homo sapiens,20250220,1
+84871,AGBL4,AGBL carboxypeptidase 4,9606,Homo sapiens,20250220,1
+84876,ORAI1,ORAI calcium release-activated calcium modulator 1,9606,Homo sapiens,20250220,1
+85431,Nox4,NADPH oxidase 4,10116,Rattus norvegicus,20250220,4
+85456,TNKS1BP1,tankyrase 1 binding protein 1,9606,Homo sapiens,20200512,4
+90342,FER1L5,fer-1 like family member 5,9606,Homo sapiens,20250220,1
+90632,LINC00473,long intergenic non-protein coding RNA 473,9606,Homo sapiens,20250220,4
+91662,NLRP12,NLR family pyrin domain containing 12,9606,Homo sapiens,20250220,1
+92140,MTDH,metadherin,9606,Homo sapiens,20250220,2
+92421,CHMP4C,charged multivesicular body protein 4C,9606,Homo sapiens,20200512,1
+92737,DNER,delta/notch like EGF repeat containing,9606,Homo sapiens,20250220,1
+92747,BPIFB1,BPI fold containing family B member 1,9606,Homo sapiens,20250220,1
+92797,HELB,DNA helicase B,9606,Homo sapiens,20250220,1
+93759,Sirt1,sirtuin 1,10090,Mus musculus,20250220,6
+93897,Fzd10,frizzled class receptor 10,10090,Mus musculus,20250220,2
+94241,TP53INP1,tumor protein p53 inducible nuclear protein 1,9606,Homo sapiens,20250220,1
+99982,Kdm1a,lysine (K)-specific demethylase 1A,10090,Mus musculus,20250220,1
+100206,Adprs,ADP-ribosylserine hydrolase,10090,Mus musculus,20250220,1
+101401,Adamts9,ADAM metallopeptidase with thrombospondin type 1 motif 9,10090,Mus musculus,20250220,1
+103573,Xpo1,exportin 1,10090,Mus musculus,20250220,1
+104418,Dgkz,diacylglycerol kinase zeta,10090,Mus musculus,20250220,1
+104434,Hsp84-3,"heat shock protein, 3",10090,Mus musculus,20250220,1
+108086,Rnf216,ring finger protein 216,10090,Mus musculus,20250220,1
+108138,Xrcc4,X-ray repair complementing defective repair in Chinese hamster cells 4,10090,Mus musculus,20250220,7
+109294,Prex2,"phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 2",10090,Mus musculus,20250220,2
+109615,Fcr,Fc receptor,10090,Mus musculus,20250220,1
+109648,Npy,neuropeptide Y,10090,Mus musculus,20250220,1
+109900,Asl,argininosuccinate lyase,10090,Mus musculus,20250220,1
+110196,Fdps,farnesyl diphosphate synthetase,10090,Mus musculus,20250220,1
+110454,Ly6a,lymphocyte antigen 6 family member A,10090,Mus musculus,20250220,4
+110628,Rip,regulation of phenobarbitol-inducible P450,10090,Mus musculus,20250220,1
+111058,Hsp86-ps1,"heat shock protein 86, pseudogene 1",10090,Mus musculus,20250220,1
+111334,Cd1,CD1 antigen complex,10090,Mus musculus,20250220,1
+111518,Cea,carcinoembryonic antigen gene family,10090,Mus musculus,20250220,2
+112476,PRRT2,proline rich transmembrane protein 2,9606,Homo sapiens,20250220,4
+113878,DTX2,deltex E3 ubiquitin ligase 2,9606,Homo sapiens,20250220,2
+113976,Acsl4,acyl-CoA synthetase long-chain family member 4,10116,Rattus norvegicus,20250220,1
+114108,Pdlim3,PDZ and LIM domain 3,10116,Rattus norvegicus,20250220,1
+114548,NLRP3,NLR family pyrin domain containing 3,9606,Homo sapiens,20200512,3
+114549,ache,acetylcholinesterase (Yt blood group),7955,Danio rerio,20250220,2
+114851,Cdkn1a,cyclin-dependent kinase inhibitor 1A,10116,Rattus norvegicus,20250220,1
+115004,CGAS,cyclic GMP-AMP synthase,9606,Homo sapiens,20250220,30
+116510,Timp1,TIMP metallopeptidase inhibitor 1,10116,Rattus norvegicus,20250220,1
+116511,MAS1L,"MAS1 proto-oncogene like, G protein-coupled receptor",9606,Homo sapiens,20200512,1
+116553,Il13,interleukin 13,10116,Rattus norvegicus,20250220,2
+116554,Mapk8,mitogen-activated protein kinase 8,10116,Rattus norvegicus,20250220,2
+116568,Ggt1,gamma-glutamyltransferase 1,10116,Rattus norvegicus,20250220,1
+116590,Mapk1,mitogen activated protein kinase 1,10116,Rattus norvegicus,20250220,3
+116686,Gsr,glutathione-disulfide reductase,10116,Rattus norvegicus,20250220,1
+117516,Tnfsf11,TNF superfamily member 11,10116,Rattus norvegicus,20250220,1
+121021,Cspg4,chondroitin sulfate proteoglycan 4,10090,Mus musculus,20250220,1
+121273,C12orf54,chromosome 12 open reading frame 54,9606,Homo sapiens,20250220,1
+121504,H4C16,H4 histone 16,9606,Homo sapiens,20200512,2
+126282,TNFAIP8L1,TNF alpha induced protein 8 like 1,9606,Homo sapiens,20250220,1
+128239,IQGAP3,IQ motif containing GTPase activating protein 3,9606,Homo sapiens,20250220,1
+129831,RBM45,RNA binding motif protein 45,9606,Homo sapiens,20200512,1
+131544,CRYBG3,crystallin beta-gamma domain containing 3,9606,Homo sapiens,20250220,4
+132112,RTP1,receptor transporter protein 1,9606,Homo sapiens,20200512,1
+133746,JMY,"junction mediating and regulatory protein, p53 cofactor",9606,Homo sapiens,20250220,2
+135228,CD109,CD109 molecule,9606,Homo sapiens,20250220,1
+140491,Ppp1r3a,"protein phosphatase 1, regulatory subunit 3A",10090,Mus musculus,20250220,6
+140703,Emid1,EMI domain containing 1,10090,Mus musculus,20250220,1
+140809,SRXN1,sulfiredoxin 1,9606,Homo sapiens,20250220,1
+140828,LINC00261,long intergenic non-protein coding RNA 261,9606,Homo sapiens,20250220,1
+140925,As3mt,arsenite methyltransferase,10116,Rattus norvegicus,20250220,1
+145270,PRIMA1,proline rich membrane anchor 1,9606,Homo sapiens,20250220,1
+146433,IL34,interleukin 34,9606,Homo sapiens,20250220,2
+148252,DIRAS1,DIRAS family GTPase 1,9606,Homo sapiens,20250220,1
+151246,SGO2,shugoshin 2,9606,Homo sapiens,20250220,1
+153090,DAB2IP,DAB2 interacting protein,9606,Homo sapiens,20200512,4
+155348,gag-pol,Gag-Pol,11676,Human immunodeficiency virus 1,20250220,1
+157570,ESCO2,establishment of sister chromatid cohesion N-acetyltransferase 2,9606,Homo sapiens,20250220,1
+158506,CBLL2,Cbl proto-oncogene like 2,9606,Homo sapiens,20250220,1
+158833,AWAT1,acyl-CoA wax alcohol acyltransferase 1,9606,Homo sapiens,20250220,1
+161725,OTUD7A,OTU deubiquitinase 7A,9606,Homo sapiens,20250220,1
+165918,RNF168,ring finger protein 168,9606,Homo sapiens,20200512,8
+170394,PWWP2B,PWWP domain containing 2B,9606,Homo sapiens,20250220,1
+170506,DHX36,DEAH-box helicase 36,9606,Homo sapiens,20250220,1
+170719,Oxr1,oxidation resistance 1,10090,Mus musculus,20250220,3
+170770,Bbc3,BCL2 binding component 3,10090,Mus musculus,20250220,1
+171052,Mmp13,matrix metallopeptidase 13,10116,Rattus norvegicus,20250220,1
+173468,alg-2,Protein argonaute-2,6239,Caenorhabditis elegans,20250220,1
+174793,xpf-1,ERCC4 domain-containing protein,6239,Caenorhabditis elegans,20250220,1
+175100,exl-1,Chloride intracellular channel exl-1,6239,Caenorhabditis elegans,20250220,1
+176660,his-72,Histone H3.3 type 2,6239,Caenorhabditis elegans,20250220,1
+177683,parg-1,Poly(ADP-ribose) glycohydrolase 1;poly(ADP-ribose) glycohydrolase,6239,Caenorhabditis elegans,20250220,1
+179439,crm-1,Cysteine-rich motor neuron 1 protein;Cysteine-rich motor neuron 1 protein-like,6239,Caenorhabditis elegans,20250220,1
+180102,syp-1,Uncharacterized protein,6239,Caenorhabditis elegans,20250220,1
+180894,lite-1,High-energy light unresponsive protein 1,6239,Caenorhabditis elegans,20250220,2
+181450,hpl-1,Chromobox protein homolog hpl-1,6239,Caenorhabditis elegans,20250220,2
+181545,his-24,Histone 24,6239,Caenorhabditis elegans,20250220,2
+182276,nhr-76,Nuclear hormone receptor family member nhr-76,6239,Caenorhabditis elegans,20250220,1
+186765,parg-2,Poly(ADP-ribose) glycohydrolase 2,6239,Caenorhabditis elegans,20250220,1
+191743,pmk-1,Mitogen-activated protein kinase pmk-1,6239,Caenorhabditis elegans,20250220,1
+193034,Trpv1,"transient receptor potential cation channel, subfamily V, member 1",10090,Mus musculus,20250220,2
+199990,FAAP20,FA core complex associated protein 20,9606,Homo sapiens,20250220,1
+200315,APOBEC3A,apolipoprotein B mRNA editing enzyme catalytic subunit 3A,9606,Homo sapiens,20250220,2
+200558,APLF,aprataxin and PNKP like factor,9606,Homo sapiens,20200512,2
+201254,CENPX,centromere protein X,9606,Homo sapiens,20200512,1
+201626,PDE12,phosphodiesterase 12,9606,Homo sapiens,20250220,1
+201973,PRIMPOL,primase and DNA directed polymerase,9606,Homo sapiens,20250220,2
+208194,Exog,exo/endonuclease G,10090,Mus musculus,20250220,1
+212670,Catsper2,"cation channel, sperm associated 2",10090,Mus musculus,20250220,2
+213541,Ythdf2,YTH N6-methyladenosine RNA binding protein 2,10090,Mus musculus,20250220,1
+214763,Cgas,cyclic GMP-AMP synthase,10090,Mus musculus,20250220,9
+215114,Hip1,huntingtin interacting protein 1,10090,Mus musculus,20250220,1
+216799,Nlrp3,"NLR family, pyrin domain containing 3",10090,Mus musculus,20250220,4
+217127,Kat7,K(lysine) acetyltransferase 7,10090,Mus musculus,20250220,1
+217866,Cdc42bpb,CDC42 binding protein kinase beta,10090,Mus musculus,20250220,2
+221613,H2AC1,H2A clustered histone 1,9606,Homo sapiens,20250220,1
+225182,Rbbp8,"retinoblastoma binding protein 8, endonuclease",10090,Mus musculus,20250220,1
+225192,Hrh4,histamine receptor H4,10090,Mus musculus,20250220,1
+225865,Catsper1,"cation channel, sperm associated 1",10090,Mus musculus,20250220,2
+226641,Atf6,activating transcription factor 6,10090,Mus musculus,20250220,1
+227157,Mpp4,"membrane protein, palmitoylated 4 (MAGUK p55 subfamily member 4)",10090,Mus musculus,20250220,1
+227525,Dclre1c,DNA cross-link repair 1C,10090,Mus musculus,20250220,1
+227622,Paxx,non-homologous end joining factor,10090,Mus musculus,20250220,2
+228140,Tnks1bp1,tankyrase 1 binding protein 1,10090,Mus musculus,20250220,1
+229317,Eif2a,eukaryotic translation initiation factor 2A,10090,Mus musculus,20250220,3
+230073,Rigi,RNA sensor RIG-I,10090,Mus musculus,20250220,1
+232440,H2aj,H2J.A histone,10090,Mus musculus,20250220,2
+240087,Mdc1,mediator of DNA damage checkpoint 1,10090,Mus musculus,20250220,1
+243819,Ppp6r1,"protein phosphatase 6, regulatory subunit 1",10090,Mus musculus,20250220,1
+245000,Atr,ataxia telangiectasia and Rad3 related,10090,Mus musculus,20250220,3
+246775,Tnfsf10,TNF superfamily member 10,10116,Rattus norvegicus,20250220,2
+253260,RICTOR,RPTOR independent companion of MTOR complex 2,9606,Homo sapiens,20250220,2
+259266,ASPM,assembly factor for spindle microtubules,9606,Homo sapiens,20200512,3
+259307,IL4I1,interleukin 4 induced 1,9606,Homo sapiens,20250220,1
+266807,Duox1,dual oxidase 1,10116,Rattus norvegicus,20250220,1
+268449,Rpl23a,ribosomal protein L23A,10090,Mus musculus,20250220,2
+268973,Nlrc4,"NLR family, CARD domain containing 4",10090,Mus musculus,20250220,1
+277328,Trpa1,"transient receptor potential cation channel, subfamily A, member 1",10090,Mus musculus,20250220,2
+280685,F2,"coagulation factor II, thrombin",9913,Bos taurus,20250220,1
+280717,ALB,albumin,9913,Bos taurus,20250220,1
+281724,CRYGS,crystallin gamma S,9913,Bos taurus,20250220,1
+282618,IFNL1,interferon lambda 1,9606,Homo sapiens,20250220,3
+282817,Pycard,PYD and CARD domain containing,10116,Rattus norvegicus,20250220,1
+283120,H19,H19 imprinted maternally expressed transcript,9606,Homo sapiens,20250220,6
+283871,PGP,phosphoglycolate phosphatase,9606,Homo sapiens,20250220,1
+286204,CRB2,crumbs cell polarity complex component 2,9606,Homo sapiens,20200512,1
+286257,PAXX,PAXX non-homologous end joining factor,9606,Homo sapiens,20250220,4
+287024,NOS3,nitric oxide synthase 3,9913,Bos taurus,20250220,1
+287287,Il4,interleukin 4,10116,Rattus norvegicus,20250220,1
+287362,Nlrp3,"NLR family, pyrin domain containing 3",10116,Rattus norvegicus,20250220,3
+293615,Sirt3,sirtuin 3,10116,Rattus norvegicus,20250220,2
+298648,Tardbp,TAR DNA binding protein,10116,Rattus norvegicus,20250220,1
+298947,Pik3cg,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit gamma",10116,Rattus norvegicus,20250220,2
+301227,Trem2,triggering receptor expressed on myeloid cells 2,10116,Rattus norvegicus,20250220,1
+301289,Il17a,interleukin 17A,10116,Rattus norvegicus,20250220,1
+301300,p53-ps,Wistar clone pR53P1 p53 pseudogene,10116,Rattus norvegicus,20250220,4
+302668,Ace2,angiotensin converting enzyme 2,10116,Rattus norvegicus,20250220,1
+303333,Slc46a1,solute carrier family 46 member 1,10116,Rattus norvegicus,20250220,1
+304407,Cldn4,claudin 4,10116,Rattus norvegicus,20250220,2
+304592,Orai2,ORAI calcium release-activated calcium modulator 2,10116,Rattus norvegicus,20250220,1
+309000,Orai3,ORAI calcium release-activated calcium modulator 3,10116,Rattus norvegicus,20250220,5
+309757,Sirt1,sirtuin 1,10116,Rattus norvegicus,20250220,3
+314322,Fos,"Fos proto-oncogene, AP-1 transcription factor subunit",10116,Rattus norvegicus,20250220,1
+319163,H2ac1,H2A clustered histone 1,10090,Mus musculus,20250220,1
+319583,Lig4,"ligase IV, DNA, ATP-dependent",10090,Mus musculus,20250220,3
+322358,hnf4a,"hepatocyte nuclear factor 4, alpha",7955,Danio rerio,20250220,1
+328483,Trav6-3,T cell receptor alpha variable 6-3,10090,Mus musculus,20250220,1
+328572,Ep300,E1A binding protein p300,10090,Mus musculus,20250220,1
+332578,Lcn10,lipocalin 10,10090,Mus musculus,20250220,1
+340061,STING1,stimulator of interferon response cGAMP interactor 1,9606,Homo sapiens,20250220,33
+340485,ACER2,alkaline ceramidase 2,9606,Homo sapiens,20250220,1
+346389,MACC1,MET transcriptional regulator MACC1,9606,Homo sapiens,20250220,1
+348654,GEN1,GEN1 Holliday junction 5' flap endonuclease,9606,Homo sapiens,20250220,1
+360918,Pf4,platelet factor 4,10116,Rattus norvegicus,20250220,1
+361537,Tyrobp,transmembrane immune signaling adaptor Tyrobp,10116,Rattus norvegicus,20250220,1
+363251,Nhej1,nonhomologous end-joining factor 1,10116,Rattus norvegicus,20250220,1
+363875,Rac1,Rac family small GTPase 1,10116,Rattus norvegicus,20250220,2
+367218,Runx2,RUNX family transcription factor 2,10116,Rattus norvegicus,20250220,1
+367901,Btk,Bruton tyrosine kinase,10116,Rattus norvegicus,20250220,1
+373156,GSTK1,glutathione S-transferase kappa 1,9606,Homo sapiens,20250220,1
+378425,Nlrp12,"NLR family, pyrin domain containing 12",10090,Mus musculus,20250220,1
+378938,MALAT1,metastasis associated lung adenocarcinoma transcript 1,9606,Homo sapiens,20250220,1
+380924,Olfm4,olfactomedin 4,10090,Mus musculus,20250220,1
+383619,Aim2,absent in melanoma 2,10090,Mus musculus,20250220,2
+387140,Mir21a,microRNA 21a,10090,Mus musculus,20250220,5
+387214,Mir218,microRNA 218,10090,Mus musculus,20250220,1
+387218,Mir26a-1,microRNA 26a-1,10090,Mus musculus,20250220,2
+389766,C9orf153,chromosome 9 open reading frame 153,9606,Homo sapiens,20250220,1
+393721,pin1,"peptidylprolyl cis/trans isomerase, NIMA-interacting 1",7955,Danio rerio,20250220,1
+393779,rprmb,"reprimo, TP53 dependent G2 arrest mediator candidate b",7955,Danio rerio,20250220,1
+395268,SSB,Sjogren syndrome antigen B,9031,Gallus gallus,20250220,1
+395615,SHH,sonic hedgehog,9031,Gallus gallus,20250220,1
+397333,CXADR,CXADR Ig-like cell adhesion molecule,9823,Sus scrofa,20250220,1
+397400,TGFB3,transforming growth factor beta 3,9823,Sus scrofa,20250220,2
+397926,tp53.L,tumor protein p53 L homeolog,8355,Xenopus laevis,20250220,1
+403869,TP53,tumor protein p53,9615,Canis lupus familiaris,20250220,1
+406130,Melt,melittin,7460,Apis mellifera,20250220,2
+406901,MIR107,microRNA 107,9606,Homo sapiens,20250220,3
+406915,MIR128-1,microRNA 128-1,9606,Homo sapiens,20250220,1
+406927,MIR136,microRNA 136,9606,Homo sapiens,20250220,2
+406936,MIR144,microRNA 144,9606,Homo sapiens,20250220,1
+406937,MIR145,microRNA 145,9606,Homo sapiens,20250220,2
+406942,MIR150,microRNA 150,9606,Homo sapiens,20250220,2
+406947,MIR155,microRNA 155,9606,Homo sapiens,20250220,1
+406949,MIR15B,microRNA 15b,9606,Homo sapiens,20250220,1
+406952,MIR17,microRNA 17,9606,Homo sapiens,20250220,3
+406959,MIR183,microRNA 183,9606,Homo sapiens,20250220,4
+406961,MIR185,microRNA 185,9606,Homo sapiens,20250220,2
+406977,MIR199A2,microRNA 199a-2,9606,Homo sapiens,20250220,1
+406979,MIR19A,microRNA 19a,9606,Homo sapiens,20250220,2
+406983,MIR200A,microRNA 200a,9606,Homo sapiens,20250220,1
+406985,MIR200C,microRNA 200c,9606,Homo sapiens,20250220,1
+406986,MIR203A,microRNA 203a,9606,Homo sapiens,20250220,1
+406989,MIR206,microRNA 206,9606,Homo sapiens,20250220,3
+406991,MIR21,microRNA 21,9606,Homo sapiens,20250220,10
+406992,MIR210,microRNA 210,9606,Homo sapiens,20250220,1
+407004,MIR22,microRNA 22,9606,Homo sapiens,20250220,1
+407007,MIR222,microRNA 222,9606,Homo sapiens,20250220,2
+407018,MIR27A,microRNA 27a,9606,Homo sapiens,20250220,1
+407021,MIR29A,microRNA 29a,9606,Homo sapiens,20250220,1
+407022,MIR296,microRNA 296,9606,Homo sapiens,20250220,1
+407024,MIR29B1,microRNA 29b-1,9606,Homo sapiens,20250220,1
+407037,MIR320A,microRNA 320a,9606,Homo sapiens,20250220,1
+407040,MIR34A,microRNA 34a,9606,Homo sapiens,20250220,2
+407045,MIR7-3,microRNA 7-3,9606,Homo sapiens,20250220,3
+407052,MIR95,microRNA 95,9606,Homo sapiens,20250220,1
+407975,MIR17HG,miR-17-92a-1 cluster host gene,9606,Homo sapiens,20250220,1
+433759,Hdac1,histone deacetylase 1,10090,Mus musculus,20250220,2
+440894,LINC01123,long intergenic non-protein coding RNA 1123,9606,Homo sapiens,20250220,1
+442900,MIR326,microRNA 326,9606,Homo sapiens,20250220,1
+442904,MIR335,microRNA 335,9606,Homo sapiens,20250220,2
+442919,MIR374A,microRNA 374a,9606,Homo sapiens,20250220,1
+478232,MTOR,mechanistic target of rapamycin kinase,9615,Canis lupus familiaris,20250220,1
+479450,ATM,ATM serine/threonine kinase,9615,Canis lupus familiaris,20250220,3
+492305,cdkn1a.L,cyclin-dependent kinase inhibitor 1A L homeolog,8355,Xenopus laevis,20250220,1
+493861,EID3,EP300 interacting inhibitor of differentiation 3,9606,Homo sapiens,20250220,1
+494333,MIR384,microRNA 384,9606,Homo sapiens,20250220,1
+497672,Brca1,"BRCA1, DNA repair associated",10116,Rattus norvegicus,20250220,1
+526824,ATM,ATM serine/threonine kinase,9913,Bos taurus,20250220,1
+528168,ACTE1,actin epsilon 1,9913,Bos taurus,20250220,2
+543313,LOC543313,peroxidase-like,4565,Triticum aestivum,20250220,1
+546644,Ly6g,lymphocyte antigen 6 family member G,10090,Mus musculus,20250220,1
+548596,CKMT1A,"creatine kinase, mitochondrial 1A",9606,Homo sapiens,20250220,1
+552900,BOLA2,bolA family member 2,9606,Homo sapiens,20250220,1
+554212,MIR448,microRNA 448,9606,Homo sapiens,20250220,1
+554213,MIR449A,microRNA 449a,9606,Homo sapiens,20250220,2
+558154,vegfab,vascular endothelial growth factor Ab,7955,Danio rerio,20250220,1
+569226,irak1,interleukin-1 receptor-associated kinase 1,7955,Danio rerio,20250220,1
+573997,zgc:113984,zgc:113984,7955,Danio rerio,20250220,1
+574058,CD274,CD274 molecule,9823,Sus scrofa,20250220,5
+574448,MIR202,microRNA 202,9606,Homo sapiens,20250220,1
+574453,MIR495,microRNA 495,9606,Homo sapiens,20250220,1
+574455,MIR193B,microRNA 193b,9606,Homo sapiens,20250220,1
+574456,MIR497,microRNA 497,9606,Homo sapiens,20250220,1
+574457,MIR181D,microRNA 181d,9606,Homo sapiens,20250220,1
+574460,MIR498,microRNA 498,9606,Homo sapiens,20250220,1
+610120,WWOX,WW domain containing oxidoreductase,9615,Canis lupus familiaris,20250220,2
+623474,Rad54b,RAD54 homolog B (S. cerevisiae),10090,Mus musculus,20250220,1
+625249,Gpx4,glutathione peroxidase 4,10090,Mus musculus,20250220,1
+644914,H3P16,H3 histone pseudogene 16,9606,Homo sapiens,20250220,13
+652995,UCA1,urothelial cancer associated 1,9606,Homo sapiens,20250220,1
+653247,PRB2,proline rich protein BstNI subfamily 2,9606,Homo sapiens,20250220,1
+691631,Pacs2,phosphofurin acidic cluster sorting protein 2,10116,Rattus norvegicus,20250220,1
+693123,MIR449B,microRNA 449b,9606,Homo sapiens,20250220,1
+693174,MIR589,microRNA 589,9606,Homo sapiens,20250220,2
+693188,MIR603,microRNA 603,9606,Homo sapiens,20250220,1
+693208,MIR623,microRNA 623,9606,Homo sapiens,20250220,1
+693210,MIR625,microRNA 625,9606,Homo sapiens,20250220,3
+693235,MIR92B,microRNA 92b,9606,Homo sapiens,20250220,1
+723848,Mir34a,microRNA 34a,10090,Mus musculus,20250220,2
+723909,Mir342,microRNA 342,10090,Mus musculus,20250220,1
+723930,Mir335,microRNA 335,10090,Mus musculus,20250220,1
+724033,MIR663A,microRNA 663a,9606,Homo sapiens,20250220,2
+728192,LINC00460,long intergenic non-protein coding RNA 460,9606,Homo sapiens,20250220,1
+816650,XCT,XAP5 family protein,3702,Arabidopsis thaliana,20250220,1
+818903,PIF4,phytochrome interacting factor 4,3702,Arabidopsis thaliana,20250220,2
+819326,SDR3,NAD(P)-binding Rossmann-fold superfamily protein,3702,Arabidopsis thaliana,20250220,1
+821806,AOX1A,alternative oxidase 1A,3702,Arabidopsis thaliana,20250220,1
+825294,SDR1,NAD(P)-binding Rossmann-fold superfamily protein,3702,Arabidopsis thaliana,20250220,1
+827854,BRCA1,breast cancer susceptibility1,3702,Arabidopsis thaliana,20250220,1
+828049,PARP2,poly(ADP-ribose) polymerase,3702,Arabidopsis thaliana,20250220,1
+831258,AT5G14090,regulator of nonsense transcript protein,3702,Arabidopsis thaliana,20250220,1
+831369,TDP1,tyrosyl-DNA phosphodiesterase-like protein,3702,Arabidopsis thaliana,20250220,1
+831560,AER,alkenal reductase,3702,Arabidopsis thaliana,20250220,1
+832208,RAD51,RAS associated with diabetes protein 51,3702,Arabidopsis thaliana,20250220,2
+835822,ATLIG4,DNA ligase IV,3702,Arabidopsis thaliana,20250220,2
+836499,NAC102,NAC domain containing protein 102,3702,Arabidopsis thaliana,20250220,1
+836527,NAC103,NAC domain containing protein 103,3702,Arabidopsis thaliana,20250220,1
+838268,KU70,ATP-dependent DNA helicase 2 subunit Ku70-like protein,3702,Arabidopsis thaliana,20250220,2
+839145,SOG1,NAC (No Apical Meristem) domain transcriptional regulator superfamily protein,3702,Arabidopsis thaliana,20250220,6
+841020,ALDH3H1,aldehyde dehydrogenase 3H1,3702,Arabidopsis thaliana,20250220,1
+841910,GAMMA-H2AX,gamma histone ,3702,Arabidopsis thaliana,20250220,1
+851218,NTG1,bifunctional N-glycosylase/AP lyase NTG1,559292,Saccharomyces cerevisiae S288C,20250220,1
+851648,RAD55,putative DNA-dependent ATPase RAD55,559292,Saccharomyces cerevisiae S288C,20250220,1
+851803,RAD9,chromatin-binding protein RAD9,559292,Saccharomyces cerevisiae S288C,20250220,1
+852433,MEC1,protein kinase MEC1,559292,Saccharomyces cerevisiae S288C,20250220,1
+853252,SWE1,tyrosine protein kinase SWE1,559292,Saccharomyces cerevisiae S288C,20250220,1
+853747,RAD27,multifunctional nuclease RAD27,559292,Saccharomyces cerevisiae S288C,20250220,1
+854198,EXO1,Rad2 family nuclease EXO1,559292,Saccharomyces cerevisiae S288C,20250220,1
+854942,OGG1,8-oxoguanine glycosylase OGG1,559292,Saccharomyces cerevisiae S288C,20250220,1
+854976,RAD52,recombinase RAD52,559292,Saccharomyces cerevisiae S288C,20250220,2
+855228,SGS1,ATP-dependent DNA helicase SGS1,559292,Saccharomyces cerevisiae S288C,20250220,1
+855264,MRE11,MRX complex nuclease subunit,559292,Saccharomyces cerevisiae S288C,20250220,1
+855328,YKU70,ATP-dependent DNA helicase YKU70,559292,Saccharomyces cerevisiae S288C,20250220,1
+855427,PCL1,Pcl1p,559292,Saccharomyces cerevisiae S288C,20250220,1
+855471,RAD50,MRX complex DNA-binding subunit,559292,Saccharomyces cerevisiae S288C,20250220,1
+856831,RAD51,recombinase RAD51,559292,Saccharomyces cerevisiae S288C,20250220,1
+880173,recA,recombinase A,208964,Pseudomonas aeruginosa PAO1,20250220,1
+944566,X,X protein,10407,Hepatitis B virus,20250220,1
+2768677,p53,p53,7227,Drosophila melanogaster,20250220,1
+100008899,VEGFA,vascular endothelial growth factor A,9986,Oryctolagus cuniculus,20250220,1
+100008982,SPP1,secreted phosphoprotein 1,9986,Oryctolagus cuniculus,20250220,1
+100009349,BMP2,bone morphogenetic protein 2,9986,Oryctolagus cuniculus,20250220,2
+100035930,Sdtq11,skull development traits QTL 11,10090,Mus musculus,20250220,1
+100048912,CDKN2B-AS1,CDKN2B and CDKN2A antisense cis and trans regulatory RNA 1,9606,Homo sapiens,20250220,3
+100124700,HOTAIR,HOX transcript antisense RNA,9606,Homo sapiens,20250220,3
+100126308,MIR541,microRNA 541,9606,Homo sapiens,20250220,1
+100126325,MIR935,microRNA 935,9606,Homo sapiens,20250220,3
+100133941,CD24,CD24 molecule,9606,Homo sapiens,20200512,2
+100151416,cdkn1a,cyclin dependent kinase inhibitor 1A,7955,Danio rerio,20250220,1
+100188847,MIR1225,microRNA 1225,9606,Homo sapiens,20250220,1
+100302116,MIR1265,microRNA 1265,9606,Homo sapiens,20250220,1
+100302133,MIR1287,microRNA 1287,9606,Homo sapiens,20250220,1
+100302142,MIR1246,microRNA 1246,9606,Homo sapiens,20250220,2
+100302184,MIR1272,microRNA 1272,9606,Homo sapiens,20250220,1
+100302225,MIR2053,microRNA 2053,9606,Homo sapiens,20250220,1
+100314000,Mir21,microRNA 21,10116,Rattus norvegicus,20250220,2
+100314015,Mir34a,microRNA 34a,10116,Rattus norvegicus,20250220,1
+100314214,Mir33,microRNA 33,10116,Rattus norvegicus,20250220,1
+100337759,MORC2,MORC family CW-type zinc finger 2,9986,Oryctolagus cuniculus,20250220,1
+100339381,PCNA,proliferating cell nuclear antigen,9986,Oryctolagus cuniculus,20250220,1
+100343645,NAMPT,nicotinamide phosphoribosyltransferase,9986,Oryctolagus cuniculus,20250220,1
+100343670,CD34,CD34 molecule,9986,Oryctolagus cuniculus,20250220,1
+100355796,XRCC4,X-ray repair cross complementing 4,9986,Oryctolagus cuniculus,20250220,1
+100361818,Nfatc1,nuclear factor of activated T-cells 1,10116,Rattus norvegicus,20250220,1
+100422833,MIR3188,microRNA 3188,9606,Homo sapiens,20250220,1
+100422915,MIR3065,microRNA 3065,9606,Homo sapiens,20250220,1
+100422994,MIR4267,microRNA 4267,9606,Homo sapiens,20250220,2
+100422997,MIR4257,microRNA 4257,9606,Homo sapiens,20250220,1
+100423023,MIR3197,microRNA 3197,9606,Homo sapiens,20250220,2
+100500835,MIR3907,microRNA 3907,9606,Homo sapiens,20250220,1
+100505641,FGD5-AS1,FGD5 antisense RNA 1,9606,Homo sapiens,20250220,2
+100506305,LINC00958,long intergenic non-protein coding RNA 958,9606,Homo sapiens,20250220,3
+100506365,OTUD6B-AS1,OTUD6B antisense RNA 1 (head to head),9606,Homo sapiens,20250220,1
+100506658,OCLN,occludin,9606,Homo sapiens,20200512,4
+100506994,PTPRG-AS1,PTPRG antisense RNA 1,9606,Homo sapiens,20250220,1
+100514962,MEAK7,"MTOR associated protein, eak-7 homolog",9823,Sus scrofa,20250220,1
+100519604,XRCC1,X-ray repair cross complementing 1,9823,Sus scrofa,20250220,1
+100616166,MIR4796,microRNA 4796,9606,Homo sapiens,20250220,2
+100616281,MIR4788,microRNA 4788,9606,Homo sapiens,20250220,1
+100689463,Parp1,poly(ADP-ribose) polymerase 1,10029,Cricetulus griseus,20250220,2
+100754226,LOC100754226,serine-protein kinase ATM,10029,Cricetulus griseus,20250220,1
+100847037,MIR5001,microRNA 5001,9606,Homo sapiens,20250220,1
+100847059,MIR5094,microRNA 5094,9606,Homo sapiens,20250220,2
+100860831,BMP2,bone morphogenetic protein 2,9925,Capra hircus,20250220,1
+100862684,ERVK-24,endogenous retrovirus group K member 24,9606,Homo sapiens,20200512,2
+101083135,UCHL3,ubiquitin C-terminal hydrolase L3,9685,Felis catus,20250220,1
+101092729,PRDX6,peroxiredoxin 6,9685,Felis catus,20250220,1
+101108373,BARD1,BRCA1 associated RING domain 1,9940,Ovis aries,20250220,1
+101169533,ogg1,8-oxoguanine DNA glycosylase,8090,Oryzias latipes,20250220,1
+101174634,mdm2,MDM2 proto-oncogene,8090,Oryzias latipes,20250220,1
+101805488,CCAT2,colon cancer associated transcript 2,9606,Homo sapiens,20250220,3
+101902760,LOC101902760,ubiquitin,9913,Bos taurus,20250220,2
+102157402,AK6,adenylate kinase 6,9606,Homo sapiens,20250220,1
+105259599,H19-ICR,H19/IGF2 imprinting control region,9606,Homo sapiens,20250220,1
+105416157,NKILA,NF-kappaB interacting lncRNA,9606,Homo sapiens,20250220,3
+106588823,LOC106588823,geminin DNA replication inhibitor,8030,Salmo salar,20250220,1
+108348108,Hspa1b,heat shock protein family A (Hsp70) member 1B,10116,Rattus norvegicus,20250220,1
+108570035,LINP1,lncRNA in non-homologous end joining pathway 1,9606,Homo sapiens,20250220,3
