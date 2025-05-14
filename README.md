@@ -1,10 +1,12 @@
-ASPIRE
-===
-![ASPIRE](pictures/logo.png "ASPIRE logo")
+
+<div align="center">
+  <img src="pictures/logo.png" alt="ASPIRE logo" width="180">
+</div>
 
 Description
 ===
-ASPIRE(A Software sPecialized In Radiation-related gene Extraction) is a software for extracting radiation-related genes from biomedical literature efficiently.The software obtains potential radiation-related genes and sentences from the literature, and leverages large models to analyze newly published literature in real time, and interactively displays genes and their bioinformatics annotations via knowledge graphs.
+We developed **ASPIRE(A Software sPecialized In Radiation-related gene Extraction)**, which is a software for extracting radiation-related genes from biomedical literature efficiently.  
+The software obtains potential radiation-related genes and sentences from the literature, and leverages large models to analyze newly published literature in real time, and interactively displays genes and their bioinformatics annotations via knowledge graphs.
 
 Dependencies
 ===
