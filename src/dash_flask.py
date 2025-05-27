@@ -279,8 +279,8 @@ def update_graph_and_table(selected_time, selected_pathway):
     gene_info_df = read_csv(new_gene_info_path)
     gene_pathway_results_df = read_csv(new_gene_pathway_path)
 
-    significant_pathways = gene_pathway_results_df[gene_pathway_results_df['pvalue'] < 0.02]
-    other_pathways = gene_pathway_results_df[gene_pathway_results_df['pvalue'] >= 0.02]
+    significant_pathways = gene_pathway_results_df[gene_pathway_results_df['pvalue'] < 0.05]
+    other_pathways = gene_pathway_results_df[gene_pathway_results_df['pvalue'] >= 0.05]
 
     all_time_options = [{'label': time, 'value': time} for time in gene_info_df['time_added_to_KG'].unique()]
     all_time_options.insert(0, {'label': 'ALL TIME', 'value': 'ALL TIME'})
